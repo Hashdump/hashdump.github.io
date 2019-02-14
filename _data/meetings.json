@@ -4,7 +4,7 @@
 			"date": "October 9th, 2018",
 			"title": "VM/Container Security",
 			"summary": "Hashdump officer Adam Smith will be giving a presentation on the exploits, security best practices, and pros/cons of virtual machines and containers.",
-			"picture": "meetingblank.jpg",
+			"picture": "kali_green_red.jpg",
 			"links": [
 			]
 		},
@@ -12,7 +12,7 @@
 			"date": "October 16th, 2018",
 			"title": "More Than Lockpicking",
 			"summary": "Here comes the ever popular lock picking session, but this time we will get into lock impressioning and general key cutting with Ben Say. (Bring tubular lock picks you have any)",
-			"picture": "meetingblank.jpg",
+			"picture": "lockpicking.jpg",
 			"links": [
 			]
 		},
@@ -20,7 +20,7 @@
 			"date": "October 23rd, 2018",
 			"title": "VM Exploitation",
 			"summary": "Noah Cain will be giving a demonstration on how to exploit and gain root access to a virtual machine!",
-			"picture": "meetingblank.jpg",
+			"picture": "kali_green_red.jpg",
 			"links": [
 			]
 		},
@@ -36,11 +36,23 @@
 			"date": "January 29th, 2019",
 			"title": "First RMCCDC Meeting",
 			"summary": "Start of RMCCDC Practice, join the red or blue team and study up on vulnerabilities. Future meetings will consist of exploiting and hardening them.",
-			"picture": "meetingblank.jpg",
+			"picture": "RMCCDC.png",
 			"links": [
 				{
 					"url": "http://rmccdc.regis.edu/",
 					"name": "RMCCDC"
+				},
+				{
+					"url": "https://www.bloomberg.com/news/articles/2019-01-29/apple-bug-lets-iphone-users-listen-in-on-others-via-facetime?srnd=premium%22%3EApple",
+					"name": "Apple FaceTime Listening Bug"
+				},
+				{
+					"url": "https://www.nytimes.com/2018/12/20/us/politics/us-and-other-nations-to-announce-china-crackdown.html",
+					"name": "US accuses China of infiltrating tech"
+				},
+				{
+					"url": "https://collegian.com/2018/09/greg-myre-visits-csu-discusses-current-state-of-national-security/",
+					"name": "Greg Myre visits CSU"
 				}
 			]
 		},
@@ -48,11 +60,15 @@
 			"date": "Febuary 5th, 2019",
 			"title": "Second RMCCDC Meeting",
 			"summary": "Day two of the RMCCDC practice. The Red and Blue team get to put what they learned into action.",
-			"picture": "meetingblank.jpg",
+			"picture": "RMCCDC.png",
 			"links": [
 				{
-					"url": "http://rmccdc.regis.edu/",
-					"name": "RMCCDC"
+					"url": "https://www.forbes.com/sites/leemathews/2017/12/11/billion-hacked-passwords-dark-web/",
+					"name": "Breach of Credentials"
+				},
+				{
+					"url": "https://haveibeenpwned.com",
+					"name": "Have I Been Pwned"
 				}
 			]
 		},
@@ -60,7 +76,7 @@
 			"date": "Febuary 12th, 2019",
 			"title": "Introduction to Network Forensics",
 			"summary": "Jordan is giving a presentation on network forensics. There will be a hands-on activity, so bring your own laptops, and check your email for instructions on installing Wireshark!",
-			"picture": "meetingblank.jpg",
+			"picture": "wireshark.jpeg",
 			"links": [
 			]
 		},
@@ -68,12 +84,28 @@
 			"date": "Febuary 19th, 2019",
 			"title": "Third RMCCDC Meeting",
 			"summary": "Day three of the RMCCDC practice. The Red and Blue team get to put what they learned into action.",
-			"picture": "meetingblank.jpg",
+			"picture": "RMCCDC.png",
 			"links": [
 				{
 					"url": "http://rmccdc.regis.edu/",
 					"name": "RMCCDC"
 				}
+			]
+		},
+		{
+			"date": "Febuary 26th, 2019",
+			"title": "TBD",
+			"summary": "TBD",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "March 5th, 2019",
+			"title": "TBD",
+			"summary": "TBD",
+			"picture": "meetingblank.jpg",
+			"links": [
 			]
 		}
 	]
