@@ -1,0 +1,80 @@
+{
+	"meetings":[
+		{
+			"date": "October 9th, 2018",
+			"title": "VM/Container Security",
+			"summary": "Hashdump officer Adam Smith will be giving a presentation on the exploits, security best practices, and pros/cons of virtual machines and containers.",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "October 16th, 2018",
+			"title": "More Than Lockpicking",
+			"summary": "Here comes the ever popular lock picking session, but this time we will get into lock impressioning and general key cutting with Ben Say. (Bring tubular lock picks you have any)",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "October 23rd, 2018",
+			"title": "VM Exploitation",
+			"summary": "Noah Cain will be giving a demonstration on how to exploit and gain root access to a virtual machine!",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "October 30th, 2018",
+			"title": "Cyber Feud/Costume Party",
+			"summary": "We asked a fair amount of students… name a better way to spend Halloween Eve than playing Cyber Feud! Teams will compete to find out how fellow CSU students answered questions about cybersecurity. There will also be a cybersecurity costume contest – low effort is encouraged!",
+			"picture": "halloween.png",
+			"links": [
+			]
+		},
+		{
+			"date": "January 29th, 2019",
+			"title": "First RMCCDC Meeting",
+			"summary": "Start of RMCCDC Practice, join the red or blue team and study up on vulnerabilities. Future meetings will consist of exploiting and hardening them.",
+			"picture": "meetingblank.jpg",
+			"links": [
+				{
+					"url": "http://rmccdc.regis.edu/",
+					"name": "RMCCDC"
+				}
+			]
+		},
+		{
+			"date": "Febuary 5th, 2019",
+			"title": "Second RMCCDC Meeting",
+			"summary": "Day two of the RMCCDC practice. The Red and Blue team get to put what they learned into action.",
+			"picture": "meetingblank.jpg",
+			"links": [
+				{
+					"url": "http://rmccdc.regis.edu/",
+					"name": "RMCCDC"
+				}
+			]
+		},
+		{
+			"date": "Febuary 12th, 2019",
+			"title": "Introduction to Network Forensics",
+			"summary": "Jordan is giving a presentation on network forensics. There will be a hands-on activity, so bring your own laptops, and check your email for instructions on installing Wireshark!",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "Febuary 19th, 2019",
+			"title": "Third RMCCDC Meeting",
+			"summary": "Day three of the RMCCDC practice. The Red and Blue team get to put what they learned into action.",
+			"picture": "meetingblank.jpg",
+			"links": [
+				{
+					"url": "http://rmccdc.regis.edu/",
+					"name": "RMCCDC"
+				}
+			]
+		}
+	]
+}

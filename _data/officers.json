@@ -1,0 +1,46 @@
+{
+	"officers":[
+		{
+			"title": "President",
+			"email": "president {at} hashdump {dot} org",
+			"name": "Jordan Peterson",
+			"picture": "jordan_peterson.jpg",
+			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+		},
+		{
+			"title": "Vice President",
+			"email": "vicepresident {at} hashdump {dot} org",
+			"name": "Susanna Kyler",
+			"picture": "susanna_kyler.jpg",
+			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+		},
+		{
+			"title": "Webmaster",
+			"email": "webmaster {at} hashdump {dot} org",
+			"name": "Tyler Schultz",
+			"picture": "tyler_schultz.jpeg",
+			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+		},
+		{
+			"title": "Sys Admin",
+			"email": "sysAdmin {at} hashdump {dot} org",
+			"name": "Bruce Darcy",
+			"picture": "bruce_darcy.jpeg",
+			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+		},
+		{
+			"title": "Secretary",
+			"email": "secretary {at} hashdump {dot} org",
+			"name": "Addie Newman",
+			"picture": "addie_newman.jpeg",
+			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+		},
+		{
+			"title": "Treasurer",
+			"email": "treasurer {at} hashdump {dot} org",
+			"name": "Cooper Wiegand",
+			"picture": "cooper_wiegand.jpg",
+			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+		}	
+	]
+}

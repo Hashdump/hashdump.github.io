@@ -1,0 +1,29 @@
+---
+permalink: /officers/
+---
+{% assign title = 'Officers' %}
+{% include header.html %}
+
+<div style="col-md-12">
+{% for member in site.data.officers.officers %}
+{% assign uri = '/images/' | append: member.picture %}
+	{% assign i = i | plus: 1 %}
+	<div class="col-md-4 w3-margin-bottom">
+		<div class="col-md-12 background-foreground text-default" style="padding-right:0px;padding-left:0px" future-date="{{ meeting.date | date: '%Y/%m/%d' }}">
+			<img class="w3-circle" src={{ uri }} style="width:50%;" alt="officer">
+			<div style="padding:10px" class="background-foreground hashdump-card">
+				<h4>{{ member.name }}</h4>
+				<h5>{{ member.title }}</h5>		
+				<p>{{ member.bio }}</p>
+			</div>
+		</div>
+	</div>
+	{% if i == 3 %}
+		<div class="clearfix"></div>
+		{% assign i = 0 %}
+	{% endif %}
+{% endfor %}
+</div>
+
+
+{% include footer.html %}

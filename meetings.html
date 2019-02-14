@@ -1,0 +1,60 @@
+---
+permalink: /meetings/
+---
+{% assign title = 'Meetings' %}
+{% include header.html %}
+
+{% assign i = 0 %}
+<div style="col-md-12">
+{% for meeting in site.data.meetings.meetings reversed%}
+	{% assign uri = '/images/' | append: meeting.picture %}
+	{% assign i = i | plus: 1 %}
+	<div class="col-md-4 w3-margin-bottom" future-date="{{ meeting.date | date: '%Y/%m/%d' }}">
+		<div class="col-md-12 text-default" style="padding-right:0px;padding-left:0px">
+			<img src={{ uri }}  alt="image" class="hashdump-card-image"/>
+			<div style="padding:10px" class="background-foreground hashdump-card">
+				<h4>{{ meeting.title }}</h4>
+				<h5><span class="">{{ meeting.date }}</span></h5>
+				<p>{{ meeting.summary }}</p>
+				{% for link in meeting.links%}
+					<a href={{ link.url }} target="_blank">{{ link.name }}</a><br>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+	{% if i == 3 %}
+		<div class="clearfix"></div>
+		{% assign i = 0 %}
+	{% endif %}
+{% endfor %}
+</div>
+
+{% include footer.html %}
+
+<script>
+$(function() {
+	lowest = 0;
+	for (var fd of $('[future-date]')){
+		meetDate = new Date($(fd).attr('future-date'));
+		meetDate.setHours(19);
+		meetDate.setMinutes(0);
+		today = new Date();
+		if ( meetDate >= today){
+			if (meetDate < lowest || lowest === 0){
+				lowest = meetDate;
+			}
+		}
+	}
+	for (var fd of $('[future-date]')){
+		meetDate = new Date($(fd).attr('future-date'));
+		meetDate.setHours(19);
+		meetDate.setMinutes(0);
+		if ( meetDate.getTime() === new Date(lowest).getTime()){
+			$(fd).find('h5>span').addClass('w3-tag w3-round background-red');
+			$('html, body').animate({
+				scrollTop: $(fd).offset().top - 100
+			},1000);
+		}
+	}
+});
+</script>

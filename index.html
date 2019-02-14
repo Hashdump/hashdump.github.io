@@ -1,0 +1,73 @@
+---
+permalink: /
+---
+{% assign title = 'Home' %}
+{% include header.html %}
+
+		<div class="col-md-12 text-default w3-margin-bottom">
+			<h2 class="w3-hide-small">Welcome to CSU's Hashdump Security Club</h2>
+			<h2 class="w3-hide-large">Hashdump Security Club</h2>
+			<h5><span class="w3-tag w3-round background-red">Tuesdays 5:30 pm | CSB 130</span></h5>
+			<p>Our goal is to increase awareness of physical, social, and electronic security. Our club participates in various security competitions, hosts demos and workshops, and invites speakers to come and share some of their real world experiences. All majors are welcome to join and participate.</p>
+			<p>Want to get connected? Join our <a href="slack://channel?id=C4HP7E3SA&team=T4GCPCTPB" target="_blank">slack</a> channel.</p>
+		</div>
+
+
+<div class="col-md-12">
+	<hr />
+	<h4>Upcomming Meetings:</h4>
+</div>
+		
+<div class="col-md-12">
+{% for meeting in site.data.meetings.meetings%}
+{% assign uri = '/images/' | append: meeting.picture %}
+	<div class="col-md-4 w3-margin-bottom" future-date="{{ meeting.date | date: '%Y/%m/%d' }}">
+		<div class="col-md-12 text-default" style="padding-right:0px;padding-left:0px">
+			<img src={{ uri }}  alt="image"  class="hashdump-card-image">
+			<div style="padding:10px" class="background-foreground hashdump-card">
+				<h4>{{ meeting.title }}</h4>
+				<h5><span class="">{{ meeting.date }}</span></h5>
+				<p>{{ meeting.summary }}</p>
+				{% for link in meeting.links%}
+					<a href={{ link.url }} target="_blank">{{ link.name }}</a><br>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+{% endfor %}
+<div class="clearfix"></div>
+</div>
+
+{% include footer.html %}
+
+<script>
+$(function() {
+	lowest = 0;
+		today = new Date();
+	for (var fd of $('[future-date]')){
+		meetDate = new Date($(fd).attr('future-date'));
+		meetDate.setHours(19);
+		meetDate.setMinutes(0);
+		if ( meetDate >= today){
+			if (meetDate < lowest || lowest === 0){
+				lowest = meetDate;
+			}
+		}
+	}
+	var execptions = 2;
+	for (var fd of $('[future-date]')){
+		meetDate = new Date($(fd).attr('future-date'));
+		meetDate.setHours(19);
+		meetDate.setMinutes(0);
+		if ( meetDate.getTime() !== new Date(lowest).getTime()){
+			if (meetDate.getTime() > today && execptions > 0){
+				execptions = execptions - 1;
+			}else{
+				$(fd).remove();
+			}
+		}else{
+			$(fd).find('h5>span').addClass('w3-tag w3-round background-red');
+		}
+	}
+});
+</script>

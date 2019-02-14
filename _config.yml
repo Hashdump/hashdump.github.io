@@ -1,0 +1,7 @@
+markdown: kramdown
+theme: minima
+
+title: Hashdump
+repository: https://github.com/Hashdump/hashdump.github.io
+timezone: America/Denver
+description: Colorado State University's Hashdump Security Club. Come visit us.
