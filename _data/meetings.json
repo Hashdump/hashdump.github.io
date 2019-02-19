@@ -75,9 +75,25 @@
 		{
 			"date": "Febuary 12th, 2019",
 			"title": "Introduction to Network Forensics",
-			"summary": "Jordan is giving a presentation on network forensics. There will be a hands-on activity, so bring your own laptops, and check your email for instructions on installing Wireshark!",
+			"summary": "<li>Jordan presents on Network Forensics, a.k.a. the digital conversations between machines</li><li>Want to know when did it happen, where did it come from, the scope of the attack and how it happened</li><li>Used Wireshark to view collected packets and filter through them to see the communications we care about</li><li>Went to http://forensicscontest.com and completed Puzzle #1 Ann’s Bad Aim</li><li>Used https://hexed.it to look at the bytes of raw data from Wireshark</li>",
 			"picture": "wireshark.jpeg",
 			"links": [
+				{
+					"url": "https://www.wired.com/story/password-checkup-chrome-extension/",
+					"name": "Google Chrome offers an extension to see if email and password combinations are secure "
+				},
+				{
+					"https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/",
+					"70% of all Microsoft security bugs are from memory issues due to coding in C and C++"
+				},
+				{
+					"https://threatpost.com/attackers-completely-destroy-vfemails-secure-mail-infrastructure/141748/",
+					"VFEmail mail infrastructure was completely destroyed"
+				},
+				{
+					"https://www.theverge.com/2019/2/11/18216134/reddit-tencent-investment-deal-memes-amount-winnie-the-pooh-tank-man-china",
+					"Chinese company Tencent buys Reddit stock"
+				}
 			]
 		},
 		{
