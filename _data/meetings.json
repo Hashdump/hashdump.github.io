@@ -35,7 +35,7 @@
 		{
 			"date": "January 29th, 2019",
 			"title": "First RMCCDC Meeting",
-			"summary": "Start of RMCCDC Practice, join the red or blue team and study up on vulnerabilities. Future meetings will consist of exploiting and hardening them.",
+			"summary": "<li>Start of RMCCDC Practice</li><br>join the red or blue team and study up on vulnerabilities. Future meetings will consist of exploiting and hardening them.",
 			"picture": "RMCCDC.png",
 			"links": [
 				{
