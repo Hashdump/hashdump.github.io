@@ -110,9 +110,9 @@
 		},
 		{
 			"date": "Febuary 26th, 2019",
-			"title": "TBD",
-			"summary": "TBD",
-			"picture": "meetingblank.jpg",
+			"title": "SQL injection/buffer overflow demo",
+			"summary": "Hashdump Officer Bruce will be giving a presentation on SQL injections and buffer overflows. Bring your laptops!",
+			"picture": "sql.jpg",
 			"links": [
 			]
 		},
