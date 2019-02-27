@@ -110,7 +110,7 @@
 		},
 		{
 			"date": "Febuary 26th, 2019",
-			"title": "SQL injection/buffer overflow demo",
+			"title": "SQL Injection/Buffer Overflow Demo",
 			"summary": "Hashdump Officer Bruce will be giving a presentation on SQL injections and buffer overflows. Bring your laptops!",
 			"picture": "sql.jpg",
 			"links": [
@@ -118,9 +118,33 @@
 		},
 		{
 			"date": "March 5th, 2019",
-			"title": "TBD",
+			"title": "Wireshark Demo",
 			"summary": "TBD",
-			"picture": "meetingblank.jpg",
+			"picture": "wireshark.jpeg",
+			"links": [
+			]
+		},
+		{
+			"date": "March 12th, 2019",
+			"title": "Kali Live USB Workshop",
+			"summary": "TBD",
+			"picture": "kali_green_red.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "March 26th, 2019",
+			"title": "Presidents Challenge",
+			"summary": "TBD",
+			"picture": "presidents.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "April 23rd, 2019",
+			"title": "Rubber Ducky Workshop",
+			"summary": "TBD",
+			"picture": "rubber_ducky.jpg",
 			"links": [
 			]
 		}
