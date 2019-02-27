@@ -119,7 +119,7 @@
 		{
 			"date": "March 5th, 2019",
 			"title": "Wireshark Demo",
-			"summary": "TBD",
+			"summary": "Hashdump Officer Addie will be giving a presentation on Wireshark.",
 			"picture": "wireshark.jpeg",
 			"links": [
 			]
@@ -127,7 +127,7 @@
 		{
 			"date": "March 12th, 2019",
 			"title": "Kali Live USB Workshop",
-			"summary": "TBD",
+			"summary": "Join us for our first workshop! We will be building Kali Live USBs so that you can carry all of the security tools you need on your keychain.",
 			"picture": "kali_green_red.jpg",
 			"links": [
 			]
@@ -135,7 +135,7 @@
 		{
 			"date": "March 26th, 2019",
 			"title": "Presidents Challenge",
-			"summary": "TBD",
+			"summary": "Did you know you can hide data in pictures? Hashdump Officer Addie will be leading us through a steganography challenge.",
 			"picture": "presidents.jpg",
 			"links": [
 			]
@@ -143,7 +143,7 @@
 		{
 			"date": "April 23rd, 2019",
 			"title": "Rubber Ducky Workshop",
-			"summary": "TBD",
+			"summary": "Join us for our second workshop where we will be programming Rubber Duckies that you get to take home with you.",
 			"picture": "rubber_ducky.jpg",
 			"links": [
 			]
