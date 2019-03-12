@@ -130,6 +130,10 @@
 			"summary": "Join us for our first workshop! We will be building Kali Live USBs so that you can carry all of the security tools you need on your keychain.",
 			"picture": "kali_green_red.jpg",
 			"links": [
+				{
+					"url": "http://bit.ly/2HhgYYV",
+					"name": "Instructions"
+				}
 			]
 		},
 		{
@@ -138,10 +142,6 @@
 			"summary": "Did you know you can hide data in pictures? Hashdump Officer Addie will be leading us through a steganography challenge.",
 			"picture": "presidents.jpg",
 			"links": [
-				{
-					"url": "http://bit.ly/2HhgYYV",
-					"name": "Instructions"
-				}
 			]
 		},
 		{
