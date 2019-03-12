@@ -138,6 +138,10 @@
 			"summary": "Did you know you can hide data in pictures? Hashdump Officer Addie will be leading us through a steganography challenge.",
 			"picture": "presidents.jpg",
 			"links": [
+				{
+					"url": "http://bit.ly/2HhgYYV",
+					"name": "Instructions"
+				}
 			]
 		},
 		{
