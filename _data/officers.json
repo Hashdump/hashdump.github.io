@@ -41,6 +41,13 @@
 			"name": "Cooper Wiegand",
 			"picture": "cooper_wiegand.jpg",
 			"bio": "I am a fourth year undergrad studying in the Computer Science department. I am origionally from the Illinois but have been all over the place and love Colorado. I spend most of my free time with my amazing girlfriend and our dogs."
+		},
+		{
+			"title": "Cook",
+			"email": "cook {at} hashdump {dot} org",
+			"name": "Chef Jermey Benson",
+			"picture": "cooper_wiegand.jpg",
+			"bio": "I am a fourth year undergrad studying in the Computer Science department. I am origionally from the Illinois but have been all over the place and love Colorado. I spend most of my free time with my amazing girlfriend and our dogs."
 		}	
 	]
 }
