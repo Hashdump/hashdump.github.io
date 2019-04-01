@@ -149,9 +149,33 @@
 			]
 		},
 		{
+			"date": "April 2nd, 2019",
+			"title": "Website Security",
+			"summary": "Hashdump Officer Sus will be showing us how to setup and secure a website.🍕",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "April 9th, 2019",
+			"title": "New Security Classes?",
+			"summary": "CSU is pushing cyber. Come listen to some grad students talk about some of the security classes currently offered and some of the opportunities coming in the near future.🥨",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "April 16th, 2019",
+			"title": "Secure 64",
+			"summary": "Vice president of {position} at Secure 64, {name}, will be giving a talk about security in the real world.🍕",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
 			"date": "April 23rd, 2019",
 			"title": "Rubber Ducky Workshop",
-			"summary": "Join us for our second workshop where we will be programming Rubber Duckies that you get to take home with you.",
+			"summary": "Join us for our second workshop where we will be programming Rubber Duckies that you get to take home with you.🥨",
 			"picture": "rubber_ducky.jpg",
 			"links": [
 			]
