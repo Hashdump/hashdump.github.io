@@ -178,6 +178,10 @@
 			"summary": "Join us for our second workshop where we will be programming Rubber Duckies that you get to take home with you.",
 			"picture": "rubber_ducky.jpg",
 			"links": [
+				{
+					"ulr":"https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910",
+					"name":"Hackernoon Instructions"
+				}
 			]
 		},
 		{
@@ -186,6 +190,10 @@
 			"summary": "Join us as we walk through the Google Beginners Quest CTF. We will also be watching some Def Con talks and having officer elections.",
 			"picture": "google-ctf-beginners-quest.png",
 			"links": [
+				{
+					"url":"https://capturetheflag.withgoogle.com/",
+					"name":"Google CTF"
+				}
 			]
 		},
 		{
