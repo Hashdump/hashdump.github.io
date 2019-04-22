@@ -151,7 +151,7 @@
 		{
 			"date": "April 2nd, 2019",
 			"title": "Website Security",
-			"summary": "Hashdump Officer Sus will be showing us how to secure a website.🍕",
+			"summary": "Hashdump Officer Sus will be showing us how to secure a website.",
 			"picture": "website_security.jpg",
 			"links": [
 			]
@@ -167,7 +167,7 @@
 		{
 			"date": "April 16th, 2019",
 			"title": "Secure 64",
-			"summary": "Vice president of Engineering at Secure 64, Amanda Constant, will be giving a talk about how Secure64 protects its clients.🍕",
+			"summary": "Vice president of Engineering at Secure 64, Amanda Constant, will be giving a talk about how Secure64 protects its clients.",
 			"picture": "secure64Logo.png",
 			"links": [
 			]
@@ -177,6 +177,22 @@
 			"title": "Rubber Ducky Workshop",
 			"summary": "Join us for our second workshop where we will be programming Rubber Duckies that you get to take home with you.",
 			"picture": "rubber_ducky.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "April 30th, 2019",
+			"title": "Google CTF - Beginners Quest",
+			"summary": "Join us as we walk through the Google Beginners Quest CTF. We will also be watching some Def Con talks and having officer elections.",
+			"picture": "google-ctf-beginners-quest.png",
+			"links": [
+			]
+		},
+		{
+			"date": "May 7th, 2019",
+			"title": "End Of The Year Party",
+			"summary": "Join us for our end of the year party for some food, fun, and jeopardy.",
+			"picture": "cyber-party.png",
 			"links": [
 			]
 		}
