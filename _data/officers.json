@@ -7,9 +7,9 @@
 			"picture": "jordan_peterson.jpg",
 			"bio": "I am a first year graduate student at Colorado State University. Computer Science has become my passion and more specifically computer security. This club has been a huge part of my life during my undergrad and now my grad.",
 			"responsibilities": [
-				"one",
-				"two",
-				"three"
+				"Prepare topics for meetings",
+				"Contact companies and professors",
+				"Lead meetings and delegate tasks to officers"
 			]
 		},
 		{
@@ -19,9 +19,9 @@
 			"picture": "susanna_kyler.jpg",
 			"bio": "I am a fourth year undergraduate Computer Science major at CSU. I came to be interested in security because I often heard about the results of ineffective cyber security practices, but rarely heard about successful techniques and tools that were an effective defense. ",
 			"responsibilities": [
-				"one",
-				"two",
-				"three"
+				"Prepare topics for meetings",
+				"Contact companies and professors",
+				"Lead meetings and delegate tasks to officers"
 			]
 		},
 		{
@@ -31,9 +31,9 @@
 			"picture": "tyler_schultz.jpeg",
 			"bio": "I'm a junior at Colorado State University studying computer science. I was born in Providence, RI, and I've lived in Fort Collins for 20 years. I have 11 years' experience with front-end web development and 7 years' experience with programming. Outside of computer science, I enjoy climbing fourteeners, playing the trumpet, watching movies, and taking flight lessons.",
 			"responsibilities": [
-				"one",
-				"two",
-				"three"
+				"Maintain the website",
+				"Manage forums/slack",
+				"Update topic information with urls and notes"
 			]
 		},
 		{
@@ -43,9 +43,8 @@
 			"picture": "bruce_darcy.jpeg",
 			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
 			"responsibilities": [
-				"one",
-				"two",
-				"three"
+				"Maintain club servers",
+				"Build/maintain vulnerable VMs"
 			]
 		},
 		{
@@ -55,9 +54,8 @@
 			"picture": "addie_newman.jpeg",
 			"bio": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
 			"responsibilities": [
-				"one",
-				"two",
-				"three"
+				"Take notes from meetings",
+				"Prepare and send weekly emails",
 			]
 		},
 		{
@@ -67,9 +65,9 @@
 			"picture": "cooper_wiegand.jpg",
 			"bio": "I am a fourth year undergrad studying in the Computer Science department. I am origionally from the Illinois but have been all over the place and love Colorado. I spend most of my free time with my amazing girlfriend and our dogs.",
 			"responsibilities": [
-				"one",
-				"two",
-				"three"
+				"Create and maintain a budget",
+				"Make purchases (self) and handle reimbursements (dept)",
+				"Apply for funding (travel grants, competitions)"
 			]
 		}	
 	]
