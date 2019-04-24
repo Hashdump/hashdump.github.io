@@ -15,6 +15,12 @@ permalink: /officers/
 				<h4>{{ member.name }}</h4>
 				<h5>{{ member.title }}</h5>		
 				<p>{{ member.bio }}</p>
+				<h5>Responsibilities</h5>
+				<ul>
+					{% for responsibility in member.responsibilities%}
+					<li>{{ responsibility }}</li>
+					{% endfor %}
+				</ul>
 			</div>
 		</div>
 	</div>

@@ -142,6 +142,34 @@
 			"summary": "Did you know you can hide data in pictures? Hashdump Officer Addie will be leading us through a steganography challenge.",
 			"picture": "presidents.jpg",
 			"links": [
+				{
+					"url": "https://drive.google.com/drive/u/0/folders/1-Gm3rY4dZnVZKYNv13xF8kj3fiiDGEyc",
+					"name": "Instructions"
+				}
+			]
+		},
+		{
+			"date": "April 2nd, 2019",
+			"title": "Website Security",
+			"summary": "Hashdump Officer Sus will be showing us how to secure a website.",
+			"picture": "website_security.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "April 9th, 2019",
+			"title": "New Security Classes?",
+			"summary": "CSU is pushing cyber. Come listen to Jarret Flack talk about some of the security classes currently offered and some of the opportunities coming in the near future.",
+			"picture": "meetingblank.jpg",
+			"links": [
+			]
+		},
+		{
+			"date": "April 16th, 2019",
+			"title": "Secure 64",
+			"summary": "Vice president of Engineering at Secure 64, Amanda Constant, will be giving a talk about how Secure64 protects its clients.",
+			"picture": "secure64Logo.png",
+			"links": [
 			]
 		},
 		{
@@ -149,6 +177,34 @@
 			"title": "Rubber Ducky Workshop",
 			"summary": "Join us for our second workshop where we will be programming Rubber Duckies that you get to take home with you.",
 			"picture": "rubber_ducky.jpg",
+			"links": [
+				{
+					"url":"https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910",
+					"name":"Hackernoon Instructions"
+				}
+			]
+		},
+		{
+			"date": "April 30th, 2019",
+			"title": "Google CTF - Beginners Quest",
+			"summary": "Join us as we walk through the Google Beginners Quest CTF. We will also be watching some Def Con talks and having officer elections.",
+			"picture": "google-ctf-beginners-quest.png",
+			"links": [
+				{
+					"url":"https://capturetheflag.withgoogle.com/",
+					"name":"Google CTF"
+				},
+				{
+					"url":"https://www.youtube.com/watch?v=qDYwcIf0LZw",
+					"name":"GynvaelEN Livestream"
+				}
+			]
+		},
+		{
+			"date": "May 7th, 2019",
+			"title": "End Of The Year Party",
+			"summary": "Join us for our end of the year party! We'll have food, fun, and jeopardy.",
+			"picture": "cyber-party.png",
 			"links": [
 			]
 		}

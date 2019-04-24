@@ -5,42 +5,72 @@
 			"email": "president {at} hashdump {dot} org",
 			"name": "Jordan Peterson",
 			"picture": "jordan_peterson.jpg",
-			"bio": "I am a first year graduate student at Colorado State University. Computer Science has become my passion and more specifically computer security. This club has been a huge part of my life during my undergrad and now my grad."
+			"bio": "I am a first year graduate student at Colorado State University. Computer Science has become my passion and more specifically computer security. This club has been a huge part of my life during my undergrad and now my grad.",
+			"responsibilities": [
+				"Prepare topics for meetings",
+				"Contact companies and professors",
+				"Lead meetings and delegate tasks to officers"
+			]
 		},
 		{
 			"title": "Vice President",
 			"email": "vicepresident {at} hashdump {dot} org",
 			"name": "Susanna Kyler",
 			"picture": "susanna_kyler.jpg",
-			"bio": ""
+			"bio": "I am a fourth year undergraduate Computer Science major at CSU. I came to be interested in security because I often heard about the results of ineffective cyber security practices, but rarely heard about successful techniques and tools that were an effective defense. ",
+			"responsibilities": [
+				"Prepare topics for meetings",
+				"Contact companies and professors",
+				"Lead meetings and delegate tasks to officers"
+			]
+      
 		},
 		{
 			"title": "Webmaster",
 			"email": "webmaster {at} hashdump {dot} org",
 			"name": "Tyler Schultz",
 			"picture": "tyler_schultz.jpeg",
-			"bio": "I'm a junior at Colorado State University studying computer science. I was born in Providence, RI, and I've lived in Fort Collins for 20 years. I have 11 years' experience with front-end web development and 7 years' experience with programming. Outside of computer science, I enjoy climbing fourteeners, playing the trumpet, watching movies, and taking flight lessons."
+			"bio": "I'm a junior at Colorado State University studying computer science. I was born in Providence, RI, and I've lived in Fort Collins for 20 years. I have 11 years' experience with front-end web development and 7 years' experience with programming. Outside of computer science, I enjoy climbing fourteeners, playing the trumpet, watching movies, and taking flight lessons.",
+			"responsibilities": [
+				"Maintain the website",
+				"Manage forums/slack",
+				"Update topic information with urls and notes"
+			]
 		},
 		{
 			"title": "Sys Admin",
 			"email": "sysAdmin {at} hashdump {dot} org",
 			"name": "Bruce Darcy",
 			"picture": "bruce_darcy.jpeg",
-			"bio": ""
+			"bio": "I exist and stuff sometimes": [
+				"Maintain club servers",
+				"Build/maintain vulnerable VMs",
+				"Create educational demos with our systems",
+				"Assist and supervise any projects a club member wants to do with our systems"
+			]
+
 		},
 		{
 			"title": "Secretary",
 			"email": "secretary {at} hashdump {dot} org",
 			"name": "Addie Newman",
 			"picture": "addie_newman.jpeg",
-			"bio": ""
+			"bio": "I am a sophmore at Colorado State University studying computer science. I have lived in Colorado my whole life, and in my free time I watch action movies, knit, and watch all sorts of TV.", [
+				"Take notes from meetings",
+				"Prepare and send weekly emails",
+			]
 		},
 		{
 			"title": "Treasurer",
 			"email": "treasurer {at} hashdump {dot} org",
 			"name": "Cooper Wiegand",
 			"picture": "cooper_wiegand.jpg",
-			"bio": "I am a fourth year undergrad studying in the Computer Science department. I am origionally from the Illinois but have been all over the place and love Colorado. I spend most of my free time with my amazing girlfriend and our dogs."
+			"bio": "I am a fourth year undergrad studying in the Computer Science department. I am origionally from the Illinois but have been all over the place and love Colorado. I spend most of my free time with my amazing girlfriend and our dogs.",
+			"responsibilities": [
+				"Create and maintain a budget",
+				"Make purchases and handle reimbursements",
+				"Apply for funding"
+			]
 		}	
 	]
 }
