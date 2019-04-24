@@ -42,7 +42,8 @@
 			"email": "sysAdmin {at} hashdump {dot} org",
 			"name": "Bruce Darcy",
 			"picture": "bruce_darcy.jpeg",
-			"bio": "I exist and stuff sometimes": [
+			"bio": "I exist and stuff sometimes",
+			"responsibilities": [
 				"Maintain club servers",
 				"Build/maintain vulnerable VMs",
 				"Create educational demos with our systems",
