@@ -56,7 +56,8 @@
 			"email": "secretary {at} hashdump {dot} org",
 			"name": "Addie Newman",
 			"picture": "addie_newman.jpeg",
-			"bio": "I am a sophmore at Colorado State University studying computer science. I have lived in Colorado my whole life, and in my free time I watch action movies, knit, and watch all sorts of TV.", [
+			"bio": "I am a sophmore at Colorado State University studying computer science. I have lived in Colorado my whole life, and in my free time I watch action movies, knit, and watch all sorts of TV.",
+			"responsibilities":[
 				"Take notes from meetings",
 				"Prepare and send weekly emails",
 			]
