@@ -84,15 +84,15 @@
 				},
 				{
 					"url": "https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/",
-					"70% of all Microsoft security bugs are from memory issues due to coding in C and C++"
+					"name": "70% of all Microsoft security bugs are from memory issues due to coding in C and C++"
 				},
 				{
 					"url": "https://threatpost.com/attackers-completely-destroy-vfemails-secure-mail-infrastructure/141748/",
-					"VFEmail mail infrastructure was completely destroyed"
+					"name": "VFEmail mail infrastructure was completely destroyed"
 				},
 				{
 					"url": "https://www.theverge.com/2019/2/11/18216134/reddit-tencent-investment-deal-memes-amount-winnie-the-pooh-tank-man-china",
-					"Chinese company Tencent buys Reddit stock"
+					"name": "Chinese company Tencent buys Reddit stock"
 				}
 			]
 		},
@@ -213,6 +213,22 @@
 			"title": "End Of The Year Party",
 			"summary": "Join us for our end of the year party! We'll have food, fun, and jeopardy.",
 			"picture": "cyber-party.png",
+			"links": [
+			]
+		},
+		{
+			"date": "September 3rd, 2019",
+			"title": "Introduction and Capture the Flag",
+			"summary": "Join us for the first Hashdump meeting of the semester! We'll kick things off with short officer introductions and then play a game of Google's Beginner Quest CTF. Bring a computer (or a friend with one!)",
+			"picture": "google-2019-ctf.png",
+			"links": [
+			]
+		},
+		{
+			"date": "September 10th, 2019",
+			"title": "Cicada 3301 Documentary",
+			"summary": "Join us to learn about one of the Internet's greatest unsolved mysteries, Cicada 3301. Pizza will be provided!",
+			"picture": "cicada-3301-logo.png",
 			"links": [
 			]
 		}
