@@ -209,20 +209,12 @@
 			]
 		},
 		{
-			"date": "May 11th, 2019",
-			"title": "End Of The Year Party",
-			"summary": "Join us for our end of the year party! We'll have food, fun, and jeopardy.",
-			"picture": "cyber-party.png",
-			"links": [
-			]
-		},
-		{
 			"date": "September 3rd, 2019",
 			"title": "Introduction and Capture the Flag",
 			"summary": "Join us for the first Hashdump meeting of the semester! We'll kick things off with short officer introductions and then play a game of Google's Beginner Quest CTF. Bring a computer (or a friend with one!)",
 			"picture": "google-2019-ctf.png",
 			"links": [
 			]
-		},
+		}
 	]
 }

@@ -21,20 +21,8 @@ permalink: /
 		
 <div class="col-md-12">
 {% for meeting in site.data.meetings.meetings%}
-{% assign uri = '/images/' | append: meeting.picture %}
-	<div class="col-md-4 w3-margin-bottom" future-date="{{ meeting.date | date: '%Y/%m/%d' }}">
-		<div class="col-md-12 text-default" style="padding-right:0px;padding-left:0px">
-			<img src={{ uri }}  alt="image"  class="hashdump-card-image">
-			<div style="padding:10px" class="background-foreground hashdump-card">
-				<h4>{{ meeting.title }}</h4>
-				<h5><span class="">{{ meeting.date }}</span></h5>
-				<p>{{ meeting.summary }}</p>
-				{% for link in meeting.links%}
-					<a href={{ link.url }} target="_blank">{{ link.name }}</a><br>
-				{% endfor %}
-			</div>
-		</div>
-	</div>
+	{% assign uri = '/images/' | append: meeting.picture %}
+	{% include meeting_card.html meeting_data=meeting image_uri=uri %}
 {% endfor %}
 <div class="clearfix"></div>
 </div>
