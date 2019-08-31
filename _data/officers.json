@@ -40,16 +40,15 @@
 		{
 			"title": "Sys Admin",
 			"email": "sysAdmin {at} hashdump {dot} org",
-			"name": "Bruce Darcy",
-			"picture": "bruce_darcy.jpeg",
-			"bio": "I exist and stuff sometimes",
+			"name": "Gus Nard",
+			"picture": "gus_nard.jpg",
+			"bio": "I'm a fourth year undergrad CS major at CSU. I got into security by watching bad hacking movies and I joined Hashdump during my sophomore year here. I spend a lot of my free time watching tv shows, catching bugs, and playing computer games.",
 			"responsibilities": [
 				"Maintain club servers",
 				"Build/maintain vulnerable VMs",
 				"Create educational demos with our systems",
 				"Assist and supervise any projects a club member wants to do with our systems"
 			]
-
 		},
 		{
 			"title": "Secretary",
