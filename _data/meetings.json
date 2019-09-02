@@ -211,9 +211,21 @@
 		{
 			"date": "September 3rd, 2019",
 			"title": "Introduction and Capture the Flag",
-			"summary": "Join us for the first Hashdump meeting of the semester! We'll kick things off with short officer introductions and then play a game of Google's Beginner Quest CTF. Bring a computer (or a friend with one!)",
+			"summary": "Join us for the first Hashdump meeting of the semester! We'll kick things off with short officer introductions, and then play a game of Google's Beginner Quest CTF to give you a taste of what the club is all about. Bring a computer (or a friend with one!), and take note of the links below so you can follow along during the meeting.",
 			"picture": "google-2019-ctf.png",
 			"links": [
+				{
+					"url": "https://capturetheflag.withgoogle.com/#beginners/",
+					"name": "Google CTF"
+				},
+				{
+					"url": "https://www.wireshark.org/",
+					"name": "Wireshark Download"
+				},
+				{
+					"url": "https://www.codepunker.com/tools/string-converter",
+					"name": "String Encoder/Decoder"
+				}
 			]
 		}
 	]
