@@ -3,9 +3,9 @@
 		{
 			"title": "President",
 			"email": "president {at} hashdump {dot} org",
-			"name": "Jordan Peterson",
-			"picture": "jordan_peterson.jpg",
-			"bio": "I am a first year graduate student at Colorado State University. Computer Science has become my passion and more specifically computer security. This club has been a huge part of my life during my undergrad and now my grad.",
+			"name": "Addie Newman",
+			"picture": "addie_newman.jpeg",
+			"bio": "<i>Bio not yet available.</i>",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
@@ -15,9 +15,9 @@
 		{
 			"title": "Vice President",
 			"email": "vicepresident {at} hashdump {dot} org",
-			"name": "Susanna Kyler",
-			"picture": "susanna_kyler.jpg",
-			"bio": "I am a fourth year undergraduate Computer Science major at CSU. I came to be interested in security because I often heard about the results of ineffective cyber security practices, but rarely heard about successful techniques and tools that were an effective defense. ",
+			"name": "Griffin Gilbert",
+			"picture": "griffin_gilbert.jpg",
+			"bio": "An avid gamer and self identified \"geek\" studying computer science at CSU, I enjoy going out with friends, playing sports, and pretending to know what I am doing (fake it till you make it!). Moving into this year as Vice President of Hashdump, I am trying to increase the club's membership among the wider CSU community.",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
@@ -64,14 +64,28 @@
 		{
 			"title": "Treasurer",
 			"email": "treasurer {at} hashdump {dot} org",
-			"name": "Cooper Wiegand",
-			"picture": "cooper_wiegand.jpg",
-			"bio": "I am a fourth year undergrad studying in the Computer Science department. I am origionally from the Illinois but have been all over the place and love Colorado. I spend most of my free time with my amazing girlfriend and our dogs.",
+			"name": "Casey Key",
+			"picture": "casey_key.jpg",
+			"bio": "<i>Bio not yet available.</i>",
 			"responsibilities": [
 				"Create and maintain a budget",
 				"Make purchases and handle reimbursements",
 				"Apply for funding"
 			]
+		},
+		{
+			"title": "Academic Advisor",
+			"email": "jgersch@colostate.edu",
+			"name": "Dr. Joseph Gersch",
+			"picture": "joseph_gersch.jpg",
+			"bio": "Dr. Gersch is an instructor at CSU, the former president of Secure64 Software Corporation, and a 24-year HP veteran. His current research includes systems and network security, blockchain, security analytics, and visualization. As our principle advisor, Dr. Gersch is brimming with knowledge and experience, and is always happy to share it."
+		},
+		{
+			"title": "Graduate Advisor",
+			"email": "jordantp@rams.colostate.edu",
+			"name": "Jordan Peterson",
+			"picture": "jordan_peterson.jpg",
+			"bio": "Jordan is a second-year grad student working towards a Master of Science in Computer Science at CSU. He is also a veteran of the Hashdump club, being a member since his undergrad and having held different officer positions in the club since 2016. His current research focuses on security within the ever-growing Internet of Things."
 		}
 	]
 }
