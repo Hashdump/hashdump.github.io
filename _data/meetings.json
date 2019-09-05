@@ -227,6 +227,14 @@
 					"name": "String Encoder/Decoder"
 				}
 			]
+		},
+		{
+			"date": "September 10th, 2019",
+			"title": "Cicada 3301 Documentary",
+			"summary": "Join us to learn about one of the Internet's greatest unsolved mysteries, Cicada 3301. Pizza will be provided!",
+			"picture": "cicada-3301-logo.png",
+			"links": [
+			]
 		}
 	]
 }
