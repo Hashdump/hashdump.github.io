@@ -235,6 +235,14 @@
 			"picture": "cicada-3301-logo.png",
 			"links": [
 			]
+		},
+		{
+			"date": "September 17th, 2019",
+			"title": "A Brief Introduction to Hiding Things",
+			"summary": "Hashdump Officer Pierce will be giving a short presentation on some basics of encryption, cryptography, and steganography. There will be activities, so be sure to bring a laptop! (links are coming soon)",
+			"picture": "encryption-cryptography-card.png",
+			"links": [
+			]
 		}
 	]
 }
