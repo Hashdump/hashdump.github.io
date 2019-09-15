@@ -21,7 +21,7 @@ permalink: /
 		
 <div class="col-md-12">
 {% for meeting in site.data.meetings.meetings%}
-	{% assign uri = '/images/' | append: meeting.picture %}
+	{% assign uri = 'assets/images/' | append: meeting.picture %}
 	{% include meeting_card.html meeting_data=meeting image_uri=uri %}
 {% endfor %}
 <div class="clearfix"></div>

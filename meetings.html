@@ -7,7 +7,7 @@ permalink: /meetings/
 {% assign i = 0 %}
 <div class="col-md-12">
 	{% for meeting in site.data.meetings.meetings reversed%}
-		{% assign uri = '/images/' | append: meeting.picture %}
+		{% assign uri = '/assets/images/' | append: meeting.picture %}
 		{% assign i = i | plus: 1 %}
 		{% include meeting_card.html meeting_data=meeting image_uri=uri%}
 		{% if i == 3 %}
@@ -61,4 +61,9 @@ $(function() {
 		}
 	}
 });
+
+$(function() {
+	$('a[rel*=leanModal]').leanModal({ top : 200, closeButton: ".modal_close" });		
+});
+
 </script>

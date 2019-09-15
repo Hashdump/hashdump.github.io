@@ -74,14 +74,14 @@
 			background-color: #ffffff;
 		}
 
-        @media only screen and (max-width: 992px) {
-            .portfolio-content {
+		@media only screen and (max-width: 992px) {
+			.portfolio-content {
 				width: 100%
-            }
-            .nav-content {
+			}
+			.nav-content {
 				width:50%
 			}
-        }
+		}
 
 		a {
 			color: #0018a3;
@@ -96,9 +96,9 @@
 
 		a:hover
 		{
-			 color:#7ac9f9;
-			 text-decoration:none;
-			 cursor:pointer;
+			color:#7ac9f9;
+			text-decoration:none;
+			cursor:pointer;
 		}
 		
 		h4,h2 {
@@ -112,7 +112,7 @@
 		}
 		
 		.hashdump-card {
-			background-image: linear-gradient(#ffffff, #eae5ff);
+			background-image: linear-gradient(#ffffff, #e9e5ff);
 			border-radius: 10px;
 		}
 		
@@ -120,7 +120,30 @@
 			max-width:100%;
 			border-radius: 10px;
 		}
-    </style>
+
+		.meeting-notes-popup {
+			width: 600px;
+			padding: 30px;
+			display: none;
+		}
+
+		@media (max-width: 1000px) {
+			.meeting-notes-popup {
+				width: 80%;
+			}
+		}
+
+		#lean_overlay {
+			position: fixed;
+			z-index:100;
+			top: 0px;
+			left: 0px;
+			height:100%;
+			width:100%;	
+			background: #000;
+			display: none;
+		}
+	</style>
 </head>
 <body class="background-background w3-content" style="max-width:100%">
     
@@ -128,7 +151,7 @@
     <nav class="w3-sidebar w3-bar-block background-header w3-animate-left text-default w3-collapse w3-top w3-center nav-content" id="mySidebar">
         <br>
         <div class="w3-padding-32">
-            <img class="w3-card w3-circle" src="/images/logo.png" style="width:50%" alt="Hashdump Security">
+            <img class="w3-card w3-circle" src="/assets/images/logo.png" style="width:50%" alt="Hashdump Security">
 			<a href="/" onclick="w3_close()" class="w3-bar-item w3-button">
 				<h3 class="w3-center"><b>Hashdump<br>Security Club</b></h3>
 			</a>
@@ -149,7 +172,7 @@
                 <i class="fa fa-map-marker w3-hover-opacity"></i>
             </a>
         </div>
-    </nav>
+	</nav>
 
     <!-- Top menu on small screens -->
     <header class="w3-container w3-top w3-hide-large background-header w3-xlarge w3-padding-16 text-default">
