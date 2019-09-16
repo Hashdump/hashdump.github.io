@@ -226,7 +226,8 @@
 					"url": "https://www.codepunker.com/tools/string-converter",
 					"name": "String Encoder/Decoder"
 				}
-			]
+			],
+			"notes": "What a great first meeting! We started off by introducing our new officers for the 19-20 academic year. There was also a brief discussion about future meeting topics. We then enjoyed a presentation by our own Jared Crouse who walked us through the Google Beginners Quest CTF. He showed how to use some simple techniques to work through the first two quests."
 		},
 		{
 			"date": "September 10th, 2019",
@@ -234,7 +235,8 @@
 			"summary": "Join us to learn about one of the Internet's greatest unsolved mysteries, Cicada 3301. Pizza will be provided!",
 			"picture": "cicada-3301-logo.png",
 			"links": [
-			]
+			],
+			"notes": "Another great meeting this week! We started by discussing a variety of security events in the news. Pizza was then provided and we enjoyed watching the first two parts (of four) of the Cicada 3301 documentary on YouTube, which talked about what Cicada 3301 is, the context behind it, the people involved in it, and some of the puzzles it contains."
 		},
 		{
 			"date": "September 17th, 2019",
@@ -252,7 +254,7 @@
 				},
 				{
 					"url": "https://drive.google.com/file/d/1pLbigwbgU82y6o9F8gn14VBXVPG5-uhd/view?usp=sharing", 
-					"name": "LSB Steganography Slide",
+					"name": "LSB Steganography Slide"
 				},
 				{
 					"url": "https://www.win.tue.nl/hashclash/Nostradamus/",

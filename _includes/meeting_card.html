@@ -20,7 +20,7 @@
 {% if include.meeting_data.notes %}
     <div id="{{ include.meeting_data.title | slugify }}" class="meeting-notes-popup border-primary shadow-lg bg-light rounded-lg">
         <h3> {{ include.meeting_data.title }} </h2>
-        <p><em>This meeting occured on {{ include.meeting_data.date | date: '%Y/%m/%d' }}</em></p>
+        <p><em>This meeting took place on {{ include.meeting_data.date | date: '%Y/%m/%d' }}</em></p>
         <hr/>
         <p> {{ include.meeting_data.notes }} </b> </p>
     </div>
