@@ -239,9 +239,25 @@
 		{
 			"date": "September 17th, 2019",
 			"title": "A Brief Introduction to Hiding Things",
-			"summary": "Hashdump Officer Pierce will be giving a short presentation on some basics of encryption, cryptography, and steganography. There will be activities, so be sure to bring a laptop! (links are coming soon)",
+			"summary": "Hashdump Officer Pierce will be giving a short presentation on some basics of encryption, cryptography, and steganography. There will be activities, so be sure to bring a laptop!",
 			"picture": "encryption-cryptography-card.png",
 			"links": [
+				{
+					"url": "https://www.devglan.com/online-tools/aes-encryption-decryption",
+					"name": "Online AES encryptor/decryptor"
+				},
+				{
+					"url": "https://cryptii.com/pipes/rc4-encryption",
+					"name": "Online RC4 encryptor/decryptor"
+				},
+				{
+					"url": "https://drive.google.com/file/d/1pLbigwbgU82y6o9F8gn14VBXVPG5-uhd/view?usp=sharing", 
+					"name": "LSB Steganography Slide",
+				},
+				{
+					"url": "https://www.win.tue.nl/hashclash/Nostradamus/",
+					"name": "Nostradamus MD5 Attack"
+				}
 			]
 		}
 	]
