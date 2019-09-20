@@ -262,6 +262,12 @@
 				}
 			],
 			"notes": "Caesar and substitution and block oh my! This meeting started in Kansas with some basic ciphers and the next thing we knew, Pierce the tornado had transported us to munchkin-land. There were advanced encryption standards, RC4 streams, secret steganography images and more. By the end of the meeting we were clicking our ruby MD5 hashes together getting ready to go home. Ugh, are you tired of this pun yet? In short, it was a great meeting headed up with a stellar presentation by Pierce Smith. Come check out our next meeting, it will be better than our tired puns we promise!"
+		},
+		{
+			"date": "September 24th, 2019",
+			"title": "Metasploitable Demonstration",
+			"summary": "Hashdump Officer Griffin will be intoducing us to and letting us play with Metasploitable, an intentionally vulnerable sandbox for penetration testing! We'll have pizza for you to enjoy as you test and grow your hacker skills.",
+			"picture": "metaspolitable-demonstration-card.png"
 		}
 	]
 }
