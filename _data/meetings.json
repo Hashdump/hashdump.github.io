@@ -265,9 +265,9 @@
 		},
 		{
 			"date": "September 24th, 2019",
-			"title": "Metasploitable Demonstration",
-			"summary": "Hashdump Officer Griffin will be intoducing us to and letting us play with Metasploitable, an intentionally vulnerable sandbox for penetration testing! We'll have pizza for you to enjoy as you test and grow your hacker skills.",
-			"picture": "metaspolitable-demonstration-card.png"
+			"title": "Damn Vulnerable Web App Demonstration",
+			"summary": "Hashdump Officer Griffin will be intoducing us to and letting us play with the Damn Vulnerable Web App, an intentionally vulnerable PHP/MySQL web application made for safe penetration testing! We'll have pizza for you to enjoy as you test and grow your (ethical) hacker skills.",
+			"picture": "dvwa-demonstration-card.png"
 		}
 	]
 }
