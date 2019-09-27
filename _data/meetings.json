@@ -268,6 +268,12 @@
 			"title": "Damn Vulnerable Web App Demonstration",
 			"summary": "Hashdump Officer Griffin will be intoducing us to and letting us play with the Damn Vulnerable Web App, an intentionally vulnerable PHP/MySQL web application made for safe penetration testing! We'll have pizza for you to enjoy as you test and grow your (ethical) hacker skills.",
 			"picture": "dvwa-demonstration-card.png"
+		},
+		{
+			"date": "October 1st, 2019",
+			"title": "Return of the Wireshark Demo",
+			"summary": "Hashdump Officer Addie will be demonstrating some uses of Wireshark, a very powerful, widely-used network analysis tool. Be sure to bring a computer, as you'll have the opportunity to experiment with this software firsthand!",
+			"picture": "wireshark.jpeg"
 		}
 	]
 }
