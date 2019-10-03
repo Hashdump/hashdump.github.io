@@ -274,6 +274,13 @@
 			"title": "Return of the Wireshark Demo",
 			"summary": "Hashdump Officer Addie will be demonstrating some uses of Wireshark, a very powerful, widely-used network analysis tool. Be sure to bring a computer, as you'll have the opportunity to experiment with this software firsthand!",
 			"picture": "wireshark.jpeg"
+		},
+		{
+			"date": "October 8th, 2019",
+			"title": "Hashdump Game Night",
+			"summary": "Join us for an hour of hacker-themed board games, classic Nintendo emulators, and stuffing free pizza into your face! Batteries not included.",
+			"picture": "smw-game-card.png",
+			"attrib": "Image was edited from original by Tobias Grothmann - Generalprobe No Input Ensemble & 2xC, CC BY 2.5, <a href='https://commons.wikimedia.org/w/index.php?curid=36644104'>https://commons.wikimedia.org/w/index.php?curid=36644104</a>"
 		}
 	]
 }
