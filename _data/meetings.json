@@ -273,14 +273,15 @@
 			"date": "October 1st, 2019",
 			"title": "Return of the Wireshark Demo",
 			"summary": "Hashdump Officer Addie will be demonstrating some uses of Wireshark, a very powerful, widely-used network analysis tool. Be sure to bring a computer, as you'll have the opportunity to experiment with this software firsthand!",
-			"picture": "wireshark.jpeg"
+			"picture": "wireshark.jpeg",
+			"notes": "Addie hosted a great meeting this week! It turns out that even those who did not have wireshark installed on their machines were able to follow along with her halloween themed packet capture demonstration with Cloudshark. There was spooky jack-o-lantern ASCII art and clips from the Charlie Brown Halloween special to be found, among other things. Not only was this meeting educational, it got everyone ready for the upcoming season!"
 		},
 		{
 			"date": "October 8th, 2019",
 			"title": "Hashdump Game Night",
 			"summary": "Join us for an hour of hacker-themed board games, classic Nintendo emulators, and stuffing free pizza into your face! Batteries not included.",
 			"picture": "smw-game-card.png",
-			"attrib": "Image was edited from original by Tobias Grothmann - Generalprobe No Input Ensemble & 2xC, CC BY 2.5, <a href='https://commons.wikimedia.org/w/index.php?curid=36644104'>https://commons.wikimedia.org/w/index.php?curid=36644104</a>"
+			"attrib": "Image was edited from original by Tobias Grothmann - Generalprobe No Input Ensemble & 2xC, CC BY 2.5, <a href='https://commons.wikimedia.org/w/index.php?curid=36644104'>https://commons.wikimedia.org/w/index.php?curid=36644104</a>",
 		}
 	]
 }
