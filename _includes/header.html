@@ -190,5 +190,7 @@
 			<div class="w3-hide-small" style="margin-top:5em"></div>
 			<div class="w3-row-padding">
 
-			<!-- Site-wide notice -->
-			<div class="col-md-12 w3-padding-16 w3-round w3-border w3-margin-bottom">Want to help redesign our impressively medicore logo? Enter the <a href="/logo_redesign">Hashdump Logo Redesign competition</a>, and have a chance at winning a free <a href="https://security.stackexchange.com/questions/17922/what-is-a-yubikey-and-how-does-it-work">Yubikey</a>!</div>
+			{% unless include.no_comp_notice %}
+				<!-- Site-wide notice -->
+				<div class="col-md-12 w3-padding-16 w3-round w3-border w3-margin-bottom">Want to help redesign our impressively medicore logo? Enter the <a href="/logo_redesign">Hashdump Logo Redesign competition</a>, and have a chance at winning a free <a href="https://security.stackexchange.com/questions/17922/what-is-a-yubikey-and-how-does-it-work">Yubikey</a>!</div>
+			{% endunless %}
