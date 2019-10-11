@@ -282,6 +282,19 @@
 			"summary": "Join us for an hour of hacker-themed board games, classic Nintendo emulators, and stuffing free pizza into your face! Batteries not included.",
 			"picture": "smw-game-card.png",
 			"attrib": "Image was edited from original by Tobias Grothmann - Generalprobe No Input Ensemble & 2xC, CC BY 2.5, <a href='https://commons.wikimedia.org/w/index.php?curid=36644104'>https://commons.wikimedia.org/w/index.php?curid=36644104</a>",
+			"notes": "Our first ever game night was a great success! After scarfing the pizza down we had fun playing classic video game emulators and hacking themed board and card games. Over the sounds of an intense game of Street Fighter 2 on Super Nintendo one could hear the wheelings and dealings in the distant land of Catan. I'll trade you two wheat for a sheep!"
+		},
+		{
+			"date": "October 15th, 2019",
+			"title": "Hack the Box!",
+			"summary": "Think you can Hack the Box? Hashdump Officer Addie will be letting us loose on a series of a pentesting challenges hosted by Hack the Box, which will test your skills and expand your cyber-defense knowledge. Bring your favorite laptop and/or computer-equipped buddy!",
+			"picture": "hack-the-box-generic-card.png",
+			"links": [
+				{
+					"url": "https://www.hackthebox.eu/invite",
+					"name": "HTB Landing Page"
+				}
+			]
 		}
 	]
 }
