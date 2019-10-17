@@ -295,6 +295,12 @@
 					"name": "HTB Landing Page"
 				}
 			]
+		},
+		{
+			"date": "October 22nd, 2019",
+			"title": "Playing with Kali Linux",
+			"summary": "Kali Linux is a household name in the world of cybersecurity, and for good reason. Bring your laptops and you'll have a chance to try this ethical hacking and pentesting-focused Linux distro on your own computer via a Live USB provided by us! Or at least bring an appetite for free pizza, since we've got that too!",
+			"picture": "kali_green_red.jpg"
 		}
 	]
 }
