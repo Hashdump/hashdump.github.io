@@ -100,6 +100,11 @@
 			text-decoration:none;
 			cursor:pointer;
 		}
+
+		h1 {
+			font-weight: bold;
+			color: #0018a3
+		}
 		
 		h4,h2 {
 			font-weight: bold;
@@ -112,7 +117,7 @@
 		}
 		
 		.hashdump-card {
-			background-image: linear-gradient(#ffffff, #e9e5ff);
+			background-image: linear-gradient(#ffffff, #e5ebff);
 			border-radius: 10px;
 		}
 		
@@ -189,8 +194,3 @@
 			<div class="w3-hide-large" style="margin-top:93px"></div>
 			<div class="w3-hide-small" style="margin-top:5em"></div>
 			<div class="w3-row-padding">
-
-			{% unless include.no_comp_notice %}
-				<!-- Site-wide notice -->
-				<div class="col-md-12 w3-padding-16 w3-round w3-border w3-margin-bottom">Want to help redesign our impressively medicore logo? Enter the <a href="/logo_redesign">Hashdump Logo Redesign competition</a>, and have a chance at winning a free <a href="https://security.stackexchange.com/questions/17922/what-is-a-yubikey-and-how-does-it-work">Yubikey</a>!</div>
-			{% endunless %}

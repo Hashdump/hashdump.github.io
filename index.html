@@ -5,18 +5,27 @@ permalink: /
 {% include header.html %}
 
 		<div class="col-md-12 text-default w3-margin-bottom">
-			<h2 class="w3-hide-small">Welcome to CSU's Hashdump Security Club</h2>
-			<h2 class="w3-hide-large">Hashdump Security Club</h2>
-			<h5><span class="w3-tag w3-round background-red">Tuesdays 6:00 PM | CSB 130</span></h5>
+			<h1 class="w3-hide-small">Welcome to CSU's Hashdump Security Club</h1>
+			<h1 class="w3-hide-large">Hashdump Security Club</h2>
+			<h5><span class="w3-round-xlarge w3-border w3-padding-small">Tuesdays 6:00 PM | CSB 130</span></h5>
 			<p>Our goal is to increase awareness of physical, social, and electronic security. Our club participates in various security competitions, hosts demos and workshops, and invites speakers to come and share some of their real world experiences. All majors are welcome to join and participate.</p>
 			<p>Want to get connected? Join our <a href="https://hashdump.slack.com" target="_blank">slack</a> channel.</p>
 			<!-- <p>Want to get connected? Join our <a href="slack://channel?id=C4HP7E3SA&team=T4GCPCTPB" target="_blank">slack</a> channel.</p> -->
 		</div>
 
+<div class="col-md-12 w3-margin-bottom">
+	<h2>Hashdump News</h2>
+	<hr/>
+	
+	<div class="col-md-12 w3-padding-16 w3-round w3-border w3-margin-bottom">Want to help redesign our impressively medicore logo? Enter the <a href="/logo_redesign">Hashdump Logo Redesign competition</a>, and have a chance at winning a free <a href="https://security.stackexchange.com/questions/17922/what-is-a-yubikey-and-how-does-it-work">Yubikey!</a></div>
+
+	<div class="col-md-12 w3-padding-16 w3-round w3-border w3-border-red w3-margin-bottom"> <img src="/assets/images/concord-dawn-sigil.png" class="w3-margin-right" style="height:70px; float:left"> <strong>Ready yourselves for Concord Dawn.</strong> On November 9th, Hashdump will be partnering with The Air Force Research Laboratory to provide an intense cyber-physical exercise that will test your skills to plan and execute a high-value cyber operation. <a href="/assets/images/concord-dawn-poster.png" target="_blank" class="w3-text-red">More information here.</a><br>
+	Interested? Email our Graduate Advisor at <a href="mailto:jordantp@rams.colostate.edu" class="w3-text-red">jordantp@rams.colostate.edu</a> to sign up and get more information. </div>
+</div>
 
 <div class="col-md-12">
-	<hr />
-	<h4>Upcoming Meeting:</h4>
+	<h2>Upcoming Meetings</h2>
+	<hr/>
 </div>
 		
 <div class="col-md-12">
@@ -54,9 +63,12 @@ $(function() {
 			}else{
 				$(fd).remove();
 			}
-		}else{
+		}
+		/*
+		else{
 			$(fd).find('h5>span').addClass('w3-tag w3-round background-red');
 		}
+		*/
 	}
 });
 

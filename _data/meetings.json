@@ -311,10 +311,10 @@
 		},
 		{
 			"date": "November 5th, 2019",
-			"title": "Internet Security Tips",
-			"picture": "you-just-got-ransomwared-card.png",
-			"summary": "Hashdump Officer Gus will be going over some general tips for staying safe on the internet that any regular web-surfer (like yourself) should keep in mind.",
-			"attrib": "Image edited from \"Knoxville Area Transit from Knoxville, TN, United States [CC BY-SA 2.0 (<a href='https://creativecommons.org/licenses/by-sa/2.0'>https://creativecommons.org/licenses/by-sa/2.0</a>)]\" (<a href='https://commons.wikimedia.org/wiki/File:Knoxville_Area_Transit_(23485576478).jpg'>link</a>) and \"Motormille2 [CC BY-SA 4.0 (<a href='https://creativecommons.org/licenses/by-sa/4.0'>https://creativecommons.org/licenses/by-sa/4.0</a>)]\" (<a href='https://commons.wikimedia.org/wiki/File:Ransomware-pic.jpg'>link</a>)"
+			"title": "Quantum Computing",
+			"picture": "quantum-chip-card.png",
+			"summary": "The fantastic Dr. Gersh will be enlightening us all on the wonders and dangers of a fast-approaching technological breakthrough - quantum computing. Learn about what it is and how it threatens to change our perception of cybersecurity while you enjoy some complimentary free pizza!",
+			"attrib": "Photograph of the D-Wave TwoX 1000 Qbit quantum annealing processor chip. Mwjohnson0 [CC BY-SA 4.0 (<a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>https://creativecommons.org/licenses/by-sa/4.0)</a>] (<a href='https://commons.wikimedia.org/wiki/File:D-Wave-Washington-1000Q.jpg' target='_blank'>link</a>)"
 		}
 	]
 }

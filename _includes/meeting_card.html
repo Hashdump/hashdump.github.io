@@ -33,9 +33,9 @@
 
 <!-- We use images responsibly. Or something. -->
 {% if include.meeting_data.attrib %}
-<div id="{{ include.meeting_data.title | slugify }}-imageattrib" class="meeting-notes-popup border-primary shadow-lg bg-light rounded-lg">
-    <h3> Image attribution </h2>
-    <hr/>
-    <p> {{ include.meeting_data.attrib }} </b> </p>
-</div>
+    <div id="{{ include.meeting_data.title | slugify }}-imageattrib" class="meeting-notes-popup border-primary shadow-lg bg-light rounded-lg">
+        <h3> Image attribution </h2>
+        <hr/>
+        <p> {{ include.meeting_data.attrib }} </b> </p>
+    </div>
 {% endif %}
