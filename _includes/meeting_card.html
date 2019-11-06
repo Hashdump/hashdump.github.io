@@ -1,6 +1,6 @@
 <div class="col-md-4 w3-margin-bottom" future-date="{{ include.meeting_data.date | date: '%Y/%m/%d' }}">
     <div class="col-md-12 text-default" style="padding-right: 0px; padding-left: 0px;">
-        <img src={{ include.image_uri }} alt="image" class="hashdump-card-image"/>
+        <div style="background-image:url({{ include.image_uri }});" class="hashdump-card-image"></div>
         <div style="padding:10px" class="background-foreground hashdump-card">
             <h4>{{ include.meeting_data.title }}</h4>
             <h5><span class="">6:00 PM on {{ include.meeting_data.date }}</span></h5>
@@ -31,7 +31,6 @@
     </div>
 {% endif %}
 
-<!-- We use images responsibly. Or something. -->
 {% if include.meeting_data.attrib %}
     <div id="{{ include.meeting_data.title | slugify }}-imageattrib" class="meeting-notes-popup border-primary shadow-lg bg-light rounded-lg">
         <h3> Image attribution </h2>

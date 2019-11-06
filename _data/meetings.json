@@ -313,8 +313,15 @@
 			"date": "November 5th, 2019",
 			"title": "Quantum Computing",
 			"picture": "quantum-chip-card.png",
-			"summary": "The fantastic Dr. Gersh will be enlightening us all on the wonders and dangers of a fast-approaching technological breakthrough - quantum computing. Learn about what it is and how it threatens to change our perception of cybersecurity while you enjoy some complimentary free pizza!",
+			"summary": "The fantastic Dr. Gersch will be enlightening us all on the wonders and dangers of a fast-approaching technological breakthrough - quantum computing. Learn about what it is and how it threatens to change our perception of cybersecurity while you enjoy some complimentary free pizza!",
 			"attrib": "Photograph of the D-Wave TwoX 1000 Qbit quantum annealing processor chip. Mwjohnson0 [CC BY-SA 4.0 (<a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>https://creativecommons.org/licenses/by-sa/4.0)</a>] (<a href='https://commons.wikimedia.org/wiki/File:D-Wave-Washington-1000Q.jpg' target='_blank'>link</a>)"
+		},
+		{
+			"date": "November 12th, 2019",
+			"title": "USB Rubber Ducky Demo",
+			"picture": "Rubber_duckies_so_many_ducks_please_send_help.jpg",
+			"summary": "Be careful! This innocuous flash-drive-looking thing is actually a keystroke injection tool that can do a whole number of malicious things to any unsuspecting machine. How does it work? What can you use it for? <i>Does it even work?</i> We'll find out together in this workshop.",
+			"attrib": "Image by gaetanlee [CC BY 2.0 (<a href='https://creativecommons.org/licenses/by/2.0'>https://creativecommons.org/licenses/by/2.0</a>)] (<a href='https://commons.wikimedia.org/wiki/File:Rubber_duckies_So_many_ducks.jpg'>link</a>)"
 		}
 	]
 }
