@@ -314,7 +314,13 @@
 			"title": "Quantum Computing",
 			"picture": "quantum-chip-card.png",
 			"summary": "The fantastic Dr. Gersch will be enlightening us all on the wonders and dangers of a fast-approaching technological breakthrough - quantum computing. Learn about what it is and how it threatens to change our perception of cybersecurity while you enjoy some complimentary free pizza!",
-			"attrib": "Photograph of the D-Wave TwoX 1000 Qbit quantum annealing processor chip. Mwjohnson0 [CC BY-SA 4.0 (<a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>https://creativecommons.org/licenses/by-sa/4.0)</a>] (<a href='https://commons.wikimedia.org/wiki/File:D-Wave-Washington-1000Q.jpg' target='_blank'>link</a>)"
+			"attrib": "Photograph of the D-Wave TwoX 1000 Qbit quantum annealing processor chip. Mwjohnson0 [CC BY-SA 4.0 (<a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>https://creativecommons.org/licenses/by-sa/4.0)</a>] (<a href='https://commons.wikimedia.org/wiki/File:D-Wave-Washington-1000Q.jpg' target='_blank'>link</a>)",
+			"links": [
+				{
+					"url": "/documents/QuantumComputing2019_Hashdump.pdf",
+					"name": "Presentation Slides"
+				}
+			]
 		},
 		{
 			"date": "November 12th, 2019",
