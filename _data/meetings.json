@@ -320,14 +320,16 @@
 					"url": "/documents/QuantumComputing2019_Hashdump.pdf",
 					"name": "Presentation Slides"
 				}
-			]
+			],
+			"notes": "Dr. Gersch gave a very informative presentation this week on quantum computing. Quantum physics, superposition, qbits, encryption algorithms and more were presented in an easy to follow exploration of the topics and what they mean in relation to cybersecurity. We were lucky enough to have him provide a copy of his slide deck for us. Be sure to check out the links he left on slide 18 for further information!"
 		},
 		{
 			"date": "November 12th, 2019",
 			"title": "USB Rubber Ducky Demo",
 			"picture": "Rubber_duckies_so_many_ducks_please_send_help.jpg",
 			"summary": "Be careful! This innocuous flash-drive-looking thing is actually a keystroke injection tool that can do a whole number of malicious things to any unsuspecting machine. How does it work? What can you use it for? <i>Does it even work?</i> We'll find out together in this workshop.",
-			"attrib": "Image by gaetanlee [CC BY 2.0 (<a href='https://creativecommons.org/licenses/by/2.0'>https://creativecommons.org/licenses/by/2.0</a>)] (<a href='https://commons.wikimedia.org/wiki/File:Rubber_duckies_So_many_ducks.jpg'>link</a>)"
+			"attrib": "Image by gaetanlee [CC BY 2.0 (<a href='https://creativecommons.org/licenses/by/2.0'>https://creativecommons.org/licenses/by/2.0</a>)] (<a href='https://commons.wikimedia.org/wiki/File:Rubber_duckies_So_many_ducks.jpg'>link</a>)",
+			
 		}
 	]
 }
