@@ -329,7 +329,20 @@
 			"picture": "Rubber_duckies_so_many_ducks_please_send_help.jpg",
 			"summary": "Be careful! This innocuous flash-drive-looking thing is actually a keystroke injection tool that can do a whole number of malicious things to any unsuspecting machine. How does it work? What can you use it for? <i>Does it even work?</i> We'll find out together in this workshop.",
 			"attrib": "Image by gaetanlee [CC BY 2.0 (<a href='https://creativecommons.org/licenses/by/2.0'>https://creativecommons.org/licenses/by/2.0</a>)] (<a href='https://commons.wikimedia.org/wiki/File:Rubber_duckies_So_many_ducks.jpg'>link</a>)",
-			
+			"links": [
+				{
+					"url":"https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910",
+					"name": "Hackernoon Instructions"
+				},
+				{
+					"url": "https://www.youtube.com/watch?v=N7CuQZMnLcw",
+					"name": "Linux Video Tutorial"
+				},
+				{
+					"url": "http://digistump.com/wiki/digispark/tutorials/linuxtroubleshooting",
+					"name": "Linux Troubleshooting Info"
+				}
+			]
 		}
 	]
 }
