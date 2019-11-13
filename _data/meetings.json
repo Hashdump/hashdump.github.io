@@ -341,6 +341,10 @@
 				{
 					"url": "http://digistump.com/wiki/digispark/tutorials/linuxtroubleshooting",
 					"name": "Linux Troubleshooting Info"
+				},
+				{
+					"url": "https://www.iot-experiments.com/micronucleus-bootloader-upgrade/",
+					"name": "Micronucleus Bootloader Upgrade"
 				}
 			]
 		}
