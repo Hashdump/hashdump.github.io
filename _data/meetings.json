@@ -347,6 +347,25 @@
 					"name": "Micronucleus Bootloader Upgrade"
 				}
 			]
+		},
+		{
+			"date": "November 19th, 2019",
+			"title": "Password Security Talk",
+			"picture": "website_security.jpg",
+			"summary": "Enjoy complimentary pizza while you listen to our Jordan Peterson rant about passwords, from best practices for users to the cracking tehcniques you can use to break them!"
+		},
+		{
+			"date": "December 3rd, 2019",
+			"title": "RFID Scanner Workshop",
+			"picture": "rfid-scanner-lab-card.jpg",
+			"summary": "RFID is everywhere, from your credit cards to your passports and even your pets. This meeting will show firsthand what security concerns our use of RFID creates, and whether or not you want to gather all of your RFID-enabled items and throw them into Mount Doom (spoiler: you probably don't).",
+			"attrib": "Image © Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons) (<a href='https://commons.wikimedia.org/wiki/File:Xerox_ColorQube_8570_-_Main_controller_-_Smart_Card-0418.jpg'>link</a>)"
+		},
+		{
+			"date": "December 10th, 2019",
+			"title": "2019 End of Year Party!",
+			"picture": "cyber-party.png",
+			"summary": "It's the end of the year, so you know what that means - cyber party! Eat pizza, play SNES games, and just generally do nothing important for the next hour or so.",
 		}
 	]
 }
