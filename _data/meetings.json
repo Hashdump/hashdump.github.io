@@ -352,7 +352,13 @@
 			"date": "November 19th, 2019",
 			"title": "Password Security Talk",
 			"picture": "website_security.jpg",
-			"summary": "Enjoy complimentary pizza while you listen to our Jordan Peterson rant about passwords, from best practices for users to the cracking tehcniques you can use to break them!"
+			"summary": "Enjoy complimentary pizza while you listen to our Jordan Peterson rant about passwords, from best practices for users to the cracking tehcniques you can use to break them!",
+			"links": [
+				{
+					"url": "/documents/hashdump-passwordsec-presentation-19-11-19.pptx",
+					"name": "Presentation Slides"
+				}
+			]
 		},
 		{
 			"date": "December 3rd, 2019",

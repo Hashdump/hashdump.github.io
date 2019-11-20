@@ -17,7 +17,21 @@ permalink: /
 	<h2>Hashdump News</h2>
 	<hr/>
 
-	<div class="col-md-12 w3-padding-16 w3-round w3-border w3-margin-bottom"> Nothing to see here! </div>
+	{% for news in site.data.news.news %}
+		{% if news.theme == "important" %}
+			<div class="col-md-12 w3-padding-16 w3-round w3-border w3-border red w3-margin-bottom">
+		{% elsif news.theme == "tangential" %}
+			<div class="col-md-12 w3-padding-16 w3-round w3-border w3-border-blue w3-margin-bottom" style="font-family: 'Comic Sans', 'Raleway', sans-serif'">
+		{% else %}
+			<div class="col-md-12 w3-padding-16 w3-round w3-border w3-margin-bottom">
+		{% endif %}
+		
+		{% if news.image %}
+			<img src="/assets/images/{{ news.image }}" class="w3-margin-right" style="height:70px; float:left;"> 
+		{% endif %}
+		{{ news.content }}
+	</div>
+	{% endfor %}
 </div>
 
 <div class="col-md-12">
@@ -26,7 +40,7 @@ permalink: /
 </div>
 		
 <div class="col-md-12">
-{% for meeting in site.data.meetings.meetings%}
+{% for meeting in site.data.meetings.meetings %}
 	{% assign uri = 'assets/images/' | append: meeting.picture %}
 	{% include meeting_card.html meeting_data=meeting image_uri=uri %}
 {% endfor %}
