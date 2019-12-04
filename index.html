@@ -19,7 +19,7 @@ permalink: /
 
 	{% for news in site.data.news.news %}
 		{% if news.theme == "important" %}
-			<div class="col-md-12 w3-padding-16 w3-round w3-border w3-border red w3-margin-bottom">
+			<div class="col-md-12 w3-padding-16 w3-round w3-border w3-border-red w3-margin-bottom">
 		{% elsif news.theme == "tangential" %}
 			<div class="col-md-12 w3-padding-16 w3-round w3-border w3-border-blue w3-margin-bottom" style="font-family: 'Comic Sans', 'Raleway', sans-serif'">
 		{% else %}

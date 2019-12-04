@@ -3,6 +3,11 @@
         {
             "theme": "tangential",
             "content": "Representing CSU, Hashdump's team at the Department of Energy Cyberforce Competition placed a cool <strong>69th</strong> out of the entire country! Nice."
+        },
+        {
+            "theme": "important",
+            "content": "Hashdump particpates in the <a href='https://plantzmasters.net/rmccdc/'>Rocky Mountain Collegiate Cyber Defense Competition (RMCCDC)</a> each year - if you are interested in being a part of our team for the 2020 competition occuring in March, take a look at the sign up sheet <a href='https://docs.google.com/forms/d/e/1FAIpQLSfvzMjZUt0C4_McxCd9S8_VK8oyVpO9eQguXtW9iAy1auvpXg/viewform'>here!</a>",
+            "image": "rmccdc_logo.png"
         }
     ]
 }
