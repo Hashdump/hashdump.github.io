@@ -382,6 +382,12 @@
 			"title": "2019 End of Year Party!",
 			"picture": "cyber-party.png",
 			"summary": "It's the end of the year, so you know what that means - cyber party! Eat pizza, play SNES games, and just generally do nothing important for the next hour or so."
+		},
+		{
+			"date": "January 28th, 2020",
+			"title": "Welcome to Hashdump (Spring Edition)",
+			"picture": "google-2020-ctf.png",
+			"summary": "We're back! Join us for a quick officer re-introduction and another go at Google's wonderful Beginner's Quest CTF. Don't forget your computer (hacking is difficult on a phone)!"
 		}
 	]
 }

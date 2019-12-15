@@ -1,6 +1,10 @@
 {
     "news": [
         {
+            "theme": "important",
+            "content": "<b>Hashdump meetings for the Fall 2019 semester are over!</b> We'll see you again on January 28th, when our first meeting of the Spring semester begins. Many thanks to all of our members who participated and made this semester awsome: there are many more great things in store!"
+        },
+        {
             "theme": "tangential",
             "content": "Representing CSU, Hashdump's team at the Department of Energy Cyberforce Competition placed a cool <strong>69th</strong> out of the entire country! Nice."
         },
