@@ -2,16 +2,11 @@
     "news": [
         {
             "theme": "important",
-            "content": "<b>Hashdump meetings for the Fall 2019 semester are over!</b> We'll see you again on January 28th, when our first meeting of the Spring semester begins. Many thanks to all of our members who participated and made this semester awsome: there are many more great things in store!"
-        },
-        {
-            "theme": "tangential",
-            "content": "Representing CSU, Hashdump's team at the Department of Energy Cyberforce Competition placed a cool <strong>69th</strong> out of the entire country! Nice."
+            "content": "<b>Hashdump meetings for the Fall 2019 semester are over!</b> We'll see you again on January 28th, when our first meeting of the Spring semester begins. Many thanks to all of our members who participated and made this semester awsome; there are many more great things in store!"
         },
         {
             "theme": "important",
-            "content": "Hashdump particpates in the <a href='https://plantzmasters.net/rmccdc/'>Rocky Mountain Collegiate Cyber Defense Competition (RMCCDC)</a> each year - if you are interested in being a part of our team for the 2020 competition occuring in March, take a look at the sign up sheet <a href='https://docs.google.com/forms/d/e/1FAIpQLSfvzMjZUt0C4_McxCd9S8_VK8oyVpO9eQguXtW9iAy1auvpXg/viewform'>here!</a>",
-            "image": "rmccdc_logo.png"
+            "content": "Due to scheduling conflicts with classes, Hashdump has temporarily moved its meeting time to <b>6:30 pm on Tuesday.</b>"
         }
     ]
 }
