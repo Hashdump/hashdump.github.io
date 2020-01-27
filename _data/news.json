@@ -2,10 +2,6 @@
     "news": [
         {
             "theme": "important",
-            "content": "<b>Hashdump meetings for the Fall 2019 semester are over!</b> We'll see you again on January 28th, when our first meeting of the Spring semester begins. Many thanks to all of our members who participated and made this semester awsome; there are many more great things in store!"
-        },
-        {
-            "theme": "important",
             "content": "Due to scheduling conflicts with classes, Hashdump has temporarily moved its meeting time to <b>6:30 pm on Tuesday.</b>"
         }
     ]
