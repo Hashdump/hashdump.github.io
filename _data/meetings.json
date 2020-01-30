@@ -394,6 +394,19 @@
 					"name": "Google CTF"
 				}
 			]	
+		},
+		{
+			"date": "February 4th, 2020",
+			"title": "Gone Phishing",
+			"picture": "gone-phishing-boat.png",
+			"summary": "Phishing is one of the most common and notorious examples of social engineering. In this presentation, Hashdump Officers Addie and Pierce will be showing off the techniques, both sophisticated and crude, that these cyber-anglers use to reel in their targets. Was that password reset email <em>really</em> from your bank? <em>Are you really on the Hashdump website right now?</em>",
+			"attrib": "Image was edited together from Douthat Fishing by vastateparksstaff [CC BY (https://creativecommons.org/licenses/by/2.0)] (<a href='https://commons.wikimedia.org/wiki/File:Douthat_Fishing_(12366568524).jpg'>link</a>) and Example of Domain Slamming phishing email by Noloader [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)] (<a href='https://commons.wikimedia.org/wiki/File:Example_of_Domain_Slamming_phishing_email_by_Network_'>link</a>)"
+		},
+		{
+			"date": "February 11th, 2020",
+			"title": "Damn Vulnerable Web App Redemption",
+			"picture": "dvwa-demonstration-card.png",
+			"summary": "Ever wanted your own vulnerable web server to practice techniques like SQL injection and XSS? No? Too bad! Hashdump Officer Griffin will be showing us how to set up this intentionally poorly-designed web application and walking us through some simple exploits you can use to pwn it. For real this time, we promise."
 		}
 	]
 }

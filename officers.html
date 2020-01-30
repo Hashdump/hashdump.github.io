@@ -10,7 +10,7 @@ permalink: /officers/
 	{% assign i = i | plus: 1 %}
 	<div class="col-md-4 w3-margin-bottom">
 		<div class="col-md-12 background-foreground text-default" style="padding-right:0px;padding-left:0px" future-date="{{ meeting.date | date: '%Y/%m/%d' }}">
-			<img class="w3-circle" src={{ uri }} style="width:50%;" alt="officer">
+			<img class="w3-round" src={{ uri }} style="width:50%;" alt="officer">
 			<div style="padding:10px" class="background-foreground hashdump-card">
 				<h4>{{ member.name }}</h4>
 				<h5>{{ member.title }}</h5>
@@ -23,6 +23,8 @@ permalink: /officers/
 						{% endfor %}
 					</ul>
 				{% endif %}
+				<h5>Contact</h5>
+				<a href="mailto:{{ member.email }}" target="_top">{{ member.email }}</a>
 			</div>
 		</div>
 	</div>
