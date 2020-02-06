@@ -407,6 +407,12 @@
 			"title": "Damn Vulnerable Web App Redemption",
 			"picture": "dvwa-demonstration-card.png",
 			"summary": "Ever wanted your own vulnerable web server to practice techniques like SQL injection and XSS? No? Too bad! Hashdump Officer Griffin will be showing us how to set up this intentionally poorly-designed web application and walking us through some simple exploits you can use to pwn it. For real this time, we promise."
+		},
+		{
+			"date": "February 18th, 2020",
+			"title": "General Internet Security Tips",
+			"picture": "you-just-got-ransomwared-card.png",
+			"summary": "The best way to achieve security online is to unplug your computer from the Internet. But what if you don't want to do that? Hashdump Officer Gus will be showing us some generally-applicable tips to stay safe while surfing the net without needing to toss your laptop and/or desktop machine into a dumpster fire."
 		}
 	]
 }
