@@ -413,6 +413,12 @@
 			"title": "General Internet Security Tips",
 			"picture": "you-just-got-ransomwared-card.png",
 			"summary": "The best way to achieve security online is to unplug your computer from the Internet. But what if you don't want to do that? Hashdump Officer Gus will be showing us some generally-applicable tips to stay safe while surfing the net without needing to toss your laptop and/or desktop machine into a dumpster fire."
+		},
+		{
+			"date": "February 25th, 2020",
+			"title": "The Vitamin G CTF Team",
+			"picture": "website_security.jpg",
+			"summary": "Want to get involved with Capture the Flag? Vitamin G, a CTF team here at CSU, will be dropping by to give a presentation on what CTFs are and some simple-to-difficult puzzles they've faced in actual CTFs - as well as extending their memebership to those who'd like to join in the quest to defeat these cybersecurity challenges! Don't worry, pizza be joining us for the meeting as well."
 		}
 	]
 }
