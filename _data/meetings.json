@@ -419,6 +419,13 @@
 			"title": "The Vitamin G CTF Team",
 			"picture": "website_security.jpg",
 			"summary": "Want to get involved with Capture the Flag? Vitamin G, a CTF team here at CSU, will be dropping by to give a presentation on what CTFs are and some simple-to-difficult puzzles they've faced in actual CTFs - as well as extending their memebership to those who'd like to join in the quest to defeat these cybersecurity challenges! Don't worry, pizza be joining us for the meeting as well."
+		},
+		{
+			"date": "March 3rd, 2020",
+			"title": "Heavy Vehicle Security",
+			"picture": "red-freightliner-heavy-vehicle.jpg",
+			"summary": "Do you feel safe driving down the road in your sixteen-wheeler semi? Well you shouldn't! CSU's own Dr. Jeremy Daily will by stopping by the Hashdump meeting room to introduce the physical and cyber aspects of securing heavy vehicles from theft and vandalism. Never again will your dense slab not be on lockdown.",
+			"attrib": "Image by Ildar Sagdejev (Specious) / CC BY-SA (<a href='https://creativecommons.org/licenses/by-sa/4.0'>license</a>) (<a href='https://commons.wikimedia.org/wiki/File:2009-07-05_Chatham_Steel_Freightliner.jpg'>image</a>)"
 		}
 	]
 }
