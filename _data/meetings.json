@@ -425,7 +425,13 @@
 			"title": "Heavy Vehicle Security",
 			"picture": "red-freightliner-heavy-vehicle.jpg",
 			"summary": "Do you feel safe driving down the road in your sixteen-wheeler semi? Well you shouldn't! CSU's own Dr. Jeremy Daily will by stopping by the Hashdump meeting room to introduce the physical and cyber aspects of securing heavy vehicles from theft and vandalism. Never again will your dense slab not be on lockdown. Pizza will be provided!",
-			"attrib": "Image by Ildar Sagdejev (Specious) / CC BY-SA (<a href='https://creativecommons.org/licenses/by-sa/4.0'>license</a>) (<a href='https://commons.wikimedia.org/wiki/File:2009-07-05_Chatham_Steel_Freightliner.jpg'>image</a>)"
+			"attrib": "Image by Ildar Sagdejev (Specious) / CC BY-SA (<a href='https://creativecommons.org/licenses/by-sa/4.0'>license</a>) (<a href='https://commons.wikimedia.org/wiki/File:2009-07-05_Chatham_Steel_Freightliner.jpg'>image</a>)",
+			"links": [
+				{
+					"url": "/document/VitaminG.pptx",
+					"name": "Presentation Slides"
+				}
+			]	
 		}
 	]
 }
