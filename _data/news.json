@@ -1,7 +1,8 @@
 {
     "news": [
         {
-            "content": "Hashdump is still looking for new logo designs! If you know someone artistically inclined, please consider getting them get in contact with us."
+            "theme": "important",
+            "content": "Due to the closure of in-person classes until April 10th, Hashdump will be holding meetings <b>over the internet</b> when we return from spring break. Stay tuned on Slack or this website for more information about how this will take place."
         }
     ]
 }
