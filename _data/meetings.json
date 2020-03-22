@@ -438,6 +438,12 @@
             "title": "Kryptsec Guest Presenation",
             "picture": "wireshark.jpeg",
             "summary": "In this meeting, fellow CSU cybersecurity enthusiasts Kryptsec will be stopping by to give a guest presentation! This one will be all about wireshark; how to use it effectively and all of the wonderful/terrifying things it is capable of. Drop by and learn how to hone your digital forensic skills!"
+        },
+        {
+            "date": "March 24th, 2020",
+            "title": "Merlin Malware Demo",
+            "picture": "memz-trojan.jpg",
+            "summary": "For our glorius return to meetings, Hashdump Officer Casey will be introducing us to an exciting new family of malware that takes advantage of exploits in the HTTP/2 protocol. Remember not to show up to the CSB! Join us <a href='slack://channel?id=C4HP7E3SA&team=T4GCPCTPB'>on Slack</a> instead to hang out with us and see his video presentation at a CDC-approved distance."
         }
 	]
 }
