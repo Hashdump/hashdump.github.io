@@ -444,6 +444,12 @@
             "title": "Merlin Malware Demo",
             "picture": "memz-trojan.jpg",
             "summary": "For our glorius return to meetings, Hashdump Officer Casey will be introducing us to an exciting new family of malware that takes advantage of exploits in the HTTP/2 protocol. Remember not to show up to the CSB! Join us <a href='slack://channel?id=C4HP7E3SA&team=T4GCPCTPB'>on Slack</a> instead to hang out with us and see his video presentation at a CDC-approved distance."
+        },
+        {
+            "date": "April 7th, 2020",
+            "title": "Vitamin G CTF Recap",
+            "picture": "hack-the-box-generic-card.png",
+            "summary": "Hashdump Officers Addie and Griffin will be demonstrating some CTF puzzles they recently tackled with Vitamin G. Come join us on our <a href='https://discord.gg/KfdWtGb'>shiny new Discord server</a> for the presentation. Hope to see you there!"
         }
 	]
 }
