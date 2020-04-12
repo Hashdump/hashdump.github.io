@@ -450,6 +450,12 @@
             "title": "Vitamin G CTF Recap",
             "picture": "hack-the-box-generic-card.png",
             "summary": "Hashdump Officers Addie and Griffin will be demonstrating some CTF puzzles they recently tackled with Vitamin G. Come join us on our <a href='https://discord.gg/KfdWtGb'>shiny new Discord server</a> for the presentation. Hope to see you there!"
+        },
+        {
+            "date": "April 14th, 2020",
+            "title": "Select Kail Tools Demo",
+            "picture": "kali_green_red.jpg",
+            "summary": "Kali Linux is loved by pentesters, CTF participants, and general security enthusiasts alike for its diverse and powerful range of tools. But there are so many of them! What are they for? How can we use them? Will any of them help me make the perfect mac-n-cheese? We will attempt to answer at least two of those questions in this meeting! Come on by <a href='https://discord.gg/KfdWtGb'>our Discord server</a> to participate."
         }
 	]
 }
