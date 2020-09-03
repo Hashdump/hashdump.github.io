@@ -456,6 +456,12 @@
             "title": "Select Kail Tools Demo",
             "picture": "kali_green_red.jpg",
             "summary": "Kali Linux is loved by pentesters, CTF participants, and general security enthusiasts alike for its diverse and powerful range of tools. But there are so many of them! What are they for? How can we use them? Will any of them help me make the perfect mac-n-cheese? We will attempt to answer at least two of those questions in this meeting! Come on by <a href='https://discord.gg/KfdWtGb'>our Discord server</a> to participate."
-        }
+        },
+        {
+            "date": "September 3rd, 2020",
+            "title": "Welcome back!",
+            "picture": "hack-the-box-generic-card.png",
+            "summary": "Hashdump is back! Join us for a quick re-introductory meeting, where we briefly discuss the club and go over a few simple hack the box challenges... as well as try some ourselves!"
+         }
 	]
 }
