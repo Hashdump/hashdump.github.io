@@ -462,6 +462,29 @@
             "title": "Welcome back!",
             "picture": "hack-the-box-generic-card.png",
             "summary": "Hashdump is back! Join us for a quick re-introductory meeting, where we briefly discuss the club and go over a few simple hack the box challenges... as well as try some ourselves!"
-         }
+        },
+        {
+            "date": "September 10th, 2020",
+            "title": "Setting up Virtual Machines",
+            "picture": "ubuntu_vm_card.png",
+            "summary": "Virtual machines are common and useful tools in all areas of comptuer science - but especially cybersecurity, since they aid greatly in everything from analysis to research to experimentation. At this meeting we will walk through how to set up your very own security-focused virutal machine, running either Kali or Parrot Linux (whic you may even use in future meetings!) Be sure to follow the links below to download the setup files for Parrot or Kali Linux before the meeting.",
+            "links": [
+                {
+                    "url": "https://download.parrot.sh/parrot/iso/4.10/Parrot-security-4.10_amd64.iso",
+                    "name": "Parrot ISO Direct Download"
+                },
+                {
+                    "url": "https://cdimage.kali.org/kali-2020.3/kali-linux-2020.3-live-amd64.iso",
+                    "name": "Kali ISO Direct Download"
+                }
+            ]
+        },
+        {
+            "date": "September 17th, 2020",
+            "title": "Deepfakes and Officer Elections",
+            "picture": "deepfake_card.png",
+            "summary": "Join us for a discussion about deepfakes - what they are, their ethical implications, and how we can use technology to both create and possibly detect them. Later in the meeting, we will be holding officer elections, so if you'd like to help take the reins of the club and steer its future, please apply! (More detailed information on this soon)",
+            "attrib": "Neural net filters image by Cecbur / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)"
+        }
 	]
 }
