@@ -485,6 +485,13 @@
             "picture": "deepfake_card.png",
             "summary": "Join us for a discussion about deepfakes - what they are, their ethical implications, and how we can use technology to both create and possibly detect them. Later in the meeting, we will be holding officer elections, so if you'd like to help take the reins of the club and steer its future, please apply! (More detailed information on this soon)",
             "attrib": "Neural net filters image by Cecbur / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)"
+		},
+		{
+            "date": "October 1st, 2020",
+            "title": "Malware Demonstration",
+            "picture": "Malware-Demo.png",
+            "summary": "Hashdump President Pierce Smith will be running a demonstration of how varieties of malware affect computers.",
+            "attrib": "EFF-Graphics / CC BY 3.0 US (https://creativecommons.org/licenses/by/3.0/us/deed.en)"
         }
 	]
 }
