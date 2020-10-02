@@ -491,7 +491,8 @@
             "title": "Malware Demonstration",
             "picture": "Malware-Demo.png",
             "summary": "Hashdump President Pierce Smith will be running a demonstration of how varieties of malware affect computers.",
-            "attrib": "EFF-Graphics / CC BY 3.0 US (https://creativecommons.org/licenses/by/3.0/us/deed.en)"
+			"attrib": "EFF-Graphics / CC BY 3.0 US (https://creativecommons.org/licenses/by/3.0/us/deed.en)",
+			"notes": "Pierce showcased a variety of malware, and its effects on computers. We mostly looked at older malware since the effects are a little easier to see. We went over some network worms (Klez, Nimda, Sality, Swen) that disguise themself and spread over e-mail or a networks shared files, and some ransomware (Petya and WannaCry) that encrypts your entire computer! All you needed to get your files back was a measly $300 in bitcoin. The meeting was educational and it was quite entertaining to see malware in action. See you next week!"
         }
 	]
 }
