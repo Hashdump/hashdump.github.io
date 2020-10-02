@@ -503,9 +503,9 @@
 		},
 		{
             "date": "October 15th, 2020",
-            "title": "Cybersec Awareness Month: Presentation on Passwords",
+            "title": "Cybersec Awareness Month: \"Pass the Hash\" presentation.",
             "picture": "logo.png",
-            "summary": "We will be giving a presentation for Cybersecurity Awareness Month"
+            "summary": "We will be giving a presentation for Cybersecurity Awareness Month titled, \"Pass the Hash: A Discerning Guide to How (and How Not) to Use Passwords\""
         }
 	]
 }
