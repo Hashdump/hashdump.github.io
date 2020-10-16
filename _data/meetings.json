@@ -514,6 +514,19 @@
 				}
 			],
 			"notes": "Hashdump president Pierce went into detail about password security. In this presentation, we covered a few sub topics of password security. We covered how websites stores passwords using techniques like hashing and salting, we talked about good and bad password habits and why those specific habits make a good or a bad password. We talked about the most effective passwords, and how using a password manager to balance convenience and security can save your information. Finally, we touched on the significance of multi factor authentication."
+		},
+		{
+            "date": "October 22nd, 2020",
+            "title": "Cicada 3301 Documentary",
+            "picture": "cicada-3301-logo.png",
+			"summary": "We will be watching the Youtube channel Great Big Story's documentary on the organization 3301's Cicada challenge."
+		},
+		{
+            "date": "October 29th, 2020",
+            "title": "Phishing Trip",
+            "picture": "Fish-hook.jpg",
+			"summary": "Hashdump Secretary Jack will be giving a presentation on social engineering attacks with a focus on phishing, followed by an activity where we will try to phish other members.",
+			"attrib": "AntanO, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
         }
 	]
 }
