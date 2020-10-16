@@ -512,7 +512,8 @@
 					"url": "https://zoom.us/j/96662060659?pwd=VWV0cFFUSlh0ekVsR2Rsc2VxL0s5UT09",
 					"name": "Zoom Link"
 				}
-			]
+			],
+			"notes": "Hashdump president Pierce went into detail about password security. In this presentation, we covered a few sub topics of password security. We covered how websites stores passwords using techniques like hashing and salting, we talked about good and bad password habits and why those specific habits make a good or a bad password. We talked about the most effective passwords, and how using a password manager to balance convenience and security can save your information. Finally, we touched on the significance of multi factor authentication."
         }
 	]
 }
