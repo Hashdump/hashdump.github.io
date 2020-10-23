@@ -527,6 +527,18 @@
             "picture": "Fish-hook.jpg",
 			"summary": "Hashdump Secretary Jack will be giving a presentation on social engineering attacks with a focus on phishing, followed by an activity where we will try to phish other members.",
 			"attrib": "AntanO, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+		},
+		{
+            "date": "November 5th, 2020",
+            "title": "RMCCDC Prep",
+            "picture": "RMCCDC.png",
+			"summary": "For this meeting we will be practicing breaking into computers to prepare for the Rocky Mountain Collegiate Cyber Defense Competition.",
+			"links": [
+				{
+					"url": "https://rmccdc.regis.edu/",
+					"name": "RMCCDC Website"
+				}
+			]
         }
 	]
 }
