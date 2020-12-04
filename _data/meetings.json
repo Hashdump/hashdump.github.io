@@ -543,10 +543,22 @@
 			"notes": "Enzo gave us a crash course on Kubernetes and Dockers. We started with the basics, building our way up from single docker images into clusters. Through live demonstrations, we learned what a docker image really is and how it works. After understanding the fundamentals, we went into some of the processes involved in securing dockers, as well as some applications that will streamline the security process. These applications are used by large companies, so it was very applicable to real situations."
 		},
 		{
-            "date": "November 17th, 2020",
+            "date": "November 19th, 2020",
             "title": "Digital Forensics Demo",
             "picture": "Hard_disk.jpg",
 			"summary": "Hashdump President Pierce Smith will be demonstrating methods for recovering deleted data from disk images"
+		},
+		{
+            "date": "December 3rd, 2020",
+            "title": "Unwinding with Jackbox",
+            "picture": "Jackbox.svg",
+			"summary": "As the semester winds down so will we, for this meeting we will simply be playing Jackbox party games"
+		},
+		{
+            "date": "December 10th, 2020",
+            "title": "GitHub Guest Speaker",
+            "picture": "github.svg",
+			"summary": "For this meeting we will have a guest speaker from GitHub, Software Engineer Robert Reichel, talking about Threat Modeling."
         }
 	]
 }
