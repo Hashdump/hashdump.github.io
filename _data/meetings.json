@@ -559,6 +559,12 @@
             "title": "GitHub Guest Speaker",
             "picture": "github.svg",
 			"summary": "For this meeting we will have a guest speaker from GitHub, Software Engineer Robert Reichel, talking about Threat Modeling."
+		},
+		{
+            "date": "January 28th, 2021",
+            "title": "Hashdump Intro and DEF CON Cybersec Talk",
+            "picture": "logo.png",
+			"summary": "Welcome back! For this meeting we will go through introductory slides, followed by a DEF CON talk on airplane/drone cybersecurity."
         }
 	]
 }
