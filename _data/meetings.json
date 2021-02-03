@@ -565,6 +565,12 @@
             "title": "Hashdump Intro and DEF CON Cybersec Talk",
             "picture": "logo.png",
 			"summary": "Welcome back! For this meeting we will go through introductory slides, followed by a DEF CON talk on airplane/drone cybersecurity."
+		},
+		{
+            "date": "February 4th, 2021",
+            "title": "Damn Vulnerable Web Application Demonstration",
+            "picture": "DVWA_Logo.jpeg",
+			"summary": "For this meeting, Hashdump President Pierce Smith will be demonstrating exploits against the Damn Vulnerable Web Application (DVWA)"
         }
 	]
 }
