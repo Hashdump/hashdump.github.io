@@ -571,6 +571,18 @@
             "title": "Damn Vulnerable Web Application Demonstration",
             "picture": "DVWA_Logo.jpeg",
 			"summary": "For this meeting, Hashdump President Pierce Smith will be demonstrating exploits against the Damn Vulnerable Web Application (DVWA)"
+		},
+		{
+            "date": "February 11th, 2021",
+            "title": "SSH Bandit",
+            "picture": "ssh.jpeg",
+			"summary": "For this meeting, We will be playing the Bandit wargame.",
+			"links": [
+				{
+					"url": "https://overthewire.org/wargames/bandit/",
+					"name": "site"
+				}
+			]
         }
 	]
 }
