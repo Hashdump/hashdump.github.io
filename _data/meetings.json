@@ -583,6 +583,33 @@
 					"name": "site"
 				}
 			]
+        },
+		{
+            "date": "February 18th, 2021",
+            "title": "AI in Cybersecurity",
+            "picture": "AI.jpg",
+			"attrib": "mikemacmarketing, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+			"summary": "For this meeting, Hashdump Secretary Jack Soveriegn will be giving a presentation on AI in the context of cybersecurity."
+        },
+		{
+            "date": "February 25th, 2021",
+            "title": "24/7 CTF",
+            "picture": "247ctf.jfif",
+			"summary": "For this meeting, We will be playing the 24/7 CTF.",
+			"links": [
+				{
+					"url": "https://www.virtualbox.org/",
+					"name": "Virtual Box"
+				},
+				{
+					"url": "https://www.kali.org/downloads/",
+					"name": "Kali Linux"
+				},
+				{
+					"url": "https://parrotlinux.org/download/",
+					"name": "Parrot OS"
+				}
+			]
         }
 	]
 }
