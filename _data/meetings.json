@@ -610,6 +610,12 @@
 					"name": "Parrot OS"
 				}
 			]
+        },
+		{
+            "date": "March 11th, 2021",
+            "title": "Cybersecurity Games",
+            "picture": "logo.png",
+			"summary": "For this meeting, we will be playing Jeopardy and Scribbl.io, featuring topics surrounding cybersecurity."
         }
 	]
 }
