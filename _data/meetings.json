@@ -616,6 +616,19 @@
             "title": "Cybersecurity Games",
             "picture": "logo.png",
 			"summary": "For this meeting, we will be playing Jeopardy and Scribbl.io, featuring topics surrounding cybersecurity."
+        },
+		{
+            "date": "March 18th, 2021",
+            "title": "Natas Wargame",
+            "picture": "National Archives Server Room.jpg",
+			"attrib":"The National Archives (UK), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+			"summary": "For this meeting, we will be playing the Natas Wargame, from the same creators as SSH Bandit, this wargame focuses on serverside web-security.",
+			"links": [
+				{
+					"url": "https://overthewire.org/wargames/natas/natas0.html",
+					"name": "Over the Wire: Natas"
+				}
+			]
         }
 	]
 }
