@@ -629,6 +629,12 @@
 					"name": "Over the Wire: Natas"
 				}
 			]
+        },
+		{
+            "date": "April 1st, 2021",
+            "title": "Cybersecurity Jeopardy",
+            "picture": "familyfeudlogo.png",
+			"summary": "For this meeting, we will be playing Family Feud, featuring topics surrounding cybersecurity."
         }
 	]
 }
