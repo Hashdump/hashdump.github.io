@@ -635,6 +635,12 @@
             "title": "Cybersecurity Jeopardy",
             "picture": "familyfeudlogo.png",
 			"summary": "For this meeting, we will be playing Family Feud, featuring topics surrounding cybersecurity."
+        },
+	{
+            "date": "September 9th, 2021",
+            "title": "Welcome Back!",
+            "picture": "logo.png",
+	    "summary": "For our first meeting this semester, we will discuss what the club will look like this year and demonstrate a few CTF challenges!"
         }
 	]
 }
