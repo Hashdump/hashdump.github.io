@@ -641,6 +641,12 @@
             "title": "Welcome Back!",
             "picture": "logo.png",
 	    "summary": "For our first meeting this semester, we will discuss what the club will look like this year and demonstrate a few CTF challenges!"
+        },
+	{
+            "date": "September 16th, 2021",
+            "title": "Tamper Evident Devices",
+            "picture": "defcon_badge.jpg",
+	    "summary": "For this meeting, we will watch a DEF CON video on tamper evident devices!"
         }
 	]
 }
