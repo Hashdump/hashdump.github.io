@@ -647,6 +647,12 @@
             "title": "Tamper Evident Devices",
             "picture": "defcon_badge.jpg",
 	    "summary": "For this meeting, we will watch a DEF CON video on tamper evident devices!"
+        },
+		{
+            "date": "September 23rd, 2021",
+            "title": "Cyberthreat Roundtable",
+            "picture": "petya.png",
+	    "summary": "For this meeting, we will assign participants roles in a fictional company and play out various responses to 6 different cyberthreats."
         }
 	]
 }
