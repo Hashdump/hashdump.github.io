@@ -658,7 +658,21 @@
             "date": "September 30th, 2021",
             "title": "Virtual Machines",
             "picture": "ubuntu_vm_card.png",
-	    "summary": "Hashdump Treasurer Enzo Barrett will give a presentation on virtual machines and lead attendees in downloading / using their own."
+	    "summary": "Hashdump Treasurer Enzo Barrett will give a presentation on virtual machines and lead attendees in downloading / using their own.",
+	    "links": [
+				{
+				"url": "https://www.virtualbox.org/",
+				"name": "Virtual Box"
+			},
+				{
+				"url": "https://www.kali.org/downloads/",
+				"name": "Kali Linux"
+			},
+				{
+				"url": "https://parrotlinux.org/download/",
+				"name": "Parrot OS"
+			}
+		]
         }
 	]
 }
