@@ -653,6 +653,12 @@
             "title": "Cyberthreat Roundtable",
             "picture": "petya.png",
 	    "summary": "For this meeting, we will assign participants roles in a fictional company and play out various responses to 6 different cyberthreats."
+        },
+		{
+            "date": "September 30th, 2021",
+            "title": "Virtual Machines",
+            "picture": "petya.png",
+	    "summary": "Hashdump Treasurer Enzo Barrett will give a presentation on virtual machines and lead attendees in downloading / using their own."
         }
 	]
 }
