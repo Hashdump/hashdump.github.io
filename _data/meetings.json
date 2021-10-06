@@ -673,6 +673,12 @@
 				"name": "Parrot OS"
 			}
 		]
+        },
+		{
+            "date": "October 7th, 2021",
+            "title": "TryHackMe",
+            "picture": "petya.png",
+	    "summary": "For this meeting, we will make accounts for TryHackMe and run through several of their challenges!"
         }
 	]
 }
