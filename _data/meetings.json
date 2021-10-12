@@ -679,6 +679,12 @@
             "title": "TryHackMe",
             "picture": "generic_hacker.png",
 	    "summary": "For this meeting, we will make accounts for TryHackMe and run through several of their challenges!"
+        },
+		{
+            "date": "October 14th, 2021",
+            "title": "Social Engineering (and Pizza!)",
+            "picture": "gone-phishing-boat.png",
+	    "summary": "As a special presentation for Cybersecurity Awareness Month, Hashdump President Jack will be giving a presentation on social engineering!  There will be pizza and a competition to (ethically) phish other participants."
         }
 	]
 }
