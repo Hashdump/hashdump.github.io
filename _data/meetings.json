@@ -687,7 +687,7 @@
 	    "summary": "As a special presentation for Cybersecurity Awareness Month, Hashdump President Jack will be giving a presentation on social engineering!  There will be pizza and a competition to (ethically) phish other participants."
         },
 		{
-            "date": "October 21th, 2021",
+            "date": "October 21st, 2021",
             "title": "Guest Speaker: CI/CD Pipeline Security",
             "picture": "Kubernetes_logo.svg",
 	    "summary": "Guest speaker Jeff Dean from Upslope.io will be joining us to talk about adding security to your CI/CD pipeline, kubernetes hardening, and other OWASP development security concerns."
