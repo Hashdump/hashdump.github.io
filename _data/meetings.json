@@ -703,6 +703,12 @@
             "title": "Securing Linux Servers",
             "picture": "Debian.jpg",
 	    "summary": "Hashdump Officer Enzo will be running a demo on how to secure Linux servers!  There will be DigitalOcean Debian servers set up for attendees to secure."
+        },
+		{
+            "date": "November 11th, 2021",
+            "title": "CyberForce Preparation",
+            "picture": "ssh.jpg",
+	    "summary": "The regular Hashdump meeting has been cancelled for this week to allow for the CyberForce competition team to prepare."
         }
 	]
 }
