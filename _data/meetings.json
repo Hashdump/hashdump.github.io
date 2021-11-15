@@ -709,6 +709,12 @@
             "title": "CyberForce Preparation",
             "picture": "ssh.jpg",
 	    "summary": "The regular Hashdump meeting has been cancelled for this week to allow for the CyberForce competition team to prepare."
+        },
+		{
+            "date": "November 18th, 2021",
+            "title": "Dr. Gersch: DNS",
+            "picture": "officers/joseph_gersch.jpg",
+	    "summary": "The one and only Dr. Gersch will be giving a presentation on using DNS to write secure code."
         }
 	]
 }
