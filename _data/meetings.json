@@ -715,7 +715,6 @@
             "title": "Dr. Gersch: DNS",
             "picture": "officers/joseph_gersch.jpg",
 	    "summary": "The one and only Dr. Gersch will be giving a presentation on using DNS to write secure code."
-			// Kubernetes_logo.svg
         },
 		{
             "date": "December 2nd, 2021",
