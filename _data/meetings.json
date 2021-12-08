@@ -721,6 +721,12 @@
             "title": "Kubernetes Workshop",
             "picture": "Kubernetes_logo.svg",
 	    "summary": "Guest speaker Jeff Dean will be returning to give a workshop on Kubernetes!"
+        },
+		{
+            "date": "December 9th, 2021",
+            "title": "Game Night",
+            "picture": "Nintendo.jpg",
+	    "summary": "For our last meeting of the semester, we will be having a pizza / game night!"
         }
 	]
 }
