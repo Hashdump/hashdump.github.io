@@ -727,6 +727,12 @@
             "title": "Game Night",
             "picture": "Nintendo.jpg",
 	    "summary": "For our last meeting of the semester, we will be having a pizza / game night!"
+        },
+		{
+            "date": "February 3rd, 2022",
+            "title": "A Welcoming CTF",
+            "picture": "Nintendo.jpg",
+	    "summary": "Welcome back!  For our first meeting of the new semester, we'll do a brief club introduction before trying out some simple CTF challenges."
         }
 	]
 }
