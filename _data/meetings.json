@@ -733,6 +733,12 @@
             "title": "A Very Definitely Happy CTF",
             "picture": "google-ctf-beginners-quest.png",
 	    "summary": "Welcome back!  For our first meeting of the new semester, we'll do a brief club introduction before trying out some simple CTF challenges."
+        },
+		{
+            "date": "February 10th, 2022",
+            "title": "Kali Linux Demo",
+            "picture": "google-ctf-beginners-quest.png",
+	    "summary": "Hashdump president Jack will be going over several features of Kali Linux, including the (usually legal) nmap, metasploit, and hydra tools."
         }
 	]
 }
