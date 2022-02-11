@@ -739,6 +739,12 @@
             "title": "Kali Linux Demo",
             "picture": "kali_green_red.jpg",
 	    "summary": "Hashdump president Jack will be going over several features of Kali Linux, including the (usually legal) nmap, metasploit, and hydra tools."
+        },
+		{
+            "date": "February 17th, 2022",
+            "title": "Cicada 3301",
+            "picture": "cicada-3301-logo.png",
+	    "summary": "We will be watching a documentary about Cicada 3301, an alleged organization that published 3 cybersecurity puzzles several years ago.  There will be free pizza / soda!"
         }
 	]
 }
