@@ -745,6 +745,18 @@
             "title": "Cicada 3301",
             "picture": "cicada-3301-logo.png",
 	    "summary": "We will be watching a documentary about Cicada 3301, an alleged organization that published 3 cybersecurity puzzles several years ago.  There will be free pizza / soda!"
+        },
+		{
+            "date": "February 24th, 2022",
+            "title": "Wargames",
+            "picture": "lock_circuit.png",
+	    "summary": "For this meeting, we'll be doing an online CTF competition!  After going through several challenges together, we will split into teams to compete for a very high-quality and not-cheap prize.",
+	    "links": [
+			{
+				"url": "https://overthewire.org/wargames/natas/",
+				"name": "Over the Wire: Natas"
+			}
+		]
         }
 	]
 }
