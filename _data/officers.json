@@ -79,13 +79,6 @@
 			"name": "Dr. Joseph Gersch",
 			"picture": "joseph_gersch.jpg",
 			"bio": "Dr. Gersch is an instructor at CSU, the former president of Secure64 Software Corporation, and a 24-year HP veteran. His current research includes systems and network security, blockchain, security analytics, and visualization. As our principle advisor, Dr. Gersch is brimming with knowledge and experience, and is always happy to share it."
-		},
-		{
-			"title": "Graduate Advisor",
-			"email": "jordantp@rams.colostate.edu",
-			"name": "Jordan Peterson",
-			"picture": "jordan_peterson.jpg",
-			"bio": "Jordan is a second-year grad student working towards a Master of Science in Computer Science at CSU. He is also a veteran of the Hashdump club, being a member since his undergrad and having held different officer positions in the club since 2016. His current research focuses on security within the ever-growing Internet of Things."
 		}
 	]
 }
