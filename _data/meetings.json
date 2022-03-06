@@ -757,6 +757,18 @@
 				"name": "Over the Wire: Natas"
 			}
 		]
+        },
+		{
+            "date": "March 3rd, 2022",
+            "title": "Game Night (and Pizza!)",
+            "picture": "cicada-3301-logo.png",
+	    "summary": "We will be engaging in a standard Hashdump midterm game night.  There will be free pizza!"
+        },
+		{
+            "date": "March 10th, 2022",
+            "title": "Quantum Computing",
+            "picture": "cicada-3301-logo.png",
+	    "summary": "The fantastic Dr. Gersch will be giving a presentation on the basics of quantum computing."
         }
 	]
 }
