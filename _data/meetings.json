@@ -769,6 +769,12 @@
             "title": "Quantum Computing",
             "picture": "quantum-chip-card.png",
 	    "summary": "The fantastic Dr. Gersch will be giving a presentation on the basics of quantum computing."
+        },
+		{
+            "date": "March 24th, 2022",
+            "title": "Hot Wings Interviews!",
+            "picture": "hot_wings.jpg",
+	    "summary": "Hashdump is joining with ACM-W to interview professors while they attempt to eat progessively hotter wings!  There will be free pizza and drinks provided."
         }
 	]
 }
