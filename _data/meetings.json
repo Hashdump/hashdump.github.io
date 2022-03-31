@@ -779,7 +779,7 @@
 		{
             "date": "March 31st, 2022",
             "title": "The Math Behind Cryptography",
-            "picture": "hot_wings.jpg",
+            "picture": "elliptic_curve.png",
 	    "summary": "This week we will be discussing some of the math involved in common cryptography, including some quantum-resistant algorithms!"
         }
 	]
