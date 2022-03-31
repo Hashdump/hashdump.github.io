@@ -775,6 +775,12 @@
             "title": "Hot Wings Interviews!",
             "picture": "hot_wings.jpg",
 	    "summary": "Hashdump is joining with ACM-W to interview professors while they attempt to eat progessively hotter wings!  There will be free pizza and drinks provided."
+        },
+		{
+            "date": "March 31st, 2022",
+            "title": "The Math Behind Cryptography",
+            "picture": "elliptic_curve.png",
+	    "summary": "This week we will be discussing some of the math involved in common cryptography, including some quantum-resistant algorithms!"
         }
 	]
 }
