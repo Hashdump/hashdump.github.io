@@ -787,6 +787,12 @@
             "title": "Malware Demo",
             "picture": "petya.png",
 	    "summary": "This week Jack will be doing a live malware demo!  Whether the malware will escape and take over the entire university remains to be seen."
+        },
+		{
+            "date": "April 4th, 2022",
+            "title": "ATM Hacking",
+            "picture": "petya.png",
+	    "summary": "This week we will be doing a brief introduction of officer duties in preparation for the coming election followed by a talk on hacking ATMS.  There will be free pizza!."
         }
 	]
 }
