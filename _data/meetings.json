@@ -793,6 +793,12 @@
             "title": "ATM Hacking",
             "picture": "Money.png",
 	    "summary": "This week we will be doing a brief introduction of officer duties in preparation for the coming election followed by a talk on hacking ATMS.  There will be free pizza!."
+        },
+		{
+            "date": "April 21st, 2022",
+            "title": "Meeting Cancelled",
+            "picture": "sad.png",
+	    "summary": "See you next week for a game night and officer elections!"
         }
 	]
 }
