@@ -26,6 +26,17 @@
       
 		},
 		{
+			"title": "Secretary",
+			"email": "Britta.Maher@colostate.edu",
+			"name": "Britta Maher",
+			"picture": "britta_maher.jpg",
+			"bio": "I am an undergraduate junior majoring in Computer Science at CSU. I participated in many different technology clubs such as Cyber Patriot and the First Tech Challenge during high school, and discovered my interest in cyber security through Cyber Patriot and Girls Go Cyber. I continued my pursuit of cybersecurity by joining Hashdump. I spend a lot of my free time going to hackathons, online conferences, reading or taking care of my plants.",
+			"responsibilities":[
+				"Take notes from meetings",
+				"Prepare and send weekly emails"
+			]
+		},
+		{
 			"title": "Webmaster",
 			"email": "monty.king@colostate.edu",
 			"name": "Monty King",
@@ -47,17 +58,6 @@
 				"Build/maintain vulnerable VMs",
 				"Create educational demos with our systems",
 				"Assist and supervise any projects a club member wants to do with our systems"
-			]
-		},
-		{
-			"title": "Secretary",
-			"email": "Britta.Maher@colostate.edu",
-			"name": "Britta Maher",
-			"picture": "britta_maher.jpg",
-			"bio": "I am an undergraduate junior majoring in Computer Science at CSU. I participated in many different technology clubs such as Cyber Patriot and the First Tech Challenge during high school, and discovered my interest in cyber security through Cyber Patriot and Girls Go Cyber. I continued my pursuit of cybersecurity by joining Hashdump. I spend a lot of my free time going to hackathons, online conferences, reading or taking care of my plants.",
-			"responsibilities":[
-				"Take notes from meetings",
-				"Prepare and send weekly emails"
 			]
 		},
 		{
