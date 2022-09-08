@@ -805,6 +805,12 @@
             "title": "Welcome Back!",
             "picture": "logo.png",
             "summary": "Join us for Hashdump's first meeting of the 2022 Fall semester!  We will discuss what activities you can look forward to in the coming weeks as well as demoing CTF challenges!"
+        },
+	{
+            "date": "September 8th, 2022",
+            "title": "Unix Commands and Tricks",
+            "picture": "ssh.jpg",
+            "summary": "This week Hashdump president Enzo Barrett will be showing useful Unix commands, a subject not usually taught in school but defintely useful!"
         }
 	]
 }
