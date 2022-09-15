@@ -811,6 +811,12 @@
             "title": "Unix Commands and Tricks",
             "picture": "ssh.jpg",
             "summary": "This week Hashdump president Enzo Barrett will be showing useful Unix commands, a subject not usually taught in school but defintely useful!"
+        },
+	{
+            "date": "September 15th, 2022",
+            "title": "Industry Night: PwC Presentation",
+            "picture": "pwc.jpg",
+            "summary": "PricewaterhouseCoopers, or PwC is the second largest provider of professional services in the world!  They manage and provide services such as auditing, accounting and human resources for various industries such as insurance or aerospace.  Join us for their presentation of how they manage all of this from a cybersecurity standpoint!"
         }
 	]
 }
