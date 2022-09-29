@@ -823,6 +823,12 @@
             "title": "Tamper Evident Devices",
             "picture": "warranty_void.jpg",
             "summary": "We will be exploring several examples of tamper evident devices and their use in and out of cybersecurity."
+        },
+	{
+            "date": "September 29th, 2022",
+            "title": "Industry Night: Plante Moran",
+            "picture": "plantemoran.jpg",
+            "summary": "Plante Moran is an auditing, tax, and business management firm, and their security professionals are here to show how they keep that all secure!"
         }
 	]
 }
