@@ -829,6 +829,12 @@
             "title": "Industry Night: Plante Moran",
             "picture": "plantemoran.jpg",
             "summary": "Plante Moran is an auditing, tax, and business management firm, and their security professionals are here to show how they keep that all secure!"
+        },
+	{
+            "date": "October 6th, 2022",
+            "title": "Multi Factor Authentication",
+            "picture": "multifac.png",
+            "summary": "Multi factor authentication is becomming more commonplace for online accounts and has been established internally at almost every company that prioritizes security.  How does it work and how can it be effectively implemented?"
         }
 	]
 }
