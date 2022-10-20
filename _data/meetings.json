@@ -835,6 +835,12 @@
             "title": "Multi Factor Authentication",
             "picture": "multifac.png",
             "summary": "Multi factor authentication is becomming more commonplace for online accounts and has been established internally at almost every company that prioritizes security.  How does it work and how can it be effectively implemented?"
+        },
+	{
+            "date": "October 20th, 2022",
+            "title": "Industry Night: HP",
+            "picture": "hp.png",
+            "summary": "HP will be giving a presentation and holding a panel for all things general technology and security focused topics!"
         }
 	]
 }
