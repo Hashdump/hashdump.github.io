@@ -841,6 +841,12 @@
             "title": "Industry Night: HP",
             "picture": "hp.png",
             "summary": "HP will be giving a presentation and holding a panel for all things general technology and security focused topics!"
+        },
+	{
+            "date": "October 27th, 2022",
+            "title": "Industry Night: Raytheon",
+            "picture": "ratheon.svg",
+            "summary": "A representative from Ratheon will be holding a presentation behind the security and defense of their technology and instrastructure."
         }
 	]
 }
