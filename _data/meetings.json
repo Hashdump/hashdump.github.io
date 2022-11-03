@@ -847,6 +847,12 @@
             "title": "Industry Night: Raytheon",
             "picture": "raytheon.svg",
             "summary": "A representative from Ratheon will be holding a presentation behind the security and defense of their technology and instrastructure."
-        }
+        },
+	{
+            "date": "November 3rd, 2022",
+            "title": "Game Night",
+            "picture": "smw-game-card.png",
+            "summary": "Join us for Hashdump game night to play a variety of board, card, and other weird games!"
+	}
 	]
 }
