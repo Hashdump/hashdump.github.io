@@ -853,6 +853,12 @@
             "title": "Game Night",
             "picture": "smw-game-card.png",
             "summary": "Join us for Hashdump game night to play a variety of board, card, and other weird games!"
+	},
+	{
+            "date": "November 10th, 2022",
+            "title": "Dr. Gersch: Blockchain",
+            "picture": "officers/joseph_gersch.jpg",
+            "summary": "Dr. Gersch will be giving a presentation about Blockchain, don't miss it!"
 	}
 	]
 }
