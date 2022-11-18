@@ -859,6 +859,12 @@
             "title": "Dr. Gersch: Blockchain",
             "picture": "officers/joseph_gersch.jpg",
             "summary": "Dr. Gersch will be giving a presentation about Blockchain, don't miss it!"
+	},
+	{
+            "date": "November 17th, 2022",
+            "title": "The Math behind Cryptography",
+            "picture": "elliptic_curve.png",
+            "summary": "We will be exploring the math behind cryptography and cybersecurity with Hashdump vice president Chloe."
 	}
 	]
 }
