@@ -865,6 +865,12 @@
             "title": "The Math behind Cryptography",
             "picture": "elliptic_curve.png",
             "summary": "We will be exploring the math behind cryptography and cybersecurity with Hashdump vice president Chloe."
+	},
+	{
+            "date": "January 26th, 2023",
+            "title": "Welcome Back!",
+            "picture": "logo.png",
+		"summary": "Welcome to the Spring semester!  We will be hosting a game night in CSB 130!"
 	}
 	]
 }
