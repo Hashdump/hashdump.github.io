@@ -871,6 +871,12 @@
             "title": "Welcome Back!",
             "picture": "logo.png",
 		"summary": "Welcome to the Spring semester!  We will be hosting a game night in CSB 130!"
+	},
+	{
+            "date": "Febuary 2nd, 2023",
+            "title": "Intro to CTF",
+            "picture": "google-ctf-beginners-quest.png",
+		"summary": "Hashdump officer Britta will be introducing CTFs, or Capture the Flag Challenges!"
 	}
 	]
 }
