@@ -870,13 +870,31 @@
             "date": "January 26th, 2023",
             "title": "Welcome Back!",
             "picture": "logo.png",
-		"summary": "Welcome to the Spring semester!  We will be hosting a game night in CSB 130!"
+	    "summary": "Welcome to the Spring semester!  We will be hosting a game night in CSB 130!"
 	},
 	{
-            "date": "Febuary 2nd, 2023",
+            "date": "February 2nd, 2023",
             "title": "Intro to CTF",
             "picture": "google-ctf-beginners-quest.png",
-		"summary": "Hashdump officer Britta will be introducing CTFs, or Capture the Flag Challenges!"
+	    "summary": "Hashdump officer Britta will be introducing CTFs, or Capture the Flag Challenges!"
+	},
+	{
+            "date": "February 9nd, 2023",
+            "title": "Intro to the Rubber Duck",
+            "picture": "rubber_ducky.jpg",
+	    "summary": "Treasurer Eric Martin demos the 'Rubby Ducky', a USB stick that acts like a keyboard."
+	},
+	{
+            "date": "February 15th, 2023",
+            "title": "Professional Development with WiCyS!",
+            "picture": "blank.png",
+	    "summary": "In this meeting our great friends at Women in Cyber Security take professional headshots. All are welcome!"
+	},
+	{
+            "date": "February 23rd, 2023",
+            "title": "Guest Speaker: Chris Ellis",
+            "picture": "raytheon.svg",
+	    "summary": "Guest speaker Chris Ellis from Raytheon gives a talk about networking, protocol reversing, and Wireshark!"
 	}
 	]
 }
