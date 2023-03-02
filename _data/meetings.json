@@ -895,6 +895,13 @@
             "title": "Guest Speaker: Chris Ellis",
             "picture": "raytheon.svg",
 	    "summary": "Guest speaker Chris Ellis from Raytheon gives a talk about networking, protocol reversing, and Wireshark!"
+	},
+	{
+            "date": "March 2nd, 2023",
+            "title": "Hot Wings Interviews",
+            "picture": "hot_wings.jpg",
+	    "summary": "Join us in this joint meeting with ACM and ACM-W for a panel of professors answering CS-type questions - all while eating increasingly hotter wings."
 	}
+		
 	]
 }
