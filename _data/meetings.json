@@ -901,6 +901,12 @@
             "title": "Hot Wings Interviews",
             "picture": "hot_wings.jpg",
 	    "summary": "Join us in this joint meeting with ACM and ACM-W for a panel of professors answering CS-type questions - all while eating increasingly hotter wings."
+	},
+	{
+            "date": "March 23rd, 2023",
+            "title": "Post Quantum Cryptography",
+            "picture": "Hard_disk.jpg",
+	    "summary": "In this presentation, Vice President Chloe Hesskamp gave a talk on Post Quantum Cryptography, which is the super interesting math behind cryptography algorithms and how they are affected by quantum computing."
 	}
 		
 	]
