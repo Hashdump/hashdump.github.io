@@ -907,7 +907,12 @@
             "title": "Post Quantum Cryptography",
             "picture": "Hard_disk.jpg",
 	    "summary": "In this presentation, Vice President Chloe Hesskamp gave a talk on Post Quantum Cryptography, which is the super interesting math behind cryptography algorithms and how they are affected by quantum computing."
+	},
+	{
+            "date": "April 6th, 2023",
+            "title": "ChatGPT and Hacking",
+            "picture": "AI.jpg",
+	    "summary": "Dr. Gersch and Dr. Hefner will give a presenation on how to use chatGPT to target victims and speed up your hacking."
 	}
-		
 	]
 }
