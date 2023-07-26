@@ -2,10 +2,10 @@
 	"officers":[
 		{
 			"title": "President",
-			"email": "enzo.barrett@rams.colostate.edu",
-			"name": "Enzo Barret",
-			"picture": "enzo_barrett_hd.JPG",
-			"bio": "Hello! I'm a junior music performance major at CSU (trumpet) and a CS double major. I love all things cyber security and enjoy being a member of this club. Some of by other hobbies include photography, music, and sailing.",
+			"email": "Chloe.Hesskamp@colostate.edu",
+			"name": "Chloe Hesskamp",
+			"picture": "chloe_hesskamp.png",
+			"bio": "I am a senior undergraduate student at CSU studying computer science and mathematics.  I became interested in cybersecurity through math and am especially interested in quantum-resistant cryptography and various applications of abstract algebra.  When I am not programming, I enjoy reading.",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
@@ -14,10 +14,10 @@
 		},
 		{
 			"title": "Vice President",
-			"email": "Chloe.Hesskamp@colostate.edu",
-			"name": "Chloe Hesskamp",
-			"picture": "chloe_hesskamp.png",
-			"bio": "I am a junior undergraduate student at CSU studying computer science and mathematics.  I became interested in cybersecurity through math and am especially interested in learning more about cryptography and cryptanalysis.  One of my goals is to spread awareness of cybersecurity to a broad audience.  When I am not programming, I enjoy playing the violin and reading.",
+			"email": "enzo.barrett@rams.colostate.edu",
+			"name": "Enzo Barret",
+			"picture": "enzo_barrett_hd.JPG",
+			"bio": "Hello! I'm a senior music performance major at CSU (trumpet) and a CS double major. I love all things cyber security and enjoy being a member of this club. Some of by other hobbies include photography, music, and sailing.",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
@@ -27,37 +27,13 @@
 		},
 		{
 			"title": "Secretary",
-			"email": "Britta.Maher@colostate.edu",
-			"name": "Britta Maher",
-			"picture": "britta_maher.jpg",
-			"bio": "I am an undergraduate junior majoring in Computer Science at CSU. I participated in many different technology clubs such as Cyber Patriot and the First Tech Challenge during high school, and discovered my interest in cyber security through Cyber Patriot and Girls Go Cyber. I continued my pursuit of cybersecurity by joining Hashdump. I spend a lot of my free time going to hackathons, online conferences, reading or taking care of my plants.",
+			"email": "",
+			"name": "Tyler",
+			"picture": "tyler.jpg",
+			"bio": "I am a senior undergraduate majoring in Computer Science. My main interests are firmware and cybersecurity, especially the development of software security tools. I am currently a part of the Division of IT's Cybersecurity and Privacy Student Internship.",
 			"responsibilities":[
 				"Take notes from meetings",
 				"Prepare and send weekly emails"
-			]
-		},
-		{
-			"title": "Webmaster",
-			"email": "monty.king@colostate.edu",
-			"name": "Monty King",
-			"picture": "blank.png",
-			"bio": "I am a second year undergraduate majoring in Data Science, with a minor in Information Science and Technology.  I'm interested in cybersecurity from the challenges it provides, keeping computer systems, data, and its users secure.  Some of my hobbies are of course programming, as well as biking, music, and animation.",
-			"responsibilities": [
-				"Maintain the website",
-				"Update topic information with urls and notes"
-			]
-		},
-		{
-			"title": "Sys Admin",
-			"email": "tyson.oleary@colostate.edu",
-			"name": "Tyson O'Leary",
-			"picture": "blank.png",
-			"bio": "",
-			"responsibilities": [
-				"Maintain club servers",
-				"Build/maintain vulnerable VMs",
-				"Create educational demos with our systems",
-				"Assist and supervise any projects a club member wants to do with our systems"
 			]
 		},
 		{
@@ -72,12 +48,23 @@
 				"Apply for funding"
 			]
 		},
+				{
+			"title": "Support Officer",
+			"email": "Britta.Maher@colostate.edu",
+			"name": "Britta Maher",
+			"picture": "britta_maher.jpg",
+			"bio": "I am an undergraduate senior majoring in Computer Science at CSU. I participated in many different technology clubs such as Cyber Patriot and the First Tech Challenge during high school, and discovered my interest in cyber security through Cyber Patriot and Girls Go Cyber. I continued my pursuit of cybersecurity by joining Hashdump. I spend a lot of my free time going to hackathons, online conferences, reading or taking care of my plants.",
+			"responsibilities":[
+				"Take notes from meetings",
+				"Prepare and send weekly emails"
+			]
+		},
 		{
 			"title": "Academic Advisor",
-			"email": "jgersch@colostate.edu",
-			"name": "Dr. Joseph Gersch",
-			"picture": "joseph_gersch.jpg",
-			"bio": "Dr. Gersch is an instructor at CSU, the former president of Secure64 Software Corporation, and a 24-year HP veteran. His current research includes systems and network security, blockchain, security analytics, and visualization. As our principle advisor, Dr. Gersch is brimming with knowledge and experience, and is always happy to share it."
+			"email": "amani.altarawneh@colostate.edu",
+			"name": "Amani Altarawneh",
+			"picture": "amani.jpeg",
+			"bio": "Professor Altarawneh is a computer science scholar with a specialization in cybersecurity at CSU. Her primary interests are in the areas of blockchain, cybersecurity, IoT, smart cities, and parallel programming."
 		}
 	]
 }
