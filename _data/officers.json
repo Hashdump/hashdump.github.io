@@ -27,8 +27,8 @@
 		},
 		{
 			"title": "Secretary",
-			"email": "",
-			"name": "Tyler",
+			"email": "Tyler.Rios@colostate.edu",
+			"name": "Tyler Rios",
 			"picture": "tyler.jpg",
 			"bio": "I am a senior undergraduate majoring in Computer Science. My main interests are firmware and cybersecurity, especially the development of software security tools. I am currently a part of the Division of IT's Cybersecurity and Privacy Student Internship.",
 			"responsibilities":[
@@ -40,7 +40,7 @@
 			"title": "Treasurer",
 			"email": "eric.burton.martin@colostate.edu",
 			"name": "Eric Martin",
-			"picture": "blank.png",
+			"picture": "eric_martin.jpeg",
 			"bio": "I am a 2nd Bachelors candidate pursuing a degree in Computer Science. My interests include software engineering, cybersecurity, and blockchain. Previously I was a professional chemist in the cannabis space.",
 			"responsibilities": [
 				"Create and maintain a budget",
