@@ -931,6 +931,12 @@
             "title": "Officer Elections and Guest Speaker!",
             "picture": "officer-elections.jpg",
 	    "summary": "Become a officer in Hashdump! Come participate in our officer elections! We will conclude with a guest presentation from well known cyber security specialist Sangameswaran Iyer Manikkayam."
+	},
+	{
+            "date": "August 30th, 2023",
+            "title": "Welcome Meeting + CTF",
+            "picture": "ssh.jpg",
+	    "summary": "Welcome back to a new year!  For our first meeting we'll do a general introduction to the club and play around with a CTF."
 	}
 	]
 }
