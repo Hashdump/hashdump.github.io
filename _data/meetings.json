@@ -937,6 +937,18 @@
             "title": "Welcome Meeting + CTF",
             "picture": "ssh.jpg",
 	    "summary": "Welcome back to a new year!  For our first meeting we'll do a general introduction to the club and play around with a CTF."
+	},
+	{
+            "date": "September 6th, 2023",
+            "title": "Phishing Presentation",
+            "picture": "ssh.jpg",
+	    "summary": "Revered treasurer Eric Martin will give a presentation about phishing strategies!"
+	},
+	{
+            "date": "September 13th, 2023",
+            "title": "Interactive Phishing",
+            "picture": "ssh.jpg",
+	    "summary": "Building on the previous meeting, we will present an interactive phishing activity where we try to phish one another."
 	}
 	]
 }
