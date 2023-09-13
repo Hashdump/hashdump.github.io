@@ -941,13 +941,13 @@
 	{
             "date": "September 6th, 2023",
             "title": "Phishing Presentation",
-            "picture": "ssh.jpg",
+            "picture": "Fish-hook.jpg",
 	    "summary": "Revered treasurer Eric Martin will give a presentation about phishing strategies!"
 	},
 	{
             "date": "September 13th, 2023",
             "title": "Interactive Phishing",
-            "picture": "ssh.jpg",
+            "picture": "gone-phishing-boat.png",
 	    "summary": "Building on the previous meeting, we will present an interactive phishing activity where we try to phish one another."
 	}
 	]
