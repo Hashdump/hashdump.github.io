@@ -949,6 +949,12 @@
             "title": "Interactive Phishing",
             "picture": "gone-phishing-boat.png",
 	    "summary": "Building on the previous meeting, we will present an interactive phishing activity where we try to phish one another."
+	},
+	{
+            "date": "September 20th, 2023",
+            "title": "Game Night",
+            "picture": "Nintendo.jpg",
+	    "summary": "Take a break from studying with a game night and pizza!"
 	}
 	]
 }
