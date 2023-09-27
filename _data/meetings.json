@@ -955,6 +955,12 @@
             "title": "Game Night",
             "picture": "Nintendo.jpg",
 	    "summary": "Take a break from studying with a game night and pizza!"
+	},
+	{
+            "date": "September 27th, 2023",
+            "title": "Malware Analysis",
+            "picture": "Malware-Demo.png",
+	    "summary": "For this meeting we'll have a guest speaker presenting on malware analysis!"
 	}
 	]
 }
