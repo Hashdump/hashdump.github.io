@@ -961,6 +961,30 @@
             "title": "Malware Analysis",
             "picture": "Malware-Demo.png",
 	    "summary": "For this meeting we'll have a guest speaker presenting on malware analysis!"
+	},
+	{
+            "date": "October 4th, 2023",
+            "title": "Linux Tips & Tricks",
+            "picture": "Linux_Logo.png",
+	    "summary": "Enzo will present on fun, useful, and occasionally quite strange Linux commands!"
+	},
+	{
+            "date": "October 11th, 2023",
+            "title": "Guest Speaker: Pentesting",
+            "picture": "generic_hacker.png",
+	    "summary": "For this meeting we'll have a guest speaker tell us all about pentesting, with tips for how to get into the industry!"
+	},
+	{
+            "date": "October 18th, 2023",
+            "title": "Network Chuck: The Dark Web",
+            "picture": "movie-night.jpg",
+	    "summary": "For this meeting we'll watch a compilation of NetworkChuck videos focusing on the dark web ... as it is illegal to run that meeting ourselves."
+	},
+	{
+            "date": "November 1st, 2023",
+            "title": "Dr. Gersch: Rust Security",
+            "picture": "officers/joseph_gersch.jpg",
+	    "summary": "The one and only slightly terrifying Dr. Gersch will be presenting on the security benefits of using the Rust programming language."
 	}
 	]
 }
