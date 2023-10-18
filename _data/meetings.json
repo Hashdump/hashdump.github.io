@@ -981,6 +981,12 @@
 	    "summary": "For this meeting we'll watch a compilation of NetworkChuck videos focusing on the dark web ... as it is illegal to run that meeting ourselves."
 	},
 	{
+            "date": "October 25th, 2023",
+            "title": "Cybersecurity Awareness Month",
+            "picture": "kali_green_red.jpg",
+	    "summary": "We will use tools like nmap and dirbuster to scan for vulnerabilities in a server, in the process extracting information about a hidden file."
+	},
+	{
             "date": "November 1st, 2023",
             "title": "Dr. Gersch: Rust Security",
             "picture": "officers/joseph_gersch.jpg",
