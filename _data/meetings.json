@@ -991,6 +991,12 @@
             "title": "Dr. Gersch: Rust Security",
             "picture": "officers/joseph_gersch.jpg",
 	    "summary": "The one and only slightly terrifying Dr. Gersch will be presenting on the security benefits of using the Rust programming language."
+	},
+	{
+            "date": "Janurary 24th, 2023",
+            "title": "OverTheWire Game",
+            "picture": "ssh.jpeg",
+	    "summary": "For this meeting, We will be playing the Bandit wargame. Woohoo"
 	}
 	]
 }
