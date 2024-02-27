@@ -1037,7 +1037,7 @@
 	{
             "date": "March 20th, 2024",
             "title": "Telephony in Wireshark",
-            "picture": "",
+            "picture": "wireshark.jpeg",
 	    "summary": "Enzo will demonstrate how to reconstruct phone calls from captured packets in Wireshark."
 	}
 	]
