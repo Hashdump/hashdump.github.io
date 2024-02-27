@@ -1027,6 +1027,18 @@
             "title": "OverTheWire Game",
             "picture": "cli_example.png",
 	    "summary": "For this meeting, we will revisit the Bandit wargames from the first meeting and practice some more ssh-based attacking!"
+	},
+	{
+            "date": "March 6th, 2024",
+            "title": "Guest Speaker: Software Engineering",
+            "picture": "",
+	    "summary": "Guest speaker Jeff Dean will return to a presentation on how to become a software engineer!"
+	},
+	{
+            "date": "March 20th, 2024",
+            "title": "Telephony in Wireshark",
+            "picture": "",
+	    "summary": "Enzo will demonstrate how to reconstruct phone calls from captured packets in Wireshark."
 	}
 	]
 }
