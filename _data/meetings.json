@@ -993,10 +993,40 @@
 	    "summary": "The one and only slightly terrifying Dr. Gersch will be presenting on the security benefits of using the Rust programming language."
 	},
 	{
-            "date": "Janurary 24th, 2024",
+            "date": "January 24th, 2024",
             "title": "OverTheWire Game",
             "picture": "cli_example.png",
-	    "summary": "For this meeting, We will be playing the Bandit wargame. Woohoo"
+	    "summary": "For this meeting, we will be playing the Bandit wargame. Woohoo!"
+	},
+	{
+            "date": "January 31st, 2024",
+            "title": "Attiny85 Microchip",
+            "picture": "cli_example.png",
+	    "summary": "For this meeting Enzo will lead us through coding the attiny85 microchip to execute malicious code."
+	},
+	{
+            "date": "February 7th, 2024",
+            "title": "Quantum Computing",
+            "picture": "cli_example.png",
+	    "summary": "We will have a presentation on the basics of quantum computing and Shor's Algorithm."
+	},
+	{
+            "date": "February 14th, 2024",
+            "title": "Game Night",
+            "picture": "cli_example.png",
+	    "summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
+	},
+	{
+            "date": "February 21th, 2024",
+            "title": "Rubber Duckies",
+            "picture": "cli_example.png",
+	    "summary": "For this meeting Eric will demonstrate rubber duckies!"
+	},
+	{
+            "date": "February 28th, 2024",
+            "title": "OverTheWire Game",
+            "picture": "cli_example.png",
+	    "summary": "For this meeting, we will revisit the Bandit wargames from the first meeting and practice some more ssh-based attacking!"
 	}
 	]
 }
