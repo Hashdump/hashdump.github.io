@@ -1039,6 +1039,18 @@
             "title": "Telephony in Wireshark",
             "picture": "wireshark.jpeg",
 	    "summary": "Enzo will demonstrate how to reconstruct phone calls from captured packets in Wireshark."
+	},
+	{
+            "date": "March 27th, 2024",
+            "title": "Game Night",
+            "picture": "Nintendo.jpg",
+	    "summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
+	},
+	{
+            "date": "April 3rd, 2024",
+            "title": "Dr. Gersch!",
+            "picture": "officers/joseph_gersch.jpg",
+	    "summary": "Our glorious emperor Dr. Gersch will be giving a talk.  About what?  No one knows!  Show up and find out!"
 	}
 	]
 }
