@@ -5,7 +5,7 @@ permalink: /meetings/
 {% include header.html %}
 
 {% assign i = 0 %}
-<div class="col-md-12">
+<div class="col-md-12 card-list">
 	{% for meeting in site.data.meetings.meetings reversed%}
 		{% assign uri = '/assets/images/' | append: meeting.picture %}
 		{% assign i = i | plus: 1 %}

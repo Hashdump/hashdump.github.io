@@ -2,6 +2,10 @@ body, h1, h2, h3, h4, h5 {
     font-family: "Raleway", sans-serif
 }
 
+#mySidebar, #myOverlay {
+    transition: linear 0.2s;
+}
+
 .w3-third img {
     padding: 5px;
     opacity: 1;
@@ -69,10 +73,40 @@ body, h1, h2, h3, h4, h5 {
     }
 }
 
-a {
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.officer-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    column-gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+}
+
+.officer-pronouns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.pronoun-badge {
+    background-color: #0018a3;
+    color: #ffffff;
+    letter-spacing: 0.3px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 1rem;
+}
+
+a, .officer-email {
     color: #0018a3;
     text-decoration: none;
     font-weight: bold;
+    margin-bottom: 0rem;
 }
 
 .social-media {
@@ -80,7 +114,7 @@ a {
     text-decoration: none;
 }
 
-a:hover
+a:hover, .officer-email:hover
 {
     color:#7ac9f9;
     text-decoration:none;

@@ -4,7 +4,7 @@ permalink: /officers/
 {% assign title = 'Officers' %}
 {% include header.html %}
 
-<div class="col-md-12">
+<div class="col-md-12 card-list">
 {% for member in site.data.officers.officers %}
 {% assign uri = '/assets/images/officers/' | append: member.picture %}
 	{% assign i = i | plus: 1 %}
@@ -12,19 +12,28 @@ permalink: /officers/
 		<div class="col-md-12 background-foreground text-default" style="padding-right:0px;padding-left:0px" future-date="{{ meeting.date | date: '%Y/%m/%d' }}">
 			<img class="w3-circle" src={{ uri }} style="width:50%;" alt="officer">
 			<div style="padding:10px" class="background-foreground hashdump-card">
-				<h4>{{ member.name }}</h4>
+				<div class="officer-heading">
+					<h4>{{ member.name }}</h4>
+					{% if member.pronouns %}
+						<div class="officer-pronouns">
+							{% for pronoun in member.pronouns %}
+								<div class="pronoun-badge">{{ pronoun }}</div>
+							{% endfor %}
+						</div>
+					{% endif %}
+				</div>
 				<h5>{{ member.title }}</h5>
 				<p>{{ member.bio }}</p>
 				{% if member.responsibilities %}
 					<h5>Responsibilities</h5>
 					<ul>
 						{% for responsibility in member.responsibilities%}
-						<li>{{ responsibility }}</li>
+							<li>{{ responsibility }}</li>
 						{% endfor %}
 					</ul>
 				{% endif %}
 				<h5>Contact</h5>
-				<a href="mailto:{{ member.email }}" target="_top">{{ member.email }}</a>
+				<p class="officer-email" onclick="window.open(`mailto:{{ member.email | replace: '@', ' [at] '}}`.replace(' [at] ', '@'))" target="_top">{{ member.email | replace: "@", " [at] "}}</p>
 			</div>
 		</div>
 	</div>
