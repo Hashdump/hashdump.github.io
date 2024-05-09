@@ -4,7 +4,7 @@ permalink: /officers/
 {% assign title = 'Officers' %}
 {% include header.html %}
 
-<div class="col-md-12 officer-list">
+<div class="col-md-12 card-list">
 {% for member in site.data.officers.officers %}
 {% assign uri = '/assets/images/officers/' | append: member.picture %}
 	{% assign i = i | plus: 1 %}

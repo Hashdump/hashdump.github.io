@@ -69,7 +69,7 @@ body, h1, h2, h3, h4, h5 {
     }
 }
 
-.officer-list {
+.card-list {
     display: flex;
     flex-wrap: wrap;
 }
