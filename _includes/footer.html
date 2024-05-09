@@ -16,13 +16,19 @@
     <script>
         // Script to open and close sidebar
         function w3_open() {
+            document.getElementById("mySidebar").style.opacity = "1";
+            document.getElementById("myOverlay").style.opacity = "1";
             document.getElementById("mySidebar").style.display = "block";
             document.getElementById("myOverlay").style.display = "block";
         }
 
         function w3_close() {
-            document.getElementById("mySidebar").style.display = "none";
-            document.getElementById("myOverlay").style.display = "none";
+            document.getElementById("mySidebar").style.opacity = "0";
+            document.getElementById("myOverlay").style.opacity = "0";
+            setTimeout(() => {
+                document.getElementById("mySidebar").style.display = "none";
+                document.getElementById("myOverlay").style.display = "none";
+            }, 200);
         }
 
         // Modal Image Gallery
