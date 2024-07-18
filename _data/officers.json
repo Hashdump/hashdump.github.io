@@ -2,14 +2,17 @@
 	"officers":[
 		{
 			"title": "President",
-			"email": "Chloe.Hesskamp@colostate.edu",
-			"name": "Chloe Hesskamp",
-			"picture": "chloe_hesskamp.png",
-			"bio": "I am a senior undergraduate student at CSU studying computer science and mathematics.  I became interested in cybersecurity through math and am especially interested in quantum-resistant cryptography and various applications of abstract algebra.  When I am not programming, I enjoy reading.",
+			"email": "caleb.luzovich@colostate.edu",
+			"name": "Caleb Luzovich",
+			"picture": "caleb_luzovich.jpg",
+			"bio": "Hi there! I am a sophomore student at CSU pursuing a major in Computer Science. Security is a huge passion of mine, and I am especially fascinated by the tools and methods used to protect one's identity online. In my free time, I enjoy developing web applications and playing <em>some</em> video-games.",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
 				"Lead meetings and delegate tasks to officers"
+			],
+			"pronouns": [
+				"they/them"
 			]
 		},
 		{
