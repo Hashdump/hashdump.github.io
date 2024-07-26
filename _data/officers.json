@@ -30,13 +30,16 @@
 		},
 		{
 			"title": "Secretary",
-			"email": "Tyler.Rios@colostate.edu",
-			"name": "Tyler Rios",
-			"picture": "tyler.jpg",
-			"bio": "I am a senior undergraduate majoring in Computer Science. My main interests are firmware and cybersecurity, especially the development of software security tools. I am currently a part of the Division of IT's Cybersecurity and Privacy Student Internship.",
+			"email": "Everett.Lewark@colostate.edu",
+			"name": "Everett Lewark",
+			"picture": "everett.jpg",
+			"bio": "I'm a senior majoring in Computer Science who does full-stack development and research in the field of distributed systems. In my free time, I enjoy making video games and electronic music. The dramatic impacts of malware are what initially sparked my interest in cybersecurity many years ago.",
 			"responsibilities":[
 				"Take notes from meetings",
 				"Prepare and send weekly emails"
+			],
+			"pronouns": [
+				"he/him"
 			]
 		},
 		{
