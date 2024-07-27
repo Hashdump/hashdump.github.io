@@ -2,68 +2,50 @@
 	"officers":[
 		{
 			"title": "President",
-			"email": "Chloe.Hesskamp@colostate.edu",
-			"name": "Chloe Hesskamp",
-			"picture": "chloe_hesskamp.png",
-			"bio": "I am a senior undergraduate student at CSU studying computer science and mathematics.  I became interested in cybersecurity through math and am especially interested in quantum-resistant cryptography and various applications of abstract algebra.  When I am not programming, I enjoy reading.",
+			"email": "caleb.luzovich@colostate.edu",
+			"name": "Caleb Luzovich",
+			"picture": "caleb_luzovich.jpg",
+			"bio": "Hi there! I am a sophomore student pursuing a major in Computer Science. Security is a huge passion of mine, and I am especially fascinated by the tools and methods used to protect one's identity online. In my free time, I enjoy developing web applications and playing <em>some</em> video-games.",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
 				"Lead meetings and delegate tasks to officers"
+			],
+			"pronouns": [
+				"they/them"
 			]
-		},
-		{
-			"title": "Vice President",
-			"email": "enzo.barrett@rams.colostate.edu",
-			"name": "Enzo Barret",
-			"picture": "enzo_barrett_hd.JPG",
-			"bio": "Hello! I'm a senior music performance major at CSU (trumpet) and a CS double major. I love all things cyber security and enjoy being a member of this club. Some of by other hobbies include photography, music, and sailing.",
-			"responsibilities": [
-				"Prepare topics for meetings",
-				"Contact companies and professors",
-				"Lead meetings and delegate tasks to officers"
-			]
-      
 		},
 		{
 			"title": "Secretary",
-			"email": "Tyler.Rios@colostate.edu",
-			"name": "Tyler Rios",
-			"picture": "tyler.jpg",
-			"bio": "I am a senior undergraduate majoring in Computer Science. My main interests are firmware and cybersecurity, especially the development of software security tools. I am currently a part of the Division of IT's Cybersecurity and Privacy Student Internship.",
+			"email": "Everett.Lewark@colostate.edu",
+			"name": "Everett Lewark",
+			"picture": "everett.jpg",
+			"bio": "I'm a senior majoring in Computer Science who does full-stack development and research in the field of distributed systems. In my free time, I enjoy making video games and electronic music. The dramatic impacts of malware are what initially sparked my interest in cybersecurity many years ago.",
 			"responsibilities":[
 				"Take notes from meetings",
 				"Prepare and send weekly emails"
+			],
+			"pronouns": [
+				"he/him"
 			]
 		},
 		{
 			"title": "Treasurer",
-			"email": "eric.burton.martin@colostate.edu",
-			"name": "Eric Martin",
-			"picture": "eric_martin.jpeg",
-			"bio": "I am a 2nd Bachelors candidate pursuing a degree in Computer Science. My interests include software engineering, cybersecurity, and blockchain. Previously I was a professional chemist in the cannabis space.",
+			"email": "eli.povolny@colostate.edu",
+			"name": "Eli Povolny",
+			"picture": "eli_povolny.jpg",
+			"bio": "I'm a sophomore majoring in Computer Science. I'm most interested in offensive security and security research. I also rock climb, so ask me about going up walls.",
 			"responsibilities": [
 				"Create and maintain a budget",
 				"Make purchases and handle reimbursements",
 				"Apply for funding"
 			]
 		},
-				{
-			"title": "Support Officer",
-			"email": "Britta.Maher@colostate.edu",
-			"name": "Britta Maher",
-			"picture": "britta_maher.jpg",
-			"bio": "I am an undergraduate senior majoring in Computer Science at CSU. I participated in many different technology clubs such as Cyber Patriot and the First Tech Challenge during high school, and discovered my interest in cyber security through Cyber Patriot and Girls Go Cyber. I continued my pursuit of cybersecurity by joining Hashdump. I spend a lot of my free time going to hackathons, online conferences, reading or taking care of my plants.",
-			"responsibilities":[
-				"Take notes from meetings",
-				"Prepare and send weekly emails"
-			]
-		},
 		{
 			"title": "Academic Advisor",
-			"email": "ibrahimmeftahibrahim.lazrig@colostate.edu",
-			"name": "Ibrahim Lazrig",
-			"picture": "lazrig.jpeg",
+			"email": "indrajit.ray@colostate.edu",
+			"name": "Indrajit Ray",
+			"picture": "indrajit.jpeg",
 			"bio": ""
 		}
 	]
