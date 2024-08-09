@@ -6,7 +6,7 @@ permalink: /
 
 		<div class="col-md-12 text-default w3-margin-bottom">
 			<h1 class="w3-hide-small">Welcome to CSU's Hashdump Security Club</h1>
-			<h1 class="w3-hide-large">Hashdump Security Club</h2>
+			<h1 class="w3-hide-medium w3-hide-large">Hashdump Security Club</h1>
 			<h5><span class="w3-round-xlarge w3-border w3-padding-small">Every other Wednesday @ 4:00 PM | CSB 305</span></h5>
 			<p>Our goal is to increase awareness of physical, social, and electronic security. Our club participates in various security competitions, hosts demos and workshops, and invites speakers to come and share some of their real world experiences. All majors are welcome to join and participate.</p>
 			<p>Want to get connected? Join our <a href="https://discord.gg/KfdWtGb">discord</a> channel!</p>
@@ -40,10 +40,10 @@ permalink: /
 </div>
 		
 <div class="col-md-12">
-{% for meeting in site.data.meetings.meetings %}
+{% for meeting in site.data.meetings.meetings %}{% if forloop.rindex <= 2 %}
 	{% assign uri = 'assets/images/' | append: meeting.picture %}
 	{% include meeting_card.html meeting_data=meeting image_uri=uri %}
-{% endfor %}
+{% endif %}{% endfor %}
 <div class="clearfix"></div>
 </div>
 
