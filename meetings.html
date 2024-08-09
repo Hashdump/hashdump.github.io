@@ -42,11 +42,14 @@ $(function() {
 
 			// If we detect an upcoming meeting, we need to visually split the 
 			// meetings page into upcoming and previous meetings.
-			$(fd).after('<h2 class="p-3"> Previous Meetings: </h2>');
+			$(fd).after('<h2 class="p-3 w-100"> Previous Meetings: </h2>');
 			$(fd).after('<hr/>');
 			$(fd).after('<div class="w-100"/>');
 			$(fd).after('<div class="clearfix"></div>');
-			//$(fd).before('<h2 class="p-3" display="block"> Upcoming Meetings: </h2>');
+			
+			$(fd).before('<h2 class="p-3" display="block"> Upcoming Meetings: </h2>');
+			$(fd).before('<hr/>');
+			$(fd).before('<div class="w-100"/>');
 
 			// When this happens, every `div.clearfix' needs to be pushed
 			// forward by one element, since the upcoming meeting
