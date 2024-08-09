@@ -13,5 +13,4 @@ If Bundler encounters a permission error when attempting to install the dependen
 
 ```
 bundle config set --local path '.bundle'
-
 ```
