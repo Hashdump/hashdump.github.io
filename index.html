@@ -43,7 +43,7 @@ permalink: /
 </div>
 		
 <div class="col-md-12">
-{% for meeting in site.data.meetings.meetings %}{% if forloop.rindex <= 2 %}
+{% for meeting in site.data.meetings.meetings %}{% if forloop.rindex <= 3 %}
 	{% assign uri = 'assets/images/' | append: meeting.picture %}
 	{% include meeting_card.html meeting_data=meeting image_uri=uri %}
 {% endif %}{% endfor %}
