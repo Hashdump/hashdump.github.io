@@ -6,3 +6,4 @@ _site
 
 .vscode
 /assets/internal
+/.bundle/
