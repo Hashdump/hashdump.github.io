@@ -994,60 +994,70 @@
 	},
 	{
             "date": "January 24th, 2024",
+            "time": "5:00 PM",
             "title": "OverTheWire Game",
             "picture": "cli_example.png",
 	    "summary": "For this meeting, we will be playing the Bandit wargame. Woohoo!"
 	},
 	{
             "date": "January 31st, 2024",
+            "time": "5:00 PM",
             "title": "Attiny85 Microchip",
             "picture": "website_security.jpg",
 	    "summary": "For this meeting Enzo will lead us through coding the attiny85 microchip to execute malicious code."
 	},
 	{
             "date": "February 7th, 2024",
+            "time": "5:00 PM",
             "title": "Quantum Computing",
             "picture": "quantum_chip.jpg",
 	    "summary": "We will have a presentation on the basics of quantum computing and Shor's Algorithm."
 	},
 	{
             "date": "February 14th, 2024",
+            "time": "5:00 PM",
             "title": "Game Night",
             "picture": "Nintendo.jpg",
 	    "summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
 	},
 	{
             "date": "February 21th, 2024",
+            "time": "5:00 PM",
             "title": "Rubber Duckies",
             "picture": "Rubber_duckies_so_many_ducks_please_send_help.jpg",
 	    "summary": "For this meeting Eric will demonstrate rubber duckies!"
 	},
 	{
             "date": "February 28th, 2024",
+            "time": "5:00 PM",
             "title": "OverTheWire Game",
             "picture": "cli_example.png",
 	    "summary": "For this meeting, we will revisit the Bandit wargames from the first meeting and practice some more ssh-based attacking!"
 	},
 	{
             "date": "March 6th, 2024",
+            "time": "5:00 PM",
             "title": "Guest Speaker: Software Engineering",
             "picture": "lock_circuit.png",
 	    "summary": "Guest speaker Jeff Dean will return to a presentation on how to become a software engineer!"
 	},
 	{
             "date": "March 20th, 2024",
+            "time": "5:00 PM",
             "title": "Telephony in Wireshark",
             "picture": "wireshark.jpeg",
 	    "summary": "Enzo will demonstrate how to reconstruct phone calls from captured packets in Wireshark."
 	},
 	{
             "date": "March 27th, 2024",
+            "time": "5:00 PM",
             "title": "Game Night",
             "picture": "Nintendo.jpg",
 	    "summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
 	},
 	{
             "date": "April 3rd, 2024",
+            "time": "5:00 PM",
             "title": "Dr. Gersch!",
             "picture": "officers/joseph_gersch.jpg",
 	    "summary": "Our glorious emperor Dr. Gersch will be giving a talk.  About what?  No one knows!  Show up and find out!"
@@ -1055,9 +1065,9 @@
 	{
 		"date": "August 28th, 2024",
 		"time": "4:00 PM",
-		"title": "Welcome back!",
-		"picture": "logo.png",
-		"summary": "Hashdump returns for our first meeting of the school year! More information will be forthcoming as we work out the details."
+		"title": "Large Language Models",
+		"picture": "chatgpt-ascii-art.png",
+		"summary": "Hashdump returns for our first meeting of the school year! Everett will discuss common exploits affecting large language models (LLMs) like ChatGPT and Bing Chat. Afterward, we will try to extract hidden information from an LLM."
 	}
 	]
 }
