@@ -1065,9 +1065,9 @@
 	{
 		"date": "August 28th, 2024",
 		"time": "4:00 PM",
-		"title": "Large Language Models",
+		"title": "Intro + Large Language Models",
 		"picture": "chatgpt-ascii-art.png",
-		"summary": "Hashdump returns for our first meeting of the school year! Everett will discuss common exploits affecting large language models (LLMs) like ChatGPT and Bing Chat. Afterward, we will try to extract hidden information from an LLM."
+		"summary": "Hashdump returns for our first meeting of the school year! Everett will discuss common exploits affecting large language models (LLMs) like ChatGPT and Bing Chat. Afterward, we will try to extract hidden information from an LLM in the online Gandalf activity."
 	}
 	]
 }
