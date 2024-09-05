@@ -636,13 +636,13 @@
             "picture": "familyfeudlogo.png",
 			"summary": "For this meeting, we will be playing Family Feud, featuring topics surrounding cybersecurity."
         },
-	{
+		{
             "date": "September 9th, 2021",
             "title": "Welcome Back!",
             "picture": "logo.png",
 	    "summary": "For our first meeting this semester, we will discuss what the club will look like this year and demonstrate a few CTF challenges!"
         },
-	{
+		{
             "date": "September 16th, 2021",
             "title": "Tamper Evident Devices",
             "picture": "defcon_badge.jpg",
@@ -678,19 +678,19 @@
             "date": "October 7th, 2021",
             "title": "TryHackMe",
             "picture": "generic_hacker.png",
-	    "summary": "For this meeting, we will make accounts for TryHackMe and run through several of their challenges!"
+	    	"summary": "For this meeting, we will make accounts for TryHackMe and run through several of their challenges!"
         },
 		{
             "date": "October 14th, 2021",
             "title": "Social Engineering (and Pizza!)",
             "picture": "gone-phishing-boat.png",
-	    "summary": "As a special presentation for Cybersecurity Awareness Month, Hashdump President Jack will be giving a presentation on social engineering!  There will be pizza and a competition to (ethically) phish other participants."
+	    	"summary": "As a special presentation for Cybersecurity Awareness Month, Hashdump President Jack will be giving a presentation on social engineering!  There will be pizza and a competition to (ethically) phish other participants."
         },
 		{
             "date": "October 21st, 2021",
             "title": "Guest Speaker: CI/CD Pipeline Security",
             "picture": "Kubernetes_logo.svg",
-	    "summary": "Guest speaker Jeff Dean from Upslope.io will be joining us to talk about adding security to your CI/CD pipeline, kubernetes hardening, and other OWASP development security concerns."
+	    	"summary": "Guest speaker Jeff Dean from Upslope.io will be joining us to talk about adding security to your CI/CD pipeline, kubernetes hardening, and other OWASP development security concerns."
         },
 		{
             "date": "October 28th, 2021",
@@ -702,372 +702,379 @@
             "date": "November 4th, 2021",
             "title": "Securing Linux Servers",
             "picture": "Debian.jpg",
-	    "summary": "Hashdump Officer Enzo will be running a demo on how to secure Linux servers!  There will be DigitalOcean Debian servers set up for attendees to secure."
+	    	"summary": "Hashdump Officer Enzo will be running a demo on how to secure Linux servers!  There will be DigitalOcean Debian servers set up for attendees to secure."
         },
 		{
             "date": "November 11th, 2021",
             "title": "CyberForce Preparation",
             "picture": "ssh.jpg",
-	    "summary": "The regular Hashdump meeting has been cancelled for this week to allow for the CyberForce competition team to prepare."
+	    	"summary": "The regular Hashdump meeting has been cancelled for this week to allow for the CyberForce competition team to prepare."
         },
 		{
             "date": "November 18th, 2021",
             "title": "Dr. Gersch: DNS",
             "picture": "officers/joseph_gersch.jpg",
-	    "summary": "The one and only Dr. Gersch will be giving a presentation on using DNS to write secure code."
+	    	"summary": "The one and only Dr. Gersch will be giving a presentation on using DNS to write secure code."
         },
 		{
             "date": "December 2nd, 2021",
             "title": "Kubernetes Workshop",
             "picture": "Kubernetes_logo.svg",
-	    "summary": "Guest speaker Jeff Dean will be returning to give a workshop on Kubernetes!"
+	    	"summary": "Guest speaker Jeff Dean will be returning to give a workshop on Kubernetes!"
         },
 		{
             "date": "December 9th, 2021",
             "title": "Game Night",
             "picture": "Nintendo.jpg",
-	    "summary": "For our last meeting of the semester, we will be having a pizza / game night!"
+	    	"summary": "For our last meeting of the semester, we will be having a pizza / game night!"
         },
 		{
             "date": "February 3rd, 2022",
             "title": "A Very Definitely Happy CTF",
             "picture": "google-ctf-beginners-quest.png",
-	    "summary": "Welcome back!  For our first meeting of the new semester, we'll do a brief club introduction before trying out some simple CTF challenges."
+	    	"summary": "Welcome back!  For our first meeting of the new semester, we'll do a brief club introduction before trying out some simple CTF challenges."
         },
 		{
             "date": "February 10th, 2022",
             "title": "Kali Linux Demo",
             "picture": "kali_green_red.jpg",
-	    "summary": "Hashdump president Jack will be going over several features of Kali Linux, including the (usually legal) nmap, metasploit, and hydra tools."
+	    	"summary": "Hashdump president Jack will be going over several features of Kali Linux, including the (usually legal) nmap, metasploit, and hydra tools."
         },
 		{
             "date": "February 17th, 2022",
             "title": "Cicada 3301",
             "picture": "cicada-3301-logo.png",
-	    "summary": "We will be watching a documentary about Cicada 3301, an alleged organization that published 3 cybersecurity puzzles several years ago.  There will be free pizza / soda!"
+	    	"summary": "We will be watching a documentary about Cicada 3301, an alleged organization that published 3 cybersecurity puzzles several years ago.  There will be free pizza / soda!"
         },
 		{
             "date": "February 24th, 2022",
             "title": "Wargames",
             "picture": "lock_circuit.png",
-	    "summary": "For this meeting, we'll be doing an online CTF competition!  After going through several challenges together, we will split into teams to compete for a very high-quality and not-cheap prize.",
-	    "links": [
-			{
-				"url": "https://overthewire.org/wargames/natas/",
-				"name": "Over the Wire: Natas"
-			}
-		]
+	    	"summary": "For this meeting, we'll be doing an online CTF competition!  After going through several challenges together, we will split into teams to compete for a very high-quality and not-cheap prize.",
+	    	"links": [
+				{
+					"url": "https://overthewire.org/wargames/natas/",
+					"name": "Over the Wire: Natas"
+				}
+			]
         },
 		{
             "date": "March 3rd, 2022",
             "title": "Game Night (and Pizza!)",
             "picture": "Nintendo.jpg",
-	    "summary": "We will be engaging in a standard Hashdump midterm game night.  There will be free pizza!"
+	    	"summary": "We will be engaging in a standard Hashdump midterm game night.  There will be free pizza!"
         },
 		{
             "date": "March 10th, 2022",
             "title": "Quantum Computing",
             "picture": "quantum-chip-card.png",
-	    "summary": "The fantastic Dr. Gersch will be giving a presentation on the basics of quantum computing."
+	    	"summary": "The fantastic Dr. Gersch will be giving a presentation on the basics of quantum computing."
         },
 		{
             "date": "March 24th, 2022",
             "title": "Hot Wings Interviews!",
             "picture": "hot_wings.jpg",
-	    "summary": "Hashdump is joining with ACM-W to interview professors while they attempt to eat progessively hotter wings!  There will be free pizza and drinks provided."
+	    	"summary": "Hashdump is joining with ACM-W to interview professors while they attempt to eat progessively hotter wings!  There will be free pizza and drinks provided."
         },
 		{
             "date": "March 31st, 2022",
             "title": "The Math Behind Cryptography",
             "picture": "elliptic_curve.png",
-	    "summary": "This week we will be discussing some of the math involved in common cryptography, including some quantum-resistant algorithms!"
+	    	"summary": "This week we will be discussing some of the math involved in common cryptography, including some quantum-resistant algorithms!"
         },
 		{
             "date": "April 7th, 2022",
             "title": "Malware Demo",
             "picture": "petya.png",
-	    "summary": "This week Jack will be doing a live malware demo!  Whether the malware will escape and take over the entire university remains to be seen."
+	    	"summary": "This week Jack will be doing a live malware demo!  Whether the malware will escape and take over the entire university remains to be seen."
         },
 		{
             "date": "April 14th, 2022",
             "title": "ATM Hacking",
             "picture": "Money.png",
-	    "summary": "This week we will be doing a brief introduction of officer duties in preparation for the coming election followed by a talk on hacking ATMS.  There will be free pizza!."
+	    	"summary": "This week we will be doing a brief introduction of officer duties in preparation for the coming election followed by a talk on hacking ATMS.  There will be free pizza!."
         },
 		{
             "date": "April 21st, 2022",
             "title": "Meeting Cancelled",
             "picture": "sad.png",
-	    "summary": "See you next week for a game night and officer elections!"
+	    	"summary": "See you next week for a game night and officer elections!"
         },
-	{
+		{
             "date": "September 1st, 2022",
             "title": "Welcome Back!",
             "picture": "logo.png",
             "summary": "Join us for Hashdump's first meeting of the 2022 Fall semester!  We will discuss what activities you can look forward to in the coming weeks as well as demoing CTF challenges!"
         },
-	{
+		{
             "date": "September 8th, 2022",
             "title": "Unix Commands and Tricks",
             "picture": "ssh.jpg",
             "summary": "This week Hashdump president Enzo Barrett will be showing useful Unix commands, a subject not usually taught in school but defintely useful!"
         },
-	{
+		{
             "date": "September 15th, 2022",
             "title": "Industry Night: PwC Presentation",
             "picture": "pwc.jpg",
             "summary": "PricewaterhouseCoopers, or PwC is the second largest provider of professional services in the world!  They manage and provide services such as auditing, accounting and human resources for various industries such as insurance or aerospace.  Join us for their presentation of how they manage all of this from a cybersecurity standpoint!"
         },
-	{
+		{
             "date": "September 22nd, 2022",
             "title": "Tamper Evident Devices",
             "picture": "warranty_void.jpg",
             "summary": "We will be exploring several examples of tamper evident devices and their use in and out of cybersecurity."
         },
-	{
+		{
             "date": "September 29th, 2022",
             "title": "Industry Night: Plante Moran",
             "picture": "plantemoran.jpg",
             "summary": "Plante Moran is an auditing, tax, and business management firm, and their security professionals are here to show how they keep that all secure!"
         },
-	{
+		{
             "date": "October 6th, 2022",
             "title": "Multi Factor Authentication",
             "picture": "multifac.png",
             "summary": "Multi factor authentication is becomming more commonplace for online accounts and has been established internally at almost every company that prioritizes security.  How does it work and how can it be effectively implemented?"
         },
-	{
+		{
             "date": "October 20th, 2022",
             "title": "Industry Night: HP",
             "picture": "hp.png",
             "summary": "HP will be giving a presentation and holding a panel for all things general technology and security focused topics!"
         },
-	{
+		{
             "date": "October 27th, 2022",
             "title": "Industry Night: Raytheon",
             "picture": "raytheon.svg",
             "summary": "A representative from Ratheon will be holding a presentation behind the security and defense of their technology and instrastructure."
         },
-	{
+		{
             "date": "November 3rd, 2022",
             "title": "Game Night",
             "picture": "smw-game-card.png",
             "summary": "Join us for Hashdump game night to play a variety of board, card, and other weird games!"
-	},
-	{
+		},
+		{
             "date": "November 10th, 2022",
             "title": "Dr. Gersch: Blockchain",
             "picture": "officers/joseph_gersch.jpg",
             "summary": "Dr. Gersch will be giving a presentation about Blockchain, don't miss it!"
-	},
-	{
+		},
+		{
             "date": "November 17th, 2022",
             "title": "The Math behind Cryptography",
             "picture": "elliptic_curve.png",
             "summary": "We will be exploring the math behind cryptography and cybersecurity with Hashdump vice president Chloe."
-	},
-	{
+		},
+		{
             "date": "January 26th, 2023",
             "title": "Welcome Back!",
             "picture": "logo.png",
-	    "summary": "Welcome to the Spring semester!  We will be hosting a game night in CSB 130!"
-	},
-	{
+			"summary": "Welcome to the Spring semester!  We will be hosting a game night in CSB 130!"
+		},
+		{
             "date": "February 2nd, 2023",
             "title": "Intro to CTF",
             "picture": "google-ctf-beginners-quest.png",
-	    "summary": "Hashdump officer Britta will be introducing CTFs, or Capture the Flag Challenges!"
-	},
-	{
+			"summary": "Hashdump officer Britta will be introducing CTFs, or Capture the Flag Challenges!"
+		},
+		{
             "date": "February 9nd, 2023",
             "title": "Intro to the Rubber Duck",
             "picture": "rubber_ducky.jpg",
-	    "summary": "Treasurer Eric Martin demos the 'Rubby Ducky', a USB stick that acts like a keyboard."
-	},
-	{
+			"summary": "Treasurer Eric Martin demos the 'Rubby Ducky', a USB stick that acts like a keyboard."
+		},
+		{
             "date": "February 15th, 2023",
             "title": "Professional Development with WiCyS!",
             "picture": "blank.png",
-	    "summary": "In this meeting our great friends at Women in Cyber Security take professional headshots. All are welcome!"
-	},
-	{
+			"summary": "In this meeting our great friends at Women in Cyber Security take professional headshots. All are welcome!"
+		},
+		{
             "date": "February 23rd, 2023",
             "title": "Guest Speaker: Chris Ellis",
             "picture": "raytheon.svg",
-	    "summary": "Guest speaker Chris Ellis from Raytheon gives a talk about networking, protocol reversing, and Wireshark!"
-	},
-	{
+			"summary": "Guest speaker Chris Ellis from Raytheon gives a talk about networking, protocol reversing, and Wireshark!"
+		},
+		{
             "date": "March 2nd, 2023",
             "title": "Hot Wings Interviews",
             "picture": "hot_wings.jpg",
-	    "summary": "Join us in this joint meeting with ACM and ACM-W for a panel of professors answering CS-type questions - all while eating increasingly hotter wings."
-	},
-	{
+			"summary": "Join us in this joint meeting with ACM and ACM-W for a panel of professors answering CS-type questions - all while eating increasingly hotter wings."
+		},
+		{
             "date": "March 23rd, 2023",
             "title": "Post Quantum Cryptography",
             "picture": "Hard_disk.jpg",
-	    "summary": "In this presentation, Vice President Chloe Hesskamp gave a talk on Post Quantum Cryptography, which is the super interesting math behind cryptography algorithms and how they are affected by quantum computing."
-	},
-	{
+			"summary": "In this presentation, Vice President Chloe Hesskamp gave a talk on Post Quantum Cryptography, which is the super interesting math behind cryptography algorithms and how they are affected by quantum computing."
+		},
+		{
             "date": "April 6th, 2023",
             "title": "ChatGPT and Hacking",
             "picture": "AI.jpg",
-	    "summary": "Dr. Gersch and Dr. Haefner will give a presentation on how to use ChatGPT to target victims and speed up your hacking."
-	},
-	{
+			"summary": "Dr. Gersch and Dr. Haefner will give a presentation on how to use ChatGPT to target victims and speed up your hacking."
+		},
+		{
             "date": "April 13th, 2023",
             "title": "Movie Night!!",
             "picture": "movie-night.jpg",
-	    "summary": "We will have a wonderful time watching a documentary about Bill Gates doing stuff, including mowing his lawn in a threatening manner! - Chloe Hesskamp"
-	},
-	{
+			"summary": "We will have a wonderful time watching a documentary about Bill Gates doing stuff, including mowing his lawn in a threatening manner! - Chloe Hesskamp"
+		},
+		{
             "date": "April 20th, 2023",
             "title": "5PM!!!!!! -- Workforce and Early Career Workshop with PwC",
             "picture": "pwc.jpg",
-	    "summary": "Workforce and Early Career Workshop ... you're gonna learn how to career!! Hope to see you there!"
-	},
-	{
+			"summary": "Workforce and Early Career Workshop ... you're gonna learn how to career!! Hope to see you there!"
+		},
+		{
             "date": "April 27th, 2023",
             "title": "Officer Elections and Guest Speaker!",
             "picture": "officer-elections.jpg",
-	    "summary": "Become a officer in Hashdump! Come participate in our officer elections! We will conclude with a guest presentation from well known cyber security specialist Sangameswaran Iyer Manikkayam."
-	},
-	{
+			"summary": "Become a officer in Hashdump! Come participate in our officer elections! We will conclude with a guest presentation from well known cyber security specialist Sangameswaran Iyer Manikkayam."
+		},
+		{
             "date": "August 30th, 2023",
             "title": "Welcome Meeting + CTF",
             "picture": "ssh.jpg",
-	    "summary": "Welcome back to a new year!  For our first meeting we'll do a general introduction to the club and play around with a CTF."
-	},
-	{
+			"summary": "Welcome back to a new year!  For our first meeting we'll do a general introduction to the club and play around with a CTF."
+		},
+		{
             "date": "September 6th, 2023",
             "title": "Phishing Presentation",
             "picture": "Fish-hook.jpg",
-	    "summary": "Revered treasurer Eric Martin will give a presentation about phishing strategies!"
-	},
-	{
+			"summary": "Revered treasurer Eric Martin will give a presentation about phishing strategies!"
+		},
+		{
             "date": "September 13th, 2023",
             "title": "Interactive Phishing",
             "picture": "gone-phishing-boat.png",
-	    "summary": "Building on the previous meeting, we will present an interactive phishing activity where we try to phish one another."
-	},
-	{
+			"summary": "Building on the previous meeting, we will present an interactive phishing activity where we try to phish one another."
+		},
+		{
             "date": "September 20th, 2023",
             "title": "Game Night",
             "picture": "Nintendo.jpg",
-	    "summary": "Take a break from studying with a game night and pizza!"
-	},
-	{
+			"summary": "Take a break from studying with a game night and pizza!"
+		},
+		{
             "date": "September 27th, 2023",
             "title": "Malware Analysis",
             "picture": "Malware-Demo.png",
-	    "summary": "For this meeting we'll have a guest speaker presenting on malware analysis!"
-	},
-	{
+			"summary": "For this meeting we'll have a guest speaker presenting on malware analysis!"
+		},
+		{
             "date": "October 4th, 2023",
             "title": "Linux Tips & Tricks",
             "picture": "Linux_Logo.jpg",
-	    "summary": "Enzo will present on fun, useful, and occasionally quite strange Linux commands!"
-	},
-	{
+			"summary": "Enzo will present on fun, useful, and occasionally quite strange Linux commands!"
+		},
+		{
             "date": "October 11th, 2023",
             "title": "Guest Speaker: Pentesting",
             "picture": "generic_hacker.png",
-	    "summary": "For this meeting we'll have a guest speaker tell us all about pentesting, with tips for how to get into the industry!"
-	},
-	{
+			"summary": "For this meeting we'll have a guest speaker tell us all about pentesting, with tips for how to get into the industry!"
+		},
+		{
             "date": "October 18th, 2023",
             "title": "Network Chuck: The Dark Web",
             "picture": "movie-night.jpg",
-	    "summary": "For this meeting we'll watch a compilation of NetworkChuck videos focusing on the dark web ... as it is illegal to run that meeting ourselves."
-	},
-	{
+			"summary": "For this meeting we'll watch a compilation of NetworkChuck videos focusing on the dark web ... as it is illegal to run that meeting ourselves."
+		},
+		{
             "date": "October 25th, 2023",
             "title": "Cybersecurity Awareness Month",
             "picture": "kali_green_red.jpg",
-	    "summary": "We will use tools like nmap and dirbuster to scan for vulnerabilities in a server, in the process extracting information about a hidden file."
-	},
-	{
+			"summary": "We will use tools like nmap and dirbuster to scan for vulnerabilities in a server, in the process extracting information about a hidden file."
+		},
+		{
             "date": "November 1st, 2023",
             "title": "Dr. Gersch: Rust Security",
             "picture": "officers/joseph_gersch.jpg",
-	    "summary": "The one and only slightly terrifying Dr. Gersch will be presenting on the security benefits of using the Rust programming language."
-	},
-	{
+			"summary": "The one and only slightly terrifying Dr. Gersch will be presenting on the security benefits of using the Rust programming language."
+		},
+		{
             "date": "January 24th, 2024",
             "time": "5:00 PM",
             "title": "OverTheWire Game",
             "picture": "cli_example.png",
-	    "summary": "For this meeting, we will be playing the Bandit wargame. Woohoo!"
-	},
-	{
+			"summary": "For this meeting, we will be playing the Bandit wargame. Woohoo!"
+		},
+		{
             "date": "January 31st, 2024",
             "time": "5:00 PM",
             "title": "Attiny85 Microchip",
             "picture": "website_security.jpg",
-	    "summary": "For this meeting Enzo will lead us through coding the attiny85 microchip to execute malicious code."
-	},
-	{
+			"summary": "For this meeting Enzo will lead us through coding the attiny85 microchip to execute malicious code."
+		},
+		{
             "date": "February 7th, 2024",
             "time": "5:00 PM",
             "title": "Quantum Computing",
             "picture": "quantum_chip.jpg",
-	    "summary": "We will have a presentation on the basics of quantum computing and Shor's Algorithm."
-	},
-	{
+			"summary": "We will have a presentation on the basics of quantum computing and Shor's Algorithm."
+		},
+		{
             "date": "February 14th, 2024",
             "time": "5:00 PM",
             "title": "Game Night",
             "picture": "Nintendo.jpg",
-	    "summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
-	},
-	{
+			"summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
+		},
+		{
             "date": "February 21th, 2024",
             "time": "5:00 PM",
             "title": "Rubber Duckies",
             "picture": "Rubber_duckies_so_many_ducks_please_send_help.jpg",
-	    "summary": "For this meeting Eric will demonstrate rubber duckies!"
-	},
-	{
+			"summary": "For this meeting Eric will demonstrate rubber duckies!"
+		},
+		{
             "date": "February 28th, 2024",
             "time": "5:00 PM",
             "title": "OverTheWire Game",
             "picture": "cli_example.png",
-	    "summary": "For this meeting, we will revisit the Bandit wargames from the first meeting and practice some more ssh-based attacking!"
-	},
-	{
+			"summary": "For this meeting, we will revisit the Bandit wargames from the first meeting and practice some more ssh-based attacking!"
+		},
+		{
             "date": "March 6th, 2024",
             "time": "5:00 PM",
             "title": "Guest Speaker: Software Engineering",
             "picture": "lock_circuit.png",
-	    "summary": "Guest speaker Jeff Dean will return to a presentation on how to become a software engineer!"
-	},
-	{
+			"summary": "Guest speaker Jeff Dean will return to a presentation on how to become a software engineer!"
+		},
+		{
             "date": "March 20th, 2024",
             "time": "5:00 PM",
             "title": "Telephony in Wireshark",
             "picture": "wireshark.jpeg",
-	    "summary": "Enzo will demonstrate how to reconstruct phone calls from captured packets in Wireshark."
-	},
-	{
+			"summary": "Enzo will demonstrate how to reconstruct phone calls from captured packets in Wireshark."
+		},
+		{
             "date": "March 27th, 2024",
             "time": "5:00 PM",
             "title": "Game Night",
             "picture": "Nintendo.jpg",
-	    "summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
-	},
-	{
+			"summary": "This week we'll take a break and have a game night!  Feel free to bring any games you want to play."
+		},
+		{
             "date": "April 3rd, 2024",
             "time": "5:00 PM",
             "title": "Dr. Gersch!",
             "picture": "officers/joseph_gersch.jpg",
-	    "summary": "Our glorious emperor Dr. Gersch will be giving a talk.  About what?  No one knows!  Show up and find out!"
-	},
-	{
-		"date": "August 28th, 2024",
-		"time": "4:00 PM",
-		"title": "Intro + Large Language Models",
-		"picture": "chatgpt-ascii-art.png",
-		"summary": "Hashdump returns for our first meeting of the school year! Everett will discuss common exploits affecting large language models (LLMs) like ChatGPT and Bing Chat. Afterward, we will try to extract hidden information from an LLM in the online Gandalf activity."
-	}
+			"summary": "Our glorious emperor Dr. Gersch will be giving a talk.  About what?  No one knows!  Show up and find out!"
+		},
+		{
+			"date": "August 28th, 2024",
+			"time": "4:00 PM",
+			"title": "Intro + Large Language Models",
+			"picture": "chatgpt-ascii-art.png",
+			"summary": "Hashdump returns for our first meeting of the school year! Everett will discuss common exploits affecting large language models (LLMs) like ChatGPT and Bing Chat. Afterward, we will try to extract hidden information from an LLM in the online Gandalf activity."
+		},
+		{
+			"date": "September 11th, 2024",
+			"time": "4:00 PM",
+			"title": "Two-Factor Authentication",
+			"picture": "2fa-breakdown.jpeg",
+			"summary": "Caleb will discuss the core mechanisms of two-factor authentication, such as HOTP, TOTP, and FIDO (WebAuthn). In addition, they'll share some of its shortcomings and how it can be improved."
+		}
 	]
 }
