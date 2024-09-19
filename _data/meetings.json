@@ -1075,6 +1075,27 @@
 			"title": "Two-Factor Authentication",
 			"picture": "2fa-breakdown.jpeg",
 			"summary": "Caleb will discuss the core mechanisms of two-factor authentication, such as HOTP, TOTP, and FIDO (WebAuthn). In addition, they'll share some of its shortcomings and how it can be improved."
+		},
+		{
+			"date": "September 25th, 2024",
+			"time": "4:00 PM",
+			"title": "Bandit — OverTheWire",
+			"picture": "ssh.jpg",
+			"summary": "Join Hashdump as we play the Bandit wargame by OverTheWire. We'll practice command-line skills in Linux and work to obtain hidden passwords from a remote server."
+		},
+		{
+			"date": "October 9th, 2024",
+			"time": "4:00 PM",
+			"title": "To Be Announced",
+			"picture": "",
+			"summary": ""
+		},
+		{
+			"date": "October 23th, 2024",
+			"time": "4:00 PM",
+			"title": "To Be Announced",
+			"picture": "",
+			"summary": ""
 		}
 	]
 }
