@@ -30,9 +30,13 @@ $(function() {
 	}
 
 	if (upcoming.length > 0) {
+		// If we detect an upcoming meeting, we need to visually split the
+		// meetings page into upcoming and previous meetings.
+
 		const cards = $(".card-list");
 		cards.prepend('<div class="col-md-12"><h2>Previous Meetings</h2><hr/></div>');
 
+		// Reverse the order of upcoming meeting cards for consistency with the front page.
 		for (let fd of upcoming) {
 			cards.prepend(fd);
 		}
