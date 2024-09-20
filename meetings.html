@@ -4,16 +4,11 @@ permalink: /meetings/
 {% assign title = 'Meetings' %}
 {% include header.html %}
 
-{% assign i = 0 %}
-<div class="col-md-12 card-list">
+<div class="col-md-12 card-list clearfix">
 	{% for meeting in site.data.meetings.meetings reversed%}
 		{% assign uri = '/assets/images/' | append: meeting.picture %}
 		{% assign i = i | plus: 1 %}
 		{% include meeting_card.html meeting_data=meeting image_uri=uri%}
-		{% if i == 3 %}
-			<div class="clearfix"></div>
-			{% assign i = 0 %}
-		{% endif %}
 	{% endfor %}
 </div>
 
@@ -42,22 +37,10 @@ $(function() {
 
 			// If we detect an upcoming meeting, we need to visually split the 
 			// meetings page into upcoming and previous meetings.
-			$(fd).after('<h2 class="p-3 w-100"> Previous Meetings: </h2>');
-			$(fd).after('<hr/>');
-			$(fd).after('<div class="w-100"/>');
-			$(fd).after('<div class="clearfix"></div>');
-			
-			let cards = $(".card-list")
-			cards.prepend('<h2 class="p-3 w-100"> Upcoming Meetings: </h2>');
-			cards.prepend('<hr/>');
-			cards.prepend('<div class="w-100"/>');
+			$(fd).after('<div class="col-md-12"><h2>Previous Meetings</h2><hr/></div>');
 
-			// When this happens, every `div.clearfix' needs to be pushed
-			// forward by one element, since the upcoming meeting
-			// was pulled out of the flow.
-			for (var clearfix of $('div.col-md-12 > div.clearfix')) {
-				$(clearfix).insertAfter($(clearfix).next());
-			}
+			let cards = $(".card-list")
+			cards.prepend('<div class="col-md-12"><h2>Upcoming Meetings</h2><hr/></div>');
 
 			$('html, body').animate({
 				scrollTop: $(fd).offset().top - 100
