@@ -16,31 +16,28 @@ permalink: /meetings/
 
 <script>
 $(function() {
-	lowest = 0;
-	for (var fd of $('[future-date]')){
+	let today = new Date();
+	let upcoming = [];
+
+	for (let fd of $('[future-date]')){
 		meetDate = new Date($(fd).attr('future-date'));
 		meetDate.setHours(19);
 		meetDate.setMinutes(0);
-		today = new Date();
-		if ( meetDate >= today){
-			if (meetDate < lowest || lowest === 0){
-				lowest = meetDate;
-			}
+
+		if (meetDate >= today){
+			upcoming.push($(fd).detach());
 		}
 	}
-	for (var fd of $('[future-date]')){
-		meetDate = new Date($(fd).attr('future-date'));
-		meetDate.setHours(19);
-		meetDate.setMinutes(0);
-		if ( meetDate.getTime() === new Date(lowest).getTime()){
-			// $(fd).find('h5>span').addClass('w3-tag w3-round background-red');
 
-			// If we detect an upcoming meeting, we need to visually split the 
-			// meetings page into upcoming and previous meetings.
-			$(fd).after('<div class="col-md-12"><h2>Previous Meetings</h2><hr/></div>');
+	if (upcoming.length > 0) {
+		const cards = $(".card-list");
+		cards.prepend('<div class="col-md-12"><h2>Previous Meetings</h2><hr/></div>');
 
-			$(".card-list").prepend('<div class="col-md-12"><h2>Upcoming Meetings</h2><hr/></div>');
+		for (let fd of upcoming) {
+			cards.prepend(fd);
 		}
+
+		cards.prepend('<div class="col-md-12"><h2>Upcoming Meetings</h2><hr/></div>');
 	}
 });
 
