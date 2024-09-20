@@ -4,16 +4,11 @@ permalink: /meetings/
 {% assign title = 'Meetings' %}
 {% include header.html %}
 
-{% assign i = 0 %}
-<div class="col-md-12 card-list">
+<div class="col-md-12 card-list clearfix">
 	{% for meeting in site.data.meetings.meetings reversed%}
 		{% assign uri = '/assets/images/' | append: meeting.picture %}
 		{% assign i = i | plus: 1 %}
 		{% include meeting_card.html meeting_data=meeting image_uri=uri%}
-		{% if i == 3 %}
-			<div class="clearfix"></div>
-			{% assign i = 0 %}
-		{% endif %}
 	{% endfor %}
 </div>
 
@@ -21,47 +16,32 @@ permalink: /meetings/
 
 <script>
 $(function() {
-	lowest = 0;
-	for (var fd of $('[future-date]')){
+	let today = new Date();
+	let upcoming = [];
+
+	for (let fd of $('[future-date]')){
 		meetDate = new Date($(fd).attr('future-date'));
 		meetDate.setHours(19);
 		meetDate.setMinutes(0);
-		today = new Date();
-		if ( meetDate >= today){
-			if (meetDate < lowest || lowest === 0){
-				lowest = meetDate;
-			}
+
+		if (meetDate >= today){
+			upcoming.push($(fd).detach());
 		}
 	}
-	for (var fd of $('[future-date]')){
-		meetDate = new Date($(fd).attr('future-date'));
-		meetDate.setHours(19);
-		meetDate.setMinutes(0);
-		if ( meetDate.getTime() === new Date(lowest).getTime()){
-			// $(fd).find('h5>span').addClass('w3-tag w3-round background-red');
 
-			// If we detect an upcoming meeting, we need to visually split the 
-			// meetings page into upcoming and previous meetings.
-			$(fd).after('<h2 class="p-3 w-100"> Previous Meetings: </h2>');
-			$(fd).after('<hr/>');
-			$(fd).after('<div class="w-100"/>');
-			$(fd).after('<div class="clearfix"></div>');
-			
-			$(fd).before('<h2 class="p-3" display="block"> Upcoming Meetings: </h2>');
-			$(fd).before('<hr/>');
-			$(fd).before('<div class="w-100"/>');
+	if (upcoming.length > 0) {
+		// If we detect an upcoming meeting, we need to visually split the
+		// meetings page into upcoming and previous meetings.
 
-			// When this happens, every `div.clearfix' needs to be pushed
-			// forward by one element, since the upcoming meeting
-			// was pulled out of the flow.
-			for (var clearfix of $('div.col-md-12 > div.clearfix')) {
-				$(clearfix).insertAfter($(clearfix).next());
-			}
+		const cards = $(".card-list");
+		cards.prepend('<div class="col-md-12"><h2>Previous Meetings</h2><hr/></div>');
 
-			$('html, body').animate({
-				scrollTop: $(fd).offset().top - 100
-			},1000);
+		// Reverse the order of upcoming meeting cards for consistency with the front page.
+		for (let fd of upcoming) {
+			cards.prepend(fd);
 		}
+
+		cards.prepend('<div class="col-md-12"><h2>Upcoming Meetings</h2><hr/></div>');
 	}
 });
 
