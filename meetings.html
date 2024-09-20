@@ -47,9 +47,10 @@ $(function() {
 			$(fd).after('<div class="w-100"/>');
 			$(fd).after('<div class="clearfix"></div>');
 			
-			$(fd).before('<h2 class="p-3" display="block"> Upcoming Meetings: </h2>');
-			$(fd).before('<hr/>');
-			$(fd).before('<div class="w-100"/>');
+			let cards = $(".card-list")
+			cards.prepend('<h2 class="p-3 w-100"> Upcoming Meetings: </h2>');
+			cards.prepend('<hr/>');
+			cards.prepend('<div class="w-100"/>');
 
 			// When this happens, every `div.clearfix' needs to be pushed
 			// forward by one element, since the upcoming meeting
