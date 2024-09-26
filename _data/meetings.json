@@ -500,7 +500,7 @@
             "picture": "IBM_logo_in.jpg",
             "summary": "Hashdump System Admin Britta will be running through IBM's cyber breach simulation game, Cybersecurity Ops: Terminal",
 			"attrib": "Viscovery, IBM, Amazon / Public domain",
-			"notes": "Britta showcased a simulation created by IBM to understand the processes that happen once a cybersecurity breach has occurred. The simulation is a gamified version of a simulation used to train IBM employees how to react to certain situations if they were to happen on the job. If you’d like to check it out yourself, visit https://www.ibm.com/security/digital-assets/cybersecurity-ops/terminal/. We also briefly talked about the Rocky Mountain Collegiate College Competition (RMCCDC). If you are interested in participating, reach out to the club for more information! Message @Jacc",
+			"notes": "Britta showcased a simulation created by IBM to understand the processes that happen once a cybersecurity breach has occurred. The simulation is a gamified version of a simulation used to train IBM employees how to react to certain situations if they were to happen on the job. If you’d like to check it out yourself, visit https://www.ibm.com/security/digital-assets/cybersecurity-ops/terminal/. We also briefly talked about the Rocky Mountain Collegiate College Competition (RMCCDC). If you are interested in participating, reach out to the club for more information! Message @Jacc"
 		},
 		{
             "date": "October 15th, 2020",
@@ -1087,20 +1087,33 @@
 			"time": "4:00 PM",
 			"title": "Bandit — OverTheWire",
 			"picture": "ssh.jpg",
-			"summary": "Join Hashdump as we play the Bandit wargame by OverTheWire. We'll practice command-line skills in Linux and work to obtain hidden passwords from a remote server."
+			"summary": "Join Hashdump as we play the Bandit wargame by OverTheWire. We'll practice command-line skills in Linux and work to obtain hidden passwords from a remote server.",
+			"links": [
+				{
+					"url": "https://overthewire.org/wargames/bandit/",
+					"name": "Bandit"
+				}
+			]
 		},
 		{
 			"date": "October 9th, 2024",
 			"time": "4:00 PM",
 			"title": "To Be Announced",
-			"picture": "",
+			"picture": "blank.png",
 			"summary": ""
 		},
 		{
 			"date": "October 23rd, 2024",
 			"time": "4:00 PM",
 			"title": "To Be Announced",
-			"picture": "",
+			"picture": "blank.png",
+			"summary": ""
+		},
+		{
+			"date": "November 6th, 2024",
+			"time": "4:00 PM",
+			"title": "To Be Announced",
+			"picture": "blank.png",
 			"summary": ""
 		}
 	]
