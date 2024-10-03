@@ -1098,9 +1098,9 @@
 		{
 			"date": "October 9th, 2024",
 			"time": "4:00 PM",
-			"title": "To Be Announced",
-			"picture": "blank.png",
-			"summary": ""
+			"title": "XZ Utils Backdoor",
+			"picture": "ssh.jpg",
+			"summary": "Eli will give a presentation on the XZ Utils backdoor, which was discovered in multiple Linux distributions this March and allowed remote attackers to control servers running OpenSSH."
 		},
 		{
 			"date": "October 23rd, 2024",
