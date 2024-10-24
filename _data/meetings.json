@@ -1080,7 +1080,13 @@
 			"time": "4:00 PM",
 			"title": "Two-Factor Authentication",
 			"picture": "2fa-breakdown.jpeg",
-			"summary": "Caleb will discuss the core mechanisms of two-factor authentication, such as HOTP, TOTP, and FIDO (WebAuthn). In addition, they'll share some of its shortcomings and how it can be improved."
+			"summary": "Caleb will discuss the core mechanisms of two-factor authentication, such as HOTP, TOTP, and FIDO (WebAuthn). In addition, they'll share some of its shortcomings and how it can be improved.",
+			"links": [
+				{
+					"url": "https://hashdumpsecurity.org/assets/presentations/Two-FactorAuthentication.pdf",
+					"name": "Presentation"
+				}
+			]
 		},
 		{
 			"date": "September 25th, 2024",
@@ -1107,7 +1113,13 @@
 			"time": "4:00 PM",
 			"title": "Virtual Private Networks",
 			"picture": "vpn-simple.png",
-			"summary": "Caleb will highlight some of the purposes of VPNs, why we use them, what they are good for, and what they aren't good for. Additionally, they'll take a look at some commercial VPN providers and where their claims fall short."
+			"summary": "Caleb will highlight some of the purposes of VPNs, why we use them, what they are good for, and what they aren't good for. Additionally, they'll take a look at some commercial VPN providers and where their claims fall short.",
+			"links": [
+				{
+					"url": "https://hashdumpsecurity.org/assets/presentations/VirtualPrivateNetworks.pdf",
+					"name": "Presentation"
+				}
+			]
 		},
 		{
 			"date": "November 6th, 2024",
