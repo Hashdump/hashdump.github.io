@@ -1070,6 +1070,10 @@
 			"summary": "Hashdump returns for our first meeting of the school year! Everett will discuss common exploits affecting large language models (LLMs) like ChatGPT and Bing Chat. Afterward, we will try to extract hidden information from an LLM in the online Gandalf activity.",
 			"links": [
 				{
+					"url": "/documents/llm-security.pdf",
+					"name": "Presentation"
+				},
+				{
 					"url": "https://gandalf.lakera.ai/gandalf",
 					"name": "Gandalf"
 				}
@@ -1083,7 +1087,7 @@
 			"summary": "Caleb will discuss the core mechanisms of two-factor authentication, such as HOTP, TOTP, and FIDO (WebAuthn). In addition, they'll share some of its shortcomings and how it can be improved.",
 			"links": [
 				{
-					"url": "https://hashdumpsecurity.org/assets/presentations/Two-FactorAuthentication.pdf",
+					"url": "/documents/Two-FactorAuthentication.pdf",
 					"name": "Presentation"
 				}
 			]
@@ -1116,7 +1120,7 @@
 			"summary": "Caleb will highlight some of the purposes of VPNs, why we use them, what they are good for, and what they aren't good for. Additionally, they'll take a look at some commercial VPN providers and where their claims fall short.",
 			"links": [
 				{
-					"url": "https://hashdumpsecurity.org/assets/presentations/VirtualPrivateNetworks.pdf",
+					"url": "/documents/VirtualPrivateNetworks.pdf",
 					"name": "Presentation"
 				}
 			]
