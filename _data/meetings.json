@@ -1096,7 +1096,7 @@
 			"date": "September 25th, 2024",
 			"time": "4:00 PM",
 			"title": "Bandit — OverTheWire",
-			"picture": "ssh.jpg",
+			"picture": "cli_example.png",
 			"summary": "Join Hashdump as we play the Bandit wargame by OverTheWire. We'll practice command-line skills in Linux and work to obtain hidden passwords from a remote server.",
 			"links": [
 				{
