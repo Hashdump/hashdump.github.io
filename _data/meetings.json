@@ -1135,9 +1135,26 @@
 		{
 			"date": "November 20th, 2024",
 			"time": "4:00 PM",
+			"title": "OverTheWire Krypton / Cyber Service Academy",
+			"picture": "website_security.jpg",
+			"summary": "We'll play the Krypton wargame from OverTheWire, which will task us with decrypting various ciphers to solve a series of challenges. Additionally, guest speaker Evan Anspach will give a short presentation on the Department of Defense Cyber Service Academy scholarship.",
+			"links": [
+				{
+					"url": "https://overthewire.org/wargames/krypton/",
+					"name": "OverTheWire: Krypton"
+				},
+				{
+					"url": "https://cybersecurity.colostate.edu/dod-cyber-scholarship-program/",
+					"name": "DoD Cyber Service Academy"
+				}
+			]
+		},
+		{
+			"date": "December 4th, 2024",
+			"time": "4:00 PM",
 			"title": "To Be Announced",
-			"picture": "blank.png",
-			"summary": ""
+			"picture": "meetingblank.jpg",
+			"summary": "Hashdump will meet once more as the semester draws to a close."
 		}
 	]
 }
