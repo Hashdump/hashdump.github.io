@@ -1152,9 +1152,9 @@
 		{
 			"date": "December 4th, 2024",
 			"time": "4:00 PM",
-			"title": "To Be Announced",
-			"picture": "meetingblank.jpg",
-			"summary": "Hashdump will meet once more as the semester draws to a close."
+			"title": "Disk Encryption",
+			"picture": "lock_circuit.png",
+			"summary": "Hashdump will meet once more as the semester draws to a close. We'll give an overview of disk encryption tools, including a look at the LUKS encryption standard on Linux."
 		}
 	]
 }
