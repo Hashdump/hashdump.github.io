@@ -1154,7 +1154,7 @@
 			"time": "4:00 PM",
 			"title": "Disk Encryption",
 			"picture": "lock_circuit.png",
-			"summary": "Hashdump will meet once more as the semester draws to a close. We'll give an overview of disk encryption tools, including a look at the LUKS encryption standard on Linux."
+			"summary": "Hashdump will meet once more as the semester draws to a close. We'll give an overview of disk encryption tools, including a brief look at the LUKS standard on Linux."
 		}
 	]
 }
