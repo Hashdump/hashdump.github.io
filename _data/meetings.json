@@ -1136,7 +1136,7 @@
 			"date": "November 20th, 2024",
 			"time": "4:00 PM",
 			"title": "OverTheWire Krypton / Cyber Service Academy",
-			"picture": "website_security.jpg",
+			"picture": "lock_circuit.png",
 			"summary": "We'll play the Krypton wargame from OverTheWire, which will task us with decrypting various ciphers to solve a series of challenges. Additionally, guest speaker Evan Anspach will give a short presentation on the Department of Defense Cyber Service Academy scholarship.",
 			"links": [
 				{
@@ -1153,8 +1153,21 @@
 			"date": "December 4th, 2024",
 			"time": "4:00 PM",
 			"title": "Disk Encryption",
-			"picture": "lock_circuit.png",
+			"picture": "Hard_disk.jpg",
 			"summary": "Hashdump will meet once more as the semester draws to a close. We'll give an overview of disk encryption tools, including a brief look at the LUKS standard on Linux."
+		},
+		{
+			"date": "January 28, 2025",
+			"time": "2:30 PM",
+			"title": "OverTheWire: Natas",
+			"picture": "website_security.jpg",
+			"summary": "For our first meeting of the semester, we'll play the OverTheWire Natas wargame, which tasks players to identify and exploit vulnerabilities in a web application.",
+			"links": [
+				{
+					"url": "https://overthewire.org/wargames/natas/",
+					"name": "OverTheWire: Natas"
+				}
+			]
 		}
 	]
 }
