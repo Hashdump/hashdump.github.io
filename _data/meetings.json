@@ -1173,7 +1173,7 @@
 			"date": "February 11, 2025",
 			"time": "2:30 PM",
 			"title": "Log4Shell",
-			"picture": "memz-trojan.jpg",
+			"picture": "Apache_Log4j_Logo_square.svg",
 			"summary": "Hashdump President Caleb will discuss the Log4Shell vulnerability, which allowed attackers to perform remote code execution against a large number of Java-based applications."
 		}
 	]
