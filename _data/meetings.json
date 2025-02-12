@@ -1174,7 +1174,13 @@
 			"time": "2:30 PM",
 			"title": "Log4Shell",
 			"picture": "Apache_Log4j_Logo_square.svg",
-			"summary": "Hashdump President Caleb will discuss the Log4Shell vulnerability, which allowed attackers to perform remote code execution against a large number of Java-based applications."
+			"summary": "Hashdump President Caleb will discuss the Log4Shell vulnerability, which allowed attackers to perform remote code execution against a large number of Java-based applications.",
+			"links": [
+				{
+					"url": "/documents/Log4Shell.pdf",
+					"name": "Presentation"
+				}
+			]
 		}
 	]
 }
