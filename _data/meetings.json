@@ -1188,6 +1188,12 @@
 			"title": "Post-Quantum Cryptography",
 			"picture": "quantum_chip.jpg",
 			"summary": "Caleb will give a presentation on post-quantum cryptography. Because encryption is used widely to ensure integrity and confidentiality of data, quantum-resistant encryption algorithms will become critical to ensure continued security as quantum computing progresses.",
-		}
+		        "links": [
+                                {
+                                       "url": "/documents/Post-QuantumCryptography.pdf",
+                                       "name": "Presentation"
+                                }
+                        ] 
+                }
 	]
 }
