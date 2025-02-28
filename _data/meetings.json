@@ -1194,6 +1194,13 @@
                                        "name": "Presentation"
                                 }
                         ] 
+                },
+		{
+			"date": "March 12, 2025",
+			"time": "5:00 PM",
+			"title": "To Be Announced",
+			"picture": "meetingblank.jpg",
+			"summary": "",
                 }
 	]
 }
