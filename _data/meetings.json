@@ -1198,9 +1198,24 @@
 		{
 			"date": "March 12, 2025",
 			"time": "5:00 PM",
+			"title": "Onion Routing",
+			"picture": "onions.jpg",
+			"summary": "We'll give a presentation about onion routing, the anonymous, encrypted communication technology that underpins the Tor network.",
+			"attrib": "Image was cropped from original by Stephen Ausmus of USDA ARS (public domain). <a href='https://commons.wikimedia.org/wiki/File:ARS_red_onion.jpg'>https://commons.wikimedia.org/wiki/File:ARS_red_onion.jpg</a>",
+		},
+		{
+			"date": "March 26, 2025",
+			"time": "5:00 PM",
 			"title": "To Be Announced",
 			"picture": "meetingblank.jpg",
 			"summary": "",
-                }
+		},
+		{
+			"date": "April 9, 2025",
+			"time": "5:00 PM",
+			"title": "To Be Announced",
+			"picture": "meetingblank.jpg",
+			"summary": "",
+		}
 	]
 }
