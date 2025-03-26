@@ -1206,12 +1206,25 @@
 		{
 			"date": "March 26, 2025",
 			"time": "5:00 PM",
+			"title": "Git Branching",
+			"picture": "snowy_tree.jpg",
+			"summary": "We'll play an online activity to demonstrate the basics of Git branches, which are an important tool for managing your code changes when using version control.",
+			"links": [
+				{
+					"url": "https://learngitbranching.js.org/",
+					"name": "Learn Git Branching"
+				}
+			]
+		},
+		{
+			"date": "April 9, 2025",
+			"time": "5:00 PM",
 			"title": "To Be Announced",
 			"picture": "meetingblank.jpg",
 			"summary": "",
 		},
 		{
-			"date": "April 9, 2025",
+			"date": "April 16, 2025",
 			"time": "5:00 PM",
 			"title": "To Be Announced",
 			"picture": "meetingblank.jpg",
