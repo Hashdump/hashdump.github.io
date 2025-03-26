@@ -1209,6 +1209,7 @@
 			"title": "Git Branching",
 			"picture": "snowy_tree.jpg",
 			"summary": "We'll play an online activity to demonstrate the basics of Git branches, which are an important tool for managing your code changes when using version control.",
+			"attrib": "Image: <a href='https://commons.wikimedia.org/wiki/File:Snowy_tree_(3293655397).jpg'>Snowy tree</a> by dave_7 licensed under <a href='https://creativecommons.org/licenses/by/2.0/deed.en'>Creative Commons Attribution 2.0 Generic</a>.",
 			"links": [
 				{
 					"url": "https://learngitbranching.js.org/",
