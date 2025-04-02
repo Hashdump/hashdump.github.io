@@ -1220,9 +1220,9 @@
 		{
 			"date": "April 9, 2025",
 			"time": "5:00 PM",
-			"title": "To Be Announced",
-			"picture": "meetingblank.jpg",
-			"summary": "",
+			"title": "Radio-Frequency IDentification (RFID) Activity",
+			"picture": "rfid-tags.jpg",
+			"summary": "Join Hashdump as we mess around with a variety of low-frequency and high-frequency RFID chips using the Proxmark 3! This meeting is intended to be a learning experience for all, so please come if you are interested. While supplies last, we will also have several types of RFID chips to give out to attendees.",
 		},
 		{
 			"date": "April 16, 2025",
@@ -1230,6 +1230,6 @@
 			"title": "To Be Announced",
 			"picture": "meetingblank.jpg",
 			"summary": "",
-		}
+		},
 	]
 }
