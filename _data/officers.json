@@ -2,39 +2,39 @@
 	"officers":[
 		{
 			"title": "President",
-			"email": "caleb.luzovich@colostate.edu",
-			"name": "Caleb Luzovich",
-			"picture": "caleb_luzovich.jpg",
-			"bio": "Hi there! I am a sophomore student pursuing a major in Computer Science. Security is a huge passion of mine, and I am especially fascinated by the tools and methods used to protect one's identity online. In my free time, I enjoy developing web applications and playing <em>some</em> video-games.",
+			"email": "Everett.Lewark@colostate.edu",
+			"name": "Everett Lewark",
+			"picture": "everett.jpg",
+			"bio": "I'm a graduate student in Computer Science who does research in distributed systems and big data. My hobbies include 3D modeling, electronic music, and game development.",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
 				"Lead meetings and delegate tasks to officers"
 			],
 			"pronouns": [
-				"they/them"
+				"he/him"
 			]
 		},
 		{
 			"title": "Secretary",
-			"email": "Everett.Lewark@colostate.edu",
-			"name": "Everett Lewark",
-			"picture": "everett.jpg",
-			"bio": "I'm a graduate student in Computer Science who does research in distributed systems and big data. My hobbies include 3D modeling, electronic music, and game development.",
+			"email": "luzovich@colostate.edu",
+			"name": "Autumn Luzovich",
+			"picture": "autumn_luzovich.jpg",
+			"bio": "Hi there! I am a sophomore student pursuing a major in Computer Science. Security is a huge passion of mine, and I am especially fascinated by the tools and methods used to protect one's identity online. In my free time, I enjoy developing web applications and playing <em>some</em> video-games.",
 			"responsibilities":[
 				"Take notes from meetings",
 				"Prepare and send weekly emails"
 			],
 			"pronouns": [
-				"he/him"
+				"they/them"
 			]
 		},
 		{
 			"title": "Treasurer",
-			"email": "eli.povolny@colostate.edu",
-			"name": "Eli Povolny",
-			"picture": "eli_povolny.jpg",
-			"bio": "I'm a sophomore majoring in Computer Science. I'm most interested in offensive security and security research. I also rock climb, so ask me about going up walls.",
+			"email": "@colostate.edu",
+			"name": "",
+			"picture": ".jpg",
+			"bio": "",
 			"responsibilities": [
 				"Create and maintain a budget",
 				"Make purchases and handle reimbursements",
