@@ -5,14 +5,11 @@
 			"email": "Everett.Lewark@colostate.edu",
 			"name": "Everett Lewark",
 			"picture": "everett.jpg",
-			"bio": "I'm a graduate student in Computer Science who does research in distributed systems and big data. My hobbies include 3D modeling, electronic music, and game development.",
+			"bio": "I'm a graduate student in the Computer Science program. My hobbies include 3D modeling, electronic music, and game development.",
 			"responsibilities": [
 				"Prepare topics for meetings",
 				"Contact companies and professors",
 				"Lead meetings and delegate tasks to officers"
-			],
-			"pronouns": [
-				"he/him"
 			]
 		},
 		{
