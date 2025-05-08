@@ -30,3 +30,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # https://www.adamsdesk.com/posts/jekyll-fix-cannot-load-such-file-json/
 gem "json"
+
+gem 'csv'
