@@ -28,14 +28,17 @@
 		},
 		{
 			"title": "Treasurer",
-			"email": "@colostate.edu",
-			"name": "",
-			"picture": ".jpg",
-			"bio": "",
+			"email": "semechki@colostate.edu",
+			"name": "Zoey Mikol",
+			"picture": "zoey.jpg",
+			"bio": "Hey! I'm a senior majoring in biochemistry and molecular biology. I'm quite passionate about personal security and privacy online, and my interests include cryptography and reverse engineering. In my free time, I like to write music and read about proteins.",
 			"responsibilities": [
 				"Create and maintain a budget",
 				"Make purchases and handle reimbursements",
 				"Apply for funding"
+			],
+			"pronouns": [
+				"she/her"
 			]
 		},
 		{
