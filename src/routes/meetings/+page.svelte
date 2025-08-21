@@ -5,7 +5,7 @@
   const currentDate = new Date();
 
   const upcomingMeetings = meetings.filter(item => new Date(item.date.replaceAll(/(st|nd|rd|th),/gu, "")) > currentDate);
-  const previousMeetings = meetings.filter(item => new Date(item.date.replaceAll(/(st|nd|rd|th),/gu, "")) < currentDate);
+  const previousMeetings = meetings.filter(item => new Date(item.date.replaceAll(/(st|nd|rd|th),/gu, "")) < currentDate).reverse();
 </script>
 
 <svelte:head>

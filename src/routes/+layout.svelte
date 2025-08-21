@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href="/images/logo.png" />
+	<link rel="icon" href="/favicon.ico" />
 </svelte:head>
 
 <Navigation />
