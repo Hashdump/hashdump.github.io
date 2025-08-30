@@ -1,5 +1,11 @@
 <script>
+  import Meeting from "$lib/Meeting.svelte";
+  import { meetings } from "../../data/meetings.json";
   import { news } from "../../data/news.json";
+
+  const currentDate = new Date();
+
+  const upcomingMeetings = meetings.filter(item => new Date(item.date.replaceAll(/(st|nd|rd|th),/gu, "")) > currentDate);
 </script>
 
 <svelte:head>
@@ -18,4 +24,10 @@
 {/each}
 
 <h2>Upcoming Meetings</h2>
-
+{#if upcomingMeetings.length > 0}
+  {#each upcomingMeetings as meeting}
+    <Meeting {...meeting} />
+  {/each}
+{:else}
+  <em>No upcoming meetings at this time...</em>
+{/if}

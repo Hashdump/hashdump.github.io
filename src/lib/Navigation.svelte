@@ -1,4 +1,9 @@
+<strong>Hashdump Security Club</strong>
+
 <ul>
+	<li>
+		<a href="/">Home</a>
+	</li>
 	<li>
 		<a href="/meetings">Meetings</a>
 	</li>
