@@ -1,6 +1,4 @@
 <script>
-	import { base } from "$app/paths";
-
 	import Navigation from "$lib/Navigation.svelte";
 	import Footer from "$lib/Footer.svelte";
 	
@@ -8,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href={base + "/favicon.ico"} />
+	<link rel="icon" href="/favicon.ico" />
 </svelte:head>
 
 <Navigation />

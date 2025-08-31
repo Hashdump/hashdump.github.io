@@ -6,7 +6,7 @@
 </script>
 
 <div>
-  <img src={"/images/" + picture} width="200" />
+  <img src={"/images/" + picture} width="200" alt={(attrib) || ""}/>
   <h3>{title}</h3>
   <em>{date}</em>
   <p>{@html summary}</p>

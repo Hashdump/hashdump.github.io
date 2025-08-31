@@ -1,6 +1,12 @@
-<div>
-  <h1>404</h1>
+<pre style="line-height: 1rem;">
+|\   ||                 ||          ||
+||   ||                 ||          ||
+|*===*|  *====*  /===-  ||===*  *===||  ||  ||  \\==..===*  *====*
+||   ||  ||  ||  \===\  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||
+||   \|  *===\\  -===/  ||  ||  *===\\  *===\\  ||  ||  ||  ||===*
+                                                            ||
+                                             Security Club  \|
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+
+You've reached our 404 page. You might have clicked on or entered a malformed link.
+</pre>

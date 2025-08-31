@@ -4,7 +4,7 @@
   const emailProtected = email.replace("@", " [at] ");
   const emailProtectedToNormal = `window.open('mailto:' + '${emailProtected}'.replace(' [at] ', '@'))`;
 
-  var pronounString;
+  var pronounString = $state();
 
   if (pronouns) {
 
