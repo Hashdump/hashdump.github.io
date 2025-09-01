@@ -47,6 +47,6 @@
   {/if}
   <em>Contact</em>
   <div>
-    {@html `<strong onClick="${emailProtectedToNormal}">${emailProtected}</strong>`}
+    {@html `<strong onClick="${emailProtectedToNormal}" class="link">${emailProtected}</strong>`}
   </div>
 </div>
