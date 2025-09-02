@@ -16,6 +16,7 @@ html {
 html.dark {
 	--primary-text: #fff;
 	--primary-background: #111;
+	--secondary-background: #333;
   --secondary-brand: #0018a3;
   --primary-brand: #7ac9f9;
 }
