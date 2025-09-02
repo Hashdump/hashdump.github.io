@@ -25,8 +25,8 @@
   }
 </script>
 
-<div>
-  <img src={"/images/officers/" + picture} width="200" alt={name} />
+<div class="officer">
+  <img src={"/images/officers/" + picture} alt={name} />
   <h2>
     {name}
     {#if pronouns}
@@ -50,3 +50,18 @@
     {@html `<strong onClick="${emailProtectedToNormal}" class="link">${emailProtected}</strong>`}
   </div>
 </div>
+
+<style>
+  .officer {
+    flex: 0 0 calc(50% - 1rem);
+  }
+  .officer img {
+    width: 50%;
+    border-radius: 50%;
+  }
+  @media screen and (max-width: 800px) {
+    .officer {
+      flex: unset;
+    }
+  }
+</style>

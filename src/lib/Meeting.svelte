@@ -5,8 +5,8 @@
   let showAttribution = $state(false);
 </script>
 
-<div>
-  <img src={"/images/" + picture} width="200" alt={(attrib) || ""}/>
+<div class="meeting">
+  <div style="background-image: url(/images/{picture});" alt={(attrib) || ""}></div>
   <h3>{title}</h3>
   <em>{date}</em>
   <p>{@html summary}</p>
@@ -30,3 +30,22 @@
     <p>{@html attrib}</p>
   {/if}
 </div>
+
+<style>
+  .meeting {
+    flex: 0 0 calc(50% - 1rem);
+  }
+  .meeting div {
+    width: 100%;
+    height: 256px;
+    background-position: center;
+    background-size: cover;
+  }
+  @media screen and (max-width: 800px) {
+    .meeting {
+      flex: unset;
+    }
+  }
+  @media screen and (max-width: 600px) {
+  }
+</style>

@@ -12,16 +12,31 @@
   <title>Meetings • Hashdump</title>
 </svelte:head>
 
-{#if upcomingMeetings.length > 0}
-  <h2>Upcoming Meetings</h2>
-  {#each upcomingMeetings as meeting}
-    <Meeting {...meeting} />
-  {/each}
-{/if}
+<div>
+  {#if upcomingMeetings.length > 0}
+    <h2>Upcoming Meetings</h2>
+    <hr>
+    <div>
+      {#each upcomingMeetings as meeting}
+        <Meeting {...meeting} />
+      {/each}
+    </div>
+  {/if}
+  {#if previousMeetings.length > 0}
+    <h2>Previous Meetings</h2>
+    <hr>
+    <div>
+      {#each previousMeetings as meeting}
+        <Meeting {...meeting} />
+      {/each}
+    </div>
+  {/if}
+</div>
 
-{#if previousMeetings.length > 0}
-  <h2>Previous Meetings</h2>
-  {#each previousMeetings as meeting}
-    <Meeting {...meeting} />
-  {/each}
-{/if}
+<style>
+  div div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+</style>

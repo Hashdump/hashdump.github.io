@@ -1,18 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
 
-body {
+html {
   --primary-text: #000;
-  --primary-background: #eee;
+  --secondary-text: #999;
+  --primary-background: #fff;
+  --secondary-background: #eee;
   --primary-brand: #0018a3;
-  
+  --secondary-brand: #7ac9f9;
+    
   color: var(--primary-text);
   font-family: "Red Hat Text";
   background-color: var(--primary-background);
 }
 
-body.darkMode {
+html.dark {
 	--primary-text: #fff;
-	--primary-background: #000;
+	--primary-background: #111;
+  --secondary-brand: #0018a3;
+  --primary-brand: #7ac9f9;
+}
+
+body {
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
