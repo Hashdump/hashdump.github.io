@@ -1,8 +1,5 @@
 {
     "news": [
-	{
-	    "content": "For those interested in a more involved CTF opportunity than the ones we've been hosting in meetings:<br><br> The University of New Haven’s Connecticut Institute of Technology, in collaboration with its Hacking Team, invites you to our virtual 3-day Capture the Flag competition on April 25 – 27, 2025. There will be $35,000+ worth of prizes from sponsors and many FREE giveaways. Challenges will range from introductory to advanced, and will include, but not limited to, digital forensics, OSINT, reverse engineering, cryptographic applications, and more. All are welcome to participate! If you are local, you may attend our in-person networking lunch on campus.  To register and join the event discord: <a href='https://ctf.cyber-cit.club' target='_blank'>https://ctf.cyber-cit.club</a>!"
-	},
         {
             "content": "Our meetings are on every other Wednesday from 5:00-6:00pm in CSB 305. All majors are welcome, no experience in cybersecurity necessary!  Connect with us over Discord!"
         }

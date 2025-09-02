@@ -32,3 +32,7 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "json"
 
 gem 'csv'
+
+gem "base64", "~> 0.3.0"
+
+gem "erb", "~> 5.0"
