@@ -1243,7 +1243,7 @@
 			"time": "5:00 PM",
 			"title": "Assembly Programming",
 			"picture": "Motorola_6800_Assembly_Language.png",
-			"summary": "Compilers and interpreters provide convenient abstractions, but how do computer programs really operate? Join us in an activity to learn some basics of assembly programming and machine language.",
+			"summary": "High level languages such as Java, C++, or Python provide convenient abstractions, but how do computer programs really operate? Join us in an activity to learn some basics of assembly programming and machine language.",
 			"attrib": "Image: <a href='https://commons.wikimedia.org/wiki/File:Motorola_6800_Assembly_Language.png'>Motorola 6800 Assembly Language</a> by Michael Holley. Public domain."
 		}
 	]
