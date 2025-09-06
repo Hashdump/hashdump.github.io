@@ -29,6 +29,7 @@
 	.main div {
 		max-width: 700px;
 		width: auto;
+		margin: 8px;
 	}
 	#toggleSidebar {
 		display: none;

@@ -15,7 +15,7 @@
 	<div>
 		<div class="title">
 		<h2>Hashdump<br> Security Club</h2>
-			<div class="icons" id="toggleSidebar">
+			<div class="" id="toggleSidebar">
 				{#if !showMenu}
 					<Button Icon={Menu} onclick={() => showMenu = !showMenu} />
 				{:else}
@@ -54,9 +54,8 @@
 	.navigation {
 		position: sticky;
 		top: 0px;
-		padding-bottom: 1rem;
 		background-color: var(--primary-background);
-		min-width: 200px;
+		min-width: 300px;
 		height: calc(100vh - 1rem);
 	}
 	.title {
@@ -65,35 +64,40 @@
 		justify-content: center;
 		align-items: center;
 		gap: 1rem;
+		padding: 8px;
 	}
 	ul {
-		outline: 2px solid var(--primary-text);
 		list-style-type: none;
 		padding-left: unset;
+		margin: 0px;
 		font-size: 18px;		
 	}
-	li a::before {
-		content: "|";
-		width: 0.1rem;
-		margin-right: 0.5rem;
-		background-color: var(--primary-background);
-		color: var(--primary-background);
-	}
-	li a:hover::before {
-		/* background-color: var(--secondary-brand); */
-		color: var(--primary-brand);
+	li {
+		display: flex;
+		height: 2rem;
 	}
 	li:has(> a[aria-current="true"]) {
 		background-color: var(--secondary-background);
 	}
-	li a[aria-current="true"]::before {
-		background-color: var(--primary-text);
-		color: var(--primary-text);
+	li:has(> a[aria-current="true"]) a::before {
+		content: "> ";
+		color: unset;
+	}
+	li:has(> a[aria-current="true"]) a::after {
+		content: " <";
+		color: unset;
+	}
+	li a {
+		text-align: center;
+		flex-grow: 1;
 	}
 	#toggleSidebar {
 		display: none;
 	}
 	.icons {
+		/* background-image: linear-gradient(var(--primary-background), #00000000); */
+		/* backdrop-filter: blur(1rem); */
+		padding: 0.75rem;
 		justify-content: center;
 	}
 	@media screen and (max-width: 600px) {
@@ -115,8 +119,14 @@
 		#toggleSidebar {
 			display: unset;
 		}
+		ul {
+			outline: 1px solid var(--secondary-text);
+			outline-left: unset;
+			outline-right: unset;
+		}
 		.icons {
-			justify-content: unset;
+			gap: 10%;
+			border-bottom: 1px solid var(--secondary-text);
 		}
 	}
 </style>

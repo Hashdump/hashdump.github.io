@@ -22,7 +22,7 @@ html.dark {
 }
 
 body {
-  margin-top: 0px;
+  margin: 0px;
   display: flex;
   justify-content: center;
 }
@@ -36,11 +36,20 @@ a, .link {
   color: var(--primary-brand);
   font-weight: 650;
   text-decoration: unset;
+  cursor: pointer;
+}
+
+a:hover, .link:hover {
+  color: var(--secondary-brand);
+}
+
+a[aria-current="true"]:hover {
+  color: unset;
 }
 
 .icons {
   display: flex;
-  gap: 0.5rem;
+  gap: 1rem;
 }
 
 .icons svg {
