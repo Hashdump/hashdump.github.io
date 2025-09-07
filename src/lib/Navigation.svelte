@@ -4,7 +4,6 @@
 	import { browser } from "$app/environment";
 	import { links } from "../../data/links.json";
 	import Contrast from "$lib/icons/Contrast.svelte";
-	import Button from "$lib/Button.svelte";
 
 	let showMenu = $state(false);
 </script>
