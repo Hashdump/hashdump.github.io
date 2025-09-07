@@ -17,13 +17,7 @@
 			"email": "luzovich@colostate.edu",
 			"name": "Autumn Luzovich",
 			"picture": "autumn_luzovich.jpg",
-<<<<<<< HEAD:data/officers.json
 			"bio": "Hi there! I am a junior pursuing a major in Computer Science. Security is a huge passion of mine, and I am especially fascinated by the tools and methods used to protect one's identity online. In my free time, I enjoy developing web applications and playing <em>some</em> video-games.",
-||||||| 40a12c8:_data/officers.json
-			"bio": "Hi there! I am a sophomore student pursuing a major in Computer Science. Security is a huge passion of mine, and I am especially fascinated by the tools and methods used to protect one's identity online. In my free time, I enjoy developing web applications and playing <em>some</em> video-games.",
-=======
-			"bio": "Hi there! I am a junior student pursuing a major in Computer Science. Security is a huge passion of mine, and I am especially fascinated by the tools and methods used to protect one's identity online. In my free time, I enjoy developing web applications and playing <em>some</em> video-games.",
->>>>>>> master:_data/officers.json
 			"responsibilities":[
 				"Take notes from meetings",
 				"Prepare and send weekly emails"
