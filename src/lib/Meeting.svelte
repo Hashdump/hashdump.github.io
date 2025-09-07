@@ -18,7 +18,7 @@
     <ul>
     {#each links as link}
       <li>
-        <a target="_blank" href={link.url}>{link.name}</a>
+        <a target="_blank" href={link.url} data-sveltekit-reload>{link.name}</a>
       </li>
     {/each}
     </ul>

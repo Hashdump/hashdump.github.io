@@ -24,12 +24,12 @@
 					<a href="/officers" class="menu-item" aria-current={page.url.pathname == "/officers"}>Officers</a>
 				</li>
 				<li>
-					<a href="/documents/Constitution.pdf" class="menu-item">Constitution</a>
+					<a href="/documents/Constitution.pdf" class="menu-item" data-sveltekit-reload>Constitution</a>
 				</li>
 				<li>
 					<div class="icons">
 						{#each links as { name, url, openInNewTab, svg }}
-							<a href={url} title={name} target={(openInNewTab) ? "_blank" : ""}>
+							<a href={url} title={name} target={(openInNewTab) ? "_blank" : ""} data-sveltekit-reload>
 								{@html svg}
 							</a>
 						{/each}
