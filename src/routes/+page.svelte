@@ -1,11 +1,9 @@
 <script>
   import Meeting from "$lib/Meeting.svelte";
-  import { meetings } from "../../data/meetings.json";
+  import { filterMeetings } from "$lib/meetings.mjs";
   import { news } from "../../data/news.json";
 
-  const currentDate = new Date();
-
-  const upcomingMeetings = meetings.filter(item => new Date(item.date.replaceAll(/(st|nd|rd|th),/gu, "")) > currentDate);
+  const { upcomingMeetings } = filterMeetings();
 </script>
 
 <svelte:head>

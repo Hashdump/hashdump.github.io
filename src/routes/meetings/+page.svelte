@@ -1,11 +1,8 @@
 <script>
   import Meeting from "$lib/Meeting.svelte";
-  import { meetings } from "../../../data/meetings.json";
+  import { filterMeetings } from "$lib/meetings.mjs";
 
-  const currentDate = new Date();
-
-  const upcomingMeetings = meetings.filter(item => new Date(item.date.replaceAll(/(st|nd|rd|th),/gu, "")) > currentDate);
-  const previousMeetings = meetings.filter(item => new Date(item.date.replaceAll(/(st|nd|rd|th),/gu, "")) < currentDate).reverse();
+  const { upcomingMeetings, previousMeetings } = filterMeetings();
 </script>
 
 <svelte:head>
@@ -25,7 +22,7 @@
   {#if previousMeetings.length > 0}
     <h2>Previous Meetings</h2>
     <div>
-      {#each previousMeetings as meeting}
+      {#each previousMeetings.reverse() as meeting}
         <Meeting {...meeting} />
       {/each}
     </div>
