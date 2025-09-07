@@ -12,7 +12,7 @@
 <div class="container">
   {#if upcomingMeetings.length > 0}
     <h2>Upcoming Meetings</h2>
-    <div>
+    <div class="meeting-grid">
       {#each upcomingMeetings as meeting}
         <Meeting {...meeting} />
       {/each}
@@ -21,7 +21,7 @@
   {/if}
   {#if previousMeetings.length > 0}
     <h2>Previous Meetings</h2>
-    <div>
+    <div class="meeting-grid">
       {#each previousMeetings.reverse() as meeting}
         <Meeting {...meeting} />
       {/each}
@@ -30,7 +30,7 @@
 </div>
 
 <style>
-  div div {
+  .meeting-grid {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
