@@ -1226,6 +1226,14 @@
       "title": "Game Night",
       "picture": "Nintendo.jpg",
       "summary": "For our final meeting of the semester, we'll be hosting another game night. Feel free to drop by if you want to join in or chat about cybsersecurity."
+    },
+    {
+      "date": "September 8, 2025",
+      "time": "5:00 PM",
+      "title": "Assembly Programming",
+      "picture": "Motorola_6800_Assembly_Language.png",
+      "summary": "High level languages such as Java, C++, or Python provide convenient abstractions, but how do computer programs really operate? Join us in an activity to learn some basics of assembly programming and machine language.",
+      "attrib": "Image: <a href='https://commons.wikimedia.org/wiki/File:Motorola_6800_Assembly_Language.png'>Motorola 6800 Assembly Language</a> by Michael Holley. Public domain."
     }
   ]
 }
