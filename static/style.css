@@ -1,58 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
-
-html {
-  --primary-text: #000;
-  --secondary-text: #999;
-  --primary-background: #fff;
-  --secondary-background: #eee;
-  --primary-brand: #0018a3;
-  --secondary-brand: #7ac9f9;
-    
-  color: var(--primary-text);
-  font-family: "Red Hat Text";
-  background-color: var(--primary-background);
-}
-
-html.dark {
-	--primary-text: #fff;
-	--primary-background: #111;
-	--secondary-background: #333;
-  --secondary-brand: #0018a3;
-  --primary-brand: #7ac9f9;
-}
-
-body {
-  margin: 0px;
-  display: flex;
-  justify-content: center;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Red Hat Display";
-  font-weight: 800;
-}
-
-a, .link {
-  color: var(--primary-brand);
-  font-weight: 650;
-  text-decoration: unset;
-  cursor: pointer;
-}
-
-a:hover, .link:hover {
-  color: var(--secondary-brand);
-}
-
-a[aria-current="true"]:hover {
-  color: unset;
-}
-
-.icons {
-  display: flex;
-  gap: 1rem;
-}
-
-.icons svg {
-  width: 1.8rem;
-  height: 1.8rem;
+html.dark body {
+  --background-color: #222225;
+  --font-color: #e8e9ed;
+  --invert-font-color: #222225;
+  --primary-color: #62c4ff;
+  --secondary-color: #a3abba;
+  --error-color: #ff3c74;
+  --progress-bar-background: #3f3f44;
+  --progress-bar-fill: #62c4ff;
+  --code-bg-color: var(--background-color);
+  --block-background-color: var(--code-bg-color);
 }

@@ -12,19 +12,18 @@
   <title>Meetings • Hashdump</title>
 </svelte:head>
 
-<div>
+<div class="container">
   {#if upcomingMeetings.length > 0}
     <h2>Upcoming Meetings</h2>
-    <hr>
     <div>
       {#each upcomingMeetings as meeting}
         <Meeting {...meeting} />
       {/each}
     </div>
+    <hr>
   {/if}
   {#if previousMeetings.length > 0}
     <h2>Previous Meetings</h2>
-    <hr>
     <div>
       {#each previousMeetings as meeting}
         <Meeting {...meeting} />

@@ -2,4 +2,9 @@
 	const copyrightYear = new Date().getFullYear();
 </script>
 
-<footer>&copy; {copyrightYear} - Hashdump Security</footer>
+<div class="container">
+	<hr>
+	<footer>
+		<p>&copy; {copyrightYear} - Hashdump Security</p>
+	</footer>
+</div>

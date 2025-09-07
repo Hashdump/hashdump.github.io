@@ -25,43 +25,60 @@
   }
 </script>
 
-<div class="officer">
-  <img src={"/images/officers/" + picture} alt={name} />
-  <h2>
-    {name}
-    {#if pronouns}
-      ({pronounString})
-    {/if}
-  </h2>
-  <em>{title}</em>
-  <p>{@html bio}</p>
-  {#if responsibilities}
-    <em>Responsibilities</em>
-    <ul>
-      {#each responsibilities as responsibility}
-        <li>
-          {responsibility}
-        </li>
-      {/each}
-    </ul>
-  {/if}
-  <em>Contact</em>
-  <div>
-    {@html `<strong onClick="${emailProtectedToNormal}" class="link">${emailProtected}</strong>`}
+<div class="terminal-media">
+  <div class="terminal-media-left">
+    <div class="terminal-media-avatarholder">
+      <img src={"/images/officers/" + picture} alt={name} />
+    </div>
+  </div>
+  <div class="terminal-media-body">
+    <div class="terminal-media-flex">
+      <div class="terminal-media-heading">
+        {name}
+        {#if pronouns}
+          ({pronounString})
+        {/if}
+      </div>
+      <div>/ {title}</div>
+    </div>
+    <div class="terminal-media-content">
+      <p>{@html bio}</p>
+      {#if responsibilities}
+        <em>Responsibilities</em>
+        <ul>
+          {#each responsibilities as responsibility}
+            <li>
+              {responsibility}
+            </li>
+          {/each}
+        </ul>
+      {/if}
+      <em>Contact</em>
+      <div>
+        {@html `<a onClick="${emailProtectedToNormal}">${emailProtected}</a>`}
+      </div>
+    </div>
   </div>
 </div>
 
 <style>
-  .officer {
-    flex: 0 0 calc(50% - 1rem);
+  .terminal-media img {
+    max-width: unset;
+    width: 200px;
+    height: 200px;
   }
-  .officer img {
-    width: 50%;
-    border-radius: 50%;
+  .terminal-media-flex {
+    display: flex;
+    gap: 1ex;
   }
-  @media screen and (max-width: 800px) {
-    .officer {
-      flex: unset;
+  @media screen and (max-width: 480px) {
+    .terminal-media {
+      display: flex;
+      flex-direction: column;
+    }
+    .terminal-media img {
+      width: 100%;
+      height: 100%;
     }
   }
 </style>

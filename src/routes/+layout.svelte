@@ -1,4 +1,5 @@
 <script>
+	import "terminal.css";
 	import { ModeWatcher } from "mode-watcher";
 	import Navigation from "$lib/Navigation.svelte";
 	import Footer from "$lib/Footer.svelte";
@@ -11,7 +12,7 @@
 	<link rel="stylesheet" href="/style.css" />
 </svelte:head>
 
-<div class="main">
+<div class="terminal">
 	<Navigation />
 	<div>
 		{@render children()}
@@ -19,27 +20,3 @@
 		<ModeWatcher />
 	</div>
 </div>
-
-<style>
-	.main {
-		max-width: 1000px;
-		display: flex;
-		gap: 1rem;
-	}
-	.main div {
-		max-width: 700px;
-		width: auto;
-		margin: 8px;
-	}
-	#toggleSidebar {
-		display: none;
-	}
-	@media screen and (max-width: 600px) {
-		.main {
-			display: unset;
-		}
-		#toggleSidebar {
-			display: unset:
-		}
-	}
-</style>
