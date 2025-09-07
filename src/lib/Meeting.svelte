@@ -41,7 +41,7 @@
 
 <style>
   .terminal-card {
-    flex: 0 0 calc(50% - 1rem);
+    flex: 0 0 calc(50% - 0.5rem);
   }
   .terminal-card figure {
     width: 100%;
@@ -52,7 +52,7 @@
   }
   @media screen and (max-width: 800px) {
     .terminal-card {
-      flex: unset;
+      flex: 0 0 100%;
     }
   }
 </style>
