@@ -24,10 +24,20 @@
 
   <h2>Upcoming Meetings</h2>
   {#if upcomingMeetings.length > 0}
-    {#each upcomingMeetings as meeting}
-      <Meeting {...meeting} />
-    {/each}
+    <div class="meeting-grid">
+      {#each upcomingMeetings as meeting}
+        <Meeting {...meeting} />
+      {/each}
+    </div>
   {:else}
     <em>No upcoming meetings at this time...</em>
   {/if}
 </div>
+
+<style>
+  .meeting-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+</style>
