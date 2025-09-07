@@ -6,7 +6,9 @@
 </script>
 
 <div class="terminal-card">
-  <figure style="background-image: url(/images/{picture});" alt={(attrib) || ""}></figure>
+  {#if picture}
+    <figure style="background-image: url(/images/{picture});" alt={(attrib) || ""}></figure>
+  {/if}
   <header>{title}</header>
   <div>
     <p>
