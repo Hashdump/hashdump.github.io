@@ -34,7 +34,9 @@
 								{@html svg}
 							</a>
 						{/each}
-						<a><Button Icon={Contrast} onclick={toggleMode} /></a>
+						<button onclick={toggleMode} aria-label="toggle light/dark mode">
+							<Contrast />
+						</button>
 					</div>
 				</li>
 			</ul>
@@ -46,5 +48,22 @@
 	.icons {
 		display: flex;
 		gap: 0.5rem;
+	}
+
+	.terminal-menu .icons button, .terminal-menu .icons a {
+		display: flex;
+	}
+
+	.icons button {
+		border: none;
+		cursor: pointer;
+		background-color: transparent;
+		padding: 0px;
+		margin: 0px;
+		color: var(--secondary-color);
+	}
+
+	.icons button:hover {
+		color: var(--font-color);
 	}
 </style>
