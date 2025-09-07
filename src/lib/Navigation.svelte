@@ -33,7 +33,7 @@
 								{@html svg}
 							</a>
 						{/each}
-						<button onclick={toggleMode} aria-label="toggle light/dark mode">
+						<button onclick={toggleMode} title="Toggle light/dark mode">
 							<Contrast />
 						</button>
 					</div>
