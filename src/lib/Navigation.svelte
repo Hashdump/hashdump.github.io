@@ -1,9 +1,10 @@
 <script>
-	import { toggleMode } from "mode-watcher";
+	import { toggleMode, mode } from "mode-watcher";
 	import { page } from "$app/state";
 	import { browser } from "$app/environment";
 	import { links } from "../../data/links.json";
-	import Contrast from "$lib/icons/Contrast.svelte";
+	import Moon from "$lib/icons/Moon.svelte";
+	import Sun from "$lib/icons/Sun.svelte";
 
 	let showMenu = $state(false);
 </script>
@@ -34,7 +35,11 @@
 							</a>
 						{/each}
 						<button onclick={toggleMode} title="Toggle light/dark mode">
-							<Contrast />
+							{#if mode.current == "dark"}
+								<Sun />
+							{:else}
+								<Moon />
+							{/if}
 						</button>
 					</div>
 				</li>
