@@ -1073,7 +1073,7 @@
       "time": "4:00 PM",
       "title": "Two-Factor Authentication",
       "picture": "2fa-breakdown.jpeg",
-      "summary": "Caleb will discuss the core mechanisms of two-factor authentication, such as HOTP, TOTP, and FIDO (WebAuthn). In addition, they'll share some of its shortcomings and how it can be improved.",
+      "summary": "Autumn will discuss the core mechanisms of two-factor authentication, such as HOTP, TOTP, and FIDO (WebAuthn). In addition, they'll share some of its shortcomings and how it can be improved.",
       "links": [
         {
           "url": "/documents/Two-FactorAuthentication.pdf",
@@ -1106,7 +1106,7 @@
       "time": "4:00 PM",
       "title": "Virtual Private Networks",
       "picture": "vpn-simple.png",
-      "summary": "Caleb will highlight some of the purposes of VPNs, why we use them, what they are good for, and what they aren't good for. Additionally, they'll take a look at some commercial VPN providers and where their claims fall short.",
+      "summary": "Autumn will highlight some of the purposes of VPNs, why we use them, what they are good for, and what they aren't good for. Additionally, they'll take a look at some commercial VPN providers and where their claims fall short.",
       "links": [
         {
           "url": "/documents/VirtualPrivateNetworks.pdf",
@@ -1163,7 +1163,7 @@
       "time": "2:30 PM",
       "title": "Log4Shell",
       "picture": "Apache_Log4j_Logo_square.svg",
-      "summary": "Hashdump President Caleb will discuss the Log4Shell vulnerability, which allowed attackers to perform remote code execution against a large number of Java-based applications.",
+      "summary": "Hashdump President Autumn will discuss the Log4Shell vulnerability, which allowed attackers to perform remote code execution against a large number of Java-based applications.",
       "links": [
         {
           "url": "/documents/Log4Shell.pdf",
@@ -1176,7 +1176,7 @@
       "time": "5:00 PM",
       "title": "Post-Quantum Cryptography",
       "picture": "quantum_chip.jpg",
-      "summary": "Caleb will give a presentation on post-quantum cryptography. Because encryption is used widely to ensure integrity and confidentiality of data, quantum-resistant encryption algorithms will become critical to ensure continued security as quantum computing progresses.",
+      "summary": "Autumn will give a presentation on post-quantum cryptography. Because encryption is used widely to ensure integrity and confidentiality of data, quantum-resistant encryption algorithms will become critical to ensure continued security as quantum computing progresses.",
       "links": [
         {
           "url": "/documents/Post-QuantumCryptography.pdf",
