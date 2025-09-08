@@ -19,10 +19,10 @@
 		<nav class="terminal-menu">
 			<ul>
 				<li>
-					<a href="/meetings" class="menu-item" aria-current={page.url.pathname == "/meetings"}>Meetings</a>
+					<a href="/meetings" class={(page.url.pathname == '/meetings/') ? 'menu-item active' : 'menu-item'}>Meetings</a>
 				</li>
 				<li>
-					<a href="/officers" class="menu-item" aria-current={page.url.pathname == "/officers"}>Officers</a>
+					<a href="/officers" class={(page.url.pathname == '/officers/') ? 'menu-item active' : 'menu-item'}>Officers</a>
 				</li>
 				<li>
 					<a href="/documents/Constitution.pdf" class="menu-item" data-sveltekit-reload>Constitution</a>

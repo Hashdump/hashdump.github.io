@@ -1,0 +1,60 @@
+{
+  "acknowledgements": [
+    {
+      "name": "Svelte",
+      "purpose": "Web UI framework",
+      "links": [
+        {
+          "url": "https://svelte.dev",
+          "name": "Website"
+        },
+        {
+          "url": "https://github.com/sveltejs/svelte",
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "name": "Terminal CSS",
+      "purpose": "Website stylesheet",
+      "links": [
+        {
+          "url": "https://terminalcss.xyz",
+          "name": "Website"
+        },
+        {
+          "url": "https://github.com/Gioni06/terminal.css",
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "name": "mode-watcher",
+      "purpose": "Simplistic theming system",
+      "links": [
+        {
+          "url": "https://mode-watcher.sveco.dev",
+          "name": "Website"
+        },
+        {
+          "url": "https://github.com/svecosystem/mode-watcher",
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "name": "Flowbite Icons",
+      "purpose": "Icon library",
+      "links": [
+        {
+          "url": "https://flowbite.com/icons/",
+          "name": "Website"
+        },
+        {
+          "url": "https://github.com/themesberg/flowbite-icons",
+          "name": "GitHub"
+        }
+      ]
+    }
+  ]
+}
