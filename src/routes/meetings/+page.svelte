@@ -10,6 +10,7 @@
 </svelte:head>
 
 <div class="container">
+  <h1>Meeting List</h1>
   {#if upcomingMeetings.length > 0}
     <h2>Upcoming Meetings</h2>
     <div class="meeting-grid">

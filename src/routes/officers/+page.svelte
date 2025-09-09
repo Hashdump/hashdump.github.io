@@ -9,7 +9,7 @@
 </svelte:head>
 
 <div class="container">
-  <h2>Current Officers</h2>
+  <h1>Current Officers</h1>
   <div>
     {#each officers as officer}
       <Officer {...officer} />
