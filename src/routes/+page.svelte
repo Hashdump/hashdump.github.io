@@ -13,7 +13,7 @@
 <div class="container">
   <div class="terminal-media">
     <div class="terminal-media-left">
-      <img src="/images/logo.png" alt="" id="logo" />
+      <img src="/images/logo.png" alt="" id="logo-main" />
     </div>
     <div class="terminal-media-body">
       <h1>Welcome to CSU's Hashdump Security Club</h1>
@@ -48,7 +48,7 @@
     gap: 1rem;
   }
 
-  #logo {
+  #logo-main {
     max-width: unset;
     width: 200px;
     height: unset;
@@ -60,17 +60,9 @@
       flex-direction: column;
     }
 
-    #logo {
-      width: 30%;
-      position: absolute;
-      top: 10px;
-      right: 10px;
-    }
-  }
-
-  @media screen and (max-width: 350px) {
-    #logo {
+    #logo-main {
       display: none;
     }
   }
+
 </style>

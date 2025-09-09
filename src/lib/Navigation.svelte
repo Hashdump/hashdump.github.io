@@ -46,6 +46,7 @@
 			</ul>
 		</nav>
 	</div>
+	<img src="/images/logo.png" alt="" id="logo-header" />
 </div>
 
 <style>
@@ -69,5 +70,19 @@
 
 	.icons button:hover {
 		color: var(--font-color);
+	}
+
+	#logo-header {
+		display: none;
+		position: absolute;
+		width: 30%;
+		top: 10px;
+		right: 10px;
+	}
+
+	@media screen and (min-width: 350px) and (max-width: 479px) {
+		#logo-header {
+			display: initial;
+		}
 	}
 </style>
