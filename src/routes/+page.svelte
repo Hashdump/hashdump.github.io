@@ -51,7 +51,7 @@
   #logo {
     max-width: unset;
     width: 200px;
-    height: 200px;
+    height: unset;
   }
 
   @media screen and (max-width: 479px) {
@@ -62,7 +62,6 @@
 
     #logo {
       width: 30%;
-      height: initial;
       position: absolute;
       top: 10px;
       right: 10px;
