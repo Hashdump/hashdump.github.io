@@ -11,9 +11,16 @@
 </svelte:head>
 
 <div class="container">
-  <h1>Welcome to CSU's Hashdump Security Club</h1>
-  <p>Our goal is to increase awareness of physical, social, and electronic security. Our club participates in various security competitions, hosts demos and workshops, and invites speakers to come and share some of their real world experiences. All majors are welcome to join and participate.</p>
-  <p>Want to get connected? Join our <a href="https://discord.gg/KfdWtGb">Discord</a> server!</p>
+  <div class="terminal-media">
+    <div class="terminal-media-left">
+      <img src="/images/logo.png" alt="" id="logo" />
+    </div>
+    <div class="terminal-media-body">
+      <h1>Welcome to CSU's Hashdump Security Club</h1>
+      <p>Our goal is to increase awareness of physical, social, and electronic security. Our club participates in various security competitions, hosts demos and workshops, and invites speakers to come and share some of their real world experiences. All majors are welcome to join and participate.</p>
+      <p>Want to get connected? Join our <a href="https://discord.gg/KfdWtGb">Discord</a> server!</p>
+    </div>
+  </div>
 
   <h2>Hashdump News</h2>
   {#each news as item}
@@ -39,5 +46,31 @@
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+  }
+
+  #logo {
+    max-width: unset;
+    width: 200px;
+    height: unset;
+  }
+
+  @media screen and (max-width: 479px) {
+    .terminal-media {
+      display: flex;
+      flex-direction: column;
+    }
+
+    #logo {
+      width: 30%;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+    }
+  }
+
+  @media screen and (max-width: 350px) {
+    #logo {
+      display: none;
+    }
   }
 </style>
