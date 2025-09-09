@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Not Found • Hashdump</title>
-  </head>
-  <body style="background-color: #20221f;color: white;">
+<div class="container">
+  <div class="terminal-alert terminal-alert-default">
     <pre style="line-height: 1rem;">
 |\   ||                 ||          ||
 ||   ||                 ||          ||
@@ -13,8 +9,21 @@
                                                             ||
                                              Security Club  \|
 
-
-You've reached our 404 page. You might have clicked on or entered a malformed link.
     </pre>
-  </body>
-</html>
+You've reached our 404 page. You might have clicked on or entered a malformed link.
+  </div>
+</div>
+
+<style>
+  pre {
+    color: unset;
+    border: unset;
+    padding: unset;
+    margin: unset;
+  }
+  @media screen and (max-width: 665px) {
+    pre {
+      display: none;
+    }
+  }
+</style>

@@ -1,0 +1,12 @@
+html.dark body {
+  --background-color: #222225;
+  --font-color: #e8e9ed;
+  --invert-font-color: #222225;
+  --primary-color: #62c4ff;
+  --secondary-color: #a3abba;
+  --error-color: #ff3c74;
+  --progress-bar-background: #3f3f44;
+  --progress-bar-fill: #62c4ff;
+  --code-bg-color: var(--background-color);
+  --block-background-color: var(--code-bg-color);
+}

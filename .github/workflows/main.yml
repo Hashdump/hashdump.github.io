@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: 'framework-transition'
+    branches: 'master'
 
   # Manual trigger option
   workflow_dispatch:
