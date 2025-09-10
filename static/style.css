@@ -13,5 +13,5 @@ html.dark body {
 
 h2 {
   font-weight: 500 !important;
-  font-style: italic !important;
+  text-decoration: underline !important;
 }
