@@ -91,10 +91,10 @@
 		  flex-direction: column;
 		  align-items: flex-start;
 		  margin-top: 0;
-    }
-    .terminal-menu li {
-    	margin: 0 0 0.5em;
-    }
+	  }
+	  .terminal-menu li {
+	  	margin: 0 0 0.5em;
+	  }
   }
 
 	@media screen and (min-width: 350px) and (max-width: 800px) {
