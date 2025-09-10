@@ -10,3 +10,8 @@ html.dark body {
   --code-bg-color: var(--background-color);
   --block-background-color: var(--code-bg-color);
 }
+
+h2 {
+  font-weight: 500 !important;
+  font-style: italic !important;
+}

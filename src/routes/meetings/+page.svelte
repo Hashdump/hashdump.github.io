@@ -21,7 +21,7 @@
     <hr>
   {/if}
   {#if previousMeetings.length > 0}
-    <h2>Previous Meetings</h2>
+    <h2>Upcoming Meetings</h2>
     <div class="meeting-grid">
       {#each previousMeetings.reverse() as meeting}
         <Meeting {...meeting} />
