@@ -54,7 +54,7 @@
     height: unset;
   }
 
-  @media screen and (max-width: 479px) {
+  @media screen and (max-width: 800px) {
     .terminal-media {
       display: flex;
       flex-direction: column;

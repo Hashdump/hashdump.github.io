@@ -76,11 +76,28 @@
 		display: none;
 		position: absolute;
 		width: 30%;
+		max-height: 181px;
+		max-width: 181px;
 		top: 10px;
 		right: 10px;
 	}
 
-	@media screen and (min-width: 350px) and (max-width: 479px) {
+	@media screen and (max-width: 800px) {
+		.terminal-nav {
+			flex-direction: column;
+			align-items: flex-start;
+		}
+		.terminal-menu ul {
+		  flex-direction: column;
+		  align-items: flex-start;
+		  margin-top: 0;
+    }
+    .terminal-menu li {
+    	margin: 0 0 0.5em;
+    }
+  }
+
+	@media screen and (min-width: 350px) and (max-width: 800px) {
 		#logo-header {
 			display: initial;
 		}
