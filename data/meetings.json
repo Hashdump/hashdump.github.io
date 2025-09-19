@@ -1233,7 +1233,21 @@
       "title": "Assembly Programming",
       "picture": "Motorola_6800_Assembly_Language.png",
       "summary": "High level languages such as Java, C++, or Python provide convenient abstractions, but how do computer programs really operate? Join us in an activity to learn some basics of assembly programming and machine language.",
-      "attrib": "Image: <a href='https://commons.wikimedia.org/wiki/File:Motorola_6800_Assembly_Language.png'>Motorola 6800 Assembly Language</a> by Michael Holley. Public domain."
+      "attrib": "Image: <a href='https://commons.wikimedia.org/wiki/File:Motorola_6800_Assembly_Language.png'>Motorola 6800 Assembly Language</a> by Michael Holley. Public domain.",
+      "notes": "Our meeting began a little after our scheduled time, and consisted of a brief technical presentation given by Everett along with an interactive assembly demo using Shenzhen I/O. We also had significantly more attendees than expected—somewhere around 15. Our meeting lasted until 6:45, longer than our scheduled end time of 6:00.",
+      "links": [
+        {
+          "url": "/documents/assembly-slides.pdf",
+          "name": "Presentation"
+        }
+      ]
+    },
+    {
+      "date": "September 22, 2025",
+      "time": "5:00 PM",
+      "title": "Reverse Engineering",
+      "picture": "ghidra.png",
+      "summary": "Building on top of our previous meeting, we will be using Ghidra, an open-source decompiler from the NSA which generates near one-to-one assembly from binaries. We'll be using what we learned two weeks ago to not only analyze programs and their functions, but to patch in custom values to reach otherwise unreachable parts of code."
     }
   ]
 }
