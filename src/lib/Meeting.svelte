@@ -1,5 +1,5 @@
 <script>
-  let { title, date, summary, picture, attrib, links, notes } = $props();
+  let { title, date, time, summary, picture, attrib, links, notes } = $props();
 
   let showMeetingNotes = $state(false);
   let showAttribution = $state(false);
@@ -13,6 +13,9 @@
   <div>
     <p>
       <em>{date}</em>
+      {#if time}
+        <em>at {time}</em>
+      {/if}
     </p>
     <p>{@html summary}</p>
     <ul>
