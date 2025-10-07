@@ -53,7 +53,7 @@
 </div>
 
 <style>
-  .news, .meeting-grid {
+  .meeting-grid {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
