@@ -1248,14 +1248,27 @@
       "title": "Reverse Engineering",
       "picture": "ghidra.png",
       "summary": "Building on top of our previous meeting, we will be using Ghidra, an open-source decompiler from the NSA which generates near one-to-one assembly from binaries. We'll be using what we learned two weeks ago to not only analyze programs and their functions, but to patch in custom values to reach otherwise unreachable parts of code.",
-      "notes": "Our meeting began on schedule, and a majority of the time was spent with VM setup and initialization. We did have some successes from meeting attendees who were able to overcome the download limitations of the CSU network — they were able to analyze a program and make modifications to its binary."
+      "notes": "Our meeting began on schedule, and a majority of the time was spent with VM setup and initialization. We did have some successes from meeting attendees who were able to overcome the download limitations of the CSU network — they were able to analyze a program and make modifications to its binary.",
+      "links": [
+        {
+          "url": "/documents/SoftwareReverseEngineering.pdf",
+          "name": "Presentation"
+        }
+      ]
     },
     {
       "date": "October 6, 2025",
       "time": "5:00 PM",
       "title": "Lockpicking",
       "picture": "lockpicking.jpg",
-      "summary": "After a nearly 7 year hiatus, we will be holding the ever-infamous Hashdump lockpicking session. We will have a variety of locks for you to try to open with supplied lockpicks. In addition, we'll also cover a variety of lock types and the design choices that are meant to make them more resistant to attacks. As always, feel free to bring any locks if you have any!"
+      "summary": "After a nearly 7 year hiatus, we will be holding the ever-infamous Hashdump lockpicking session. We will have a variety of locks for you to try to open with supplied lockpicks. In addition, we'll also cover a variety of lock types and the design choices that are meant to make them more resistant to attacks. As always, feel free to bring any locks if you have any!",
+      "notes": "Another relatively on-schedule meeting. We had some slight technical difficulties with getting the presentation loaded up but were all started around 5:05 PM and began the activity at around 5:15 PM. We had a slight shortage of lockpicks, particularly tension wrenches, so attendees had to share. Regardless, we were able to go around and help those who were stuck or had questions on the methods used to break into their particular lock.",
+      "links": [
+        {
+          "url": "/documents/Locks.pdf",
+          "name": "Presentation"
+        }
+      ]
     }
   ]
 }

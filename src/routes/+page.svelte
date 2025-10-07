@@ -24,9 +24,20 @@
 
   <h2>Hashdump News</h2>
   {#each news as item}
-    <div>
+    <blockquote>
       <p>{@html item.content}</p>
-    </div>
+      {#if item.links}
+        <footer>
+          <dl>
+            {#each item.links as link}
+              <dt>
+                <a href={link.url} target="_blank">{link.name}</a>
+              </dt>
+            {/each}
+          </dl>
+        </footer>
+      {/if}
+    </blockquote>
   {/each}
 
   <h2>Upcoming Meetings</h2>
@@ -42,7 +53,7 @@
 </div>
 
 <style>
-  .meeting-grid {
+  .news, .meeting-grid {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -54,6 +65,10 @@
     height: unset;
   }
 
+  blockquote footer dl {
+    margin-bottom: 0;
+  }
+  
   @media screen and (max-width: 800px) {
     .terminal-media {
       display: flex;
@@ -64,5 +79,4 @@
       display: none;
     }
   }
-
 </style>
