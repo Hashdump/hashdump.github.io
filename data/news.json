@@ -1,6 +1,7 @@
 {
     "news": [
         {
+            "title": "Splunk Worldwide BOTS Day Event",
             "content": "Splunk, a subsidiary of Cisco, will be holding their Worldwide BOTS Day on Halloween, October 31st, 2025. They will be hosting it in-person at their Boulder Office (3400 Valmont Rd #200, Boulder, CO 80301) but also have plans to host virtually as well. If you are at all interested, consider <a href='https://www.eventbrite.com/e/southwest-boss-of-the-soc-bots-fall-2025-tickets-1740906701809?aff=oddtdtcreator' target='_blank'>registering here</a>. This event is free to attend for those in cybersecurity, academia, or just interested in security and cybersecurity in general. Also, lunch will be provided. For more information about this event, please consult the following links:",
             "links": [
                 {
@@ -14,6 +15,7 @@
             ]
         },
         {
+            "title": "Hashdump Meeting Times",
             "content": "Our meetings are on every other Monday from 5:00-6:00pm in CSB 305. All majors are welcome, no experience in cybersecurity necessary!  Connect with us over Discord!"
         }
     ]

@@ -24,20 +24,19 @@
 
   <h2>Hashdump News</h2>
   {#each news as item}
-    <blockquote>
-      <p>{@html item.content}</p>
-      {#if item.links}
-        <footer>
-          <dl>
-            {#each item.links as link}
-              <dt>
-                <a href={link.url} target="_blank">{link.name}</a>
-              </dt>
-            {/each}
-          </dl>
-        </footer>
-      {/if}
-    </blockquote>
+    {#if news.length > 1}
+      <h3>{item.title}</h3>
+    {/if}
+    <p>{@html item.content}</p>
+    {#if item.links}
+      <ul>
+        {#each item.links as link}
+          <li>
+            <a href={link.url} target="_blank">{link.name}</a>
+          </li>
+        {/each}
+      </ul>
+    {/if}
   {/each}
 
   <h2>Upcoming Meetings</h2>
@@ -53,6 +52,10 @@
 </div>
 
 <style>
+  .terminal-media {
+    margin-bottom: 0 !important;
+  }
+  
   .meeting-grid {
     display: flex;
     flex-wrap: wrap;
@@ -65,10 +68,6 @@
     height: unset;
   }
 
-  blockquote footer dl {
-    margin-bottom: 0;
-  }
-  
   @media screen and (max-width: 800px) {
     .terminal-media {
       display: flex;
