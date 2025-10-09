@@ -11,7 +11,14 @@ html.dark body {
   --block-background-color: var(--code-bg-color);
 }
 
+h2, h3 {
+  font-weight: unset !important;
+}
+
 h2 {
-  font-weight: 500 !important;
   text-decoration: underline !important;
+}
+
+h3 {
+  font-style: italic !important;
 }

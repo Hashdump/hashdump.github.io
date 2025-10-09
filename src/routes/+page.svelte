@@ -24,9 +24,19 @@
 
   <h2>Hashdump News</h2>
   {#each news as item}
-    <div>
-      <p>{@html item.content}</p>
-    </div>
+    {#if news.length > 1}
+      <h3>{item.title}</h3>
+    {/if}
+    <p>{@html item.content}</p>
+    {#if item.links}
+      <ul>
+        {#each item.links as link}
+          <li>
+            <a href={link.url} target="_blank">{link.name}</a>
+          </li>
+        {/each}
+      </ul>
+    {/if}
   {/each}
 
   <h2>Upcoming Meetings</h2>
@@ -42,6 +52,10 @@
 </div>
 
 <style>
+  .terminal-media {
+    margin-bottom: 0 !important;
+  }
+  
   .meeting-grid {
     display: flex;
     flex-wrap: wrap;
@@ -64,5 +78,4 @@
       display: none;
     }
   }
-
 </style>
