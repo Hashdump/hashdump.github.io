@@ -1269,6 +1269,14 @@
           "name": "Presentation"
         }
       ]
+    },
+    {
+      "date": "October 20, 2025",
+      "time": "5:00 PM",
+      "title": "Self-Hosting",
+      "picture": "truenas-scale.jpg",
+      "summary": "Everett and Autumn will be giving a presentation on the wonderful world of self-hosting. As the name suggests, self-hosting is the act of maintaining your own localized replacement for popular services such as Google Drive, iCloud Keychain, GitHub, or Auth0. Common reasons for switching over include reduced costs and better data privacy. If you are interested in this subject, feel free to come by where we'll cover some common use-cases and how to implement scalable self-hosted infrastructure.",
+      "attrib": "Image: <a href='https://www.linuxmi.com/truenas-25-10-goldeye.html'>TrueNAS 25.10 “Goldeye” 即将发布：全新安装体验、AI 级性能提升与更强虚拟化能力</a> by Linux迷, 2025/8/20"
     }
   ]
 }
