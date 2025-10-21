@@ -1276,7 +1276,14 @@
       "title": "Self-Hosting",
       "picture": "truenas-scale.jpg",
       "summary": "Everett and Autumn will be giving a presentation on the wonderful world of self-hosting. As the name suggests, self-hosting is the act of maintaining your own localized replacement for popular services such as Google Drive, iCloud Keychain, GitHub, or Auth0. Common reasons for switching over include reduced costs and better data privacy. If you are interested in this subject, feel free to come by where we'll cover some common use-cases and how to implement scalable self-hosted infrastructure.",
-      "attrib": "Image: <a href='https://www.linuxmi.com/truenas-25-10-goldeye.html'>TrueNAS 25.10 “Goldeye” 即将发布：全新安装体验、AI 级性能提升与更强虚拟化能力</a> by Linux迷, 2025/8/20"
+      "attrib": "Image: <a href='https://www.linuxmi.com/truenas-25-10-goldeye.html'>TrueNAS 25.10 “Goldeye” 即将发布：全新安装体验、AI 级性能提升与更强虚拟化能力</a> by Linux迷, 2025/8/20",
+      "notes": "Meeting began on schedule today. Our initial presentation lasted around 40 minutes, then we moved onto the demonstration portion. We showcased a Gitea instance configured through an authentik server which was accessible through Cloudflare WARP. Unfortunately, the officer's reverse proxy for authentication (Autumn) yielded errors, so we were unable to demonstrate the configuration process on Everett's computer. However, we were able to show the stack on Autumn's computer, such as password recovery on an account through the authentik administrator interface, and ultimately create a new account using it on Gitea. Conclusively, after answering questions from attendees, the meeting ended at 6:15.",
+      "links": [
+        {
+          "url": "/documents/Self-Hosting.pdf",
+          "name": "Presentation"
+        }
+      ]
     }
   ]
 }
