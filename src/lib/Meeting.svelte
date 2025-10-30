@@ -1,6 +1,11 @@
 <script>
   let { title, date, time, summary, picture, attrib, links, notes } = $props();
 
+  if (Array.isArray(picture)) {
+
+    picture = picture[Math.floor(Math.random() * picture.length)];
+  }
+
   let showMeetingNotes = $state(false);
   let showAttribution = $state(false);
 </script>

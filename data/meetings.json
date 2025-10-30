@@ -1284,6 +1284,16 @@
           "name": "Presentation"
         }
       ]
+    },
+    {
+      "date": "November 3, 2025",
+      "time": "5:00 PM",
+      "title": "Biosecurity",
+      "picture": [
+        "spooky_virus_1.png",
+        "spooky_virus_2.png"
+      ],
+      "summary": "This meeting will be focused on the use of computational tools in biosecurity, specifically for design of (biological) virus machinery. Hashdump officer Zoey will briefly discuss the principles behind hijacking cells and then facilitate a live demo where you can design your own viral machinery (for non-evil purposes) using modern computational tools. Everything will be run in an online Google Colabs notebook, so no software installation is required! If this all sounds exciting (and spooky) to you, please drop by on Monday!"
     }
   ]
 }
