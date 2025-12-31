@@ -1295,6 +1295,22 @@
       ],
       "summary": "This meeting will be focused on the use of computational tools in biosecurity, specifically for design of (biological) virus machinery. Hashdump officer Zoey will briefly discuss the principles behind hijacking cells and then facilitate a live demo where you can design your own viral machinery (for non-evil purposes) using modern computational tools. Everything will be run in an online Google Colabs notebook, so no software installation is required! If this all sounds exciting (and spooky) to you, please drop by on Monday!",
       "notes": "We started the meeting a little later to account for others who might've not shown up yet. The meeting began with Zoey giving an overview of what proteins are and how viruses use their spike proteins to enter a host cell. About 20 minutes was designated towards explaining that process, then a 30 minute interactive activity occurred where attendees used a Google Colab interactive python notebook to prototype spike proteins for a virus of their choice using generative machine learning models. They then put these prototypes through AlphaFold, another machine-learning model, to check whether their designed spike protein is likely to bind the cell receptor. The meeting ended with some remarks of what the next steps would be, and discussion of the medical applications of designed viruses, like killing of cancer cells and gene/drug delivery."
+    },
+    {
+      "date": "November 17, 2025",
+      "time": "5:00 PM",
+      "title": "General Practice CTFs",
+      "picture": "lock_circuit.png",
+      "summary": "If you're interested in more general-practice CTFs and other security-tangential sessions, this meeting we will be covering a variety of resources that can help you improve your skills and familiarity.",
+      "notes": "Due to the semester winding down, a fair portion of the time was spent in discussion while some was in more interactive security activities. Regardless, the meeting started on-time and with no other contingencies."
+    },
+    {
+      "date": "December 8, 2025",
+      "time": "5:00 PM",
+      "title": "End-of-Semester Game Night",
+      "picture": "Nintendo.jpg",
+      "summary": "Join us as we take off some of the stress this semester by playing a variety of games!",
+      "notes": "This time, we played Broken Picturephone and Gartic Phone, of which resulted in many wonderful photos. You can view them <a href='/game-night/hashdump_2025-12-08.tar.gz' target='_blank'>here</a>."
     }
   ]
 }
