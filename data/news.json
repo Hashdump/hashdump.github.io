@@ -3,6 +3,10 @@
         {
             "title": "Hashdump Meeting Times",
             "content": "Our meetings are on every other Monday from 5:00-6:00pm in CSB 305. All majors are welcome, no experience in cybersecurity necessary!  Connect with us over Discord!"
+        },
+        {
+            "title": "Mountain West Cyber Challenge",
+            "content": "The Mountain West Cyber Challenge is a Capture the Flag (CTF) competition happening later this month. Registration closes January 6th, with the event taking place January 10th over Zoom. For more information, see the <a href=\"https://cvent.me/4MQm0O\">competition website</a>."
         }
     ]
 }
