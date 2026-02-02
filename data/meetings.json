@@ -1316,6 +1316,7 @@
       "date": "February 2, 2026",
       "time": "5:00 PM",
       "title": "Steganography",
+      "picture": "steganography.jpg",
       "summary": "Join us for our first meeting of the semester! We'll be having a presentation on digital steganography and hidden information, including printer tracking dots and the EURion constellation for copy protection."
     }
   ]
