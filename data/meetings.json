@@ -1317,7 +1317,15 @@
       "time": "5:00 PM",
       "title": "Steganography",
       "picture": "steganography.jpg",
-      "summary": "Join us for our first meeting of the semester! We'll be having a presentation on digital steganography and hidden information, including printer tracking dots and the EURion constellation for copy protection."
+      "summary": "Join us for our first meeting of the semester! We'll be having a presentation on digital steganography and hidden information, including printer tracking dots and the EURion constellation for copy protection.",
+      "notes": "We began our first meeting of the semester promptly, and delved into the presentation made by Everett. We covered a variety of means of steganography, particularly how they are used to track you. We finished our meeting by showcasing printer tracking dots and used a program to hide steganographic data in images, which could optionally be encrypted."
+    },
+    {
+      "date": "February 16, 2026",
+      "time": "5:00 PM",
+      "title": "Wireshark",
+      "picture": "wireshark.jpeg",
+      "summary": "We will be once again hosting an explorative session on Wireshark. Wireshark is an open-source program which allows you to examine packet transfers. In this meeting, we'll see how it can be used to monitor Internet traffic coming through your computer and from some wireless devices."
     }
   ]
 }
