@@ -1325,7 +1325,13 @@
       "time": "5:00 PM",
       "title": "Wireshark",
       "picture": "wireshark.jpeg",
-      "summary": "We will be once again hosting an explorative session on Wireshark. Wireshark is an open-source program which allows you to examine packet transfers. In this meeting, we'll see how it can be used to monitor Internet traffic coming through your computer and from some wireless devices."
+      "summary": "We will be once again hosting an explorative session on Wireshark. Wireshark is an open-source program which allows you to examine packet transfers. In this meeting, we'll see how it can be used to monitor Internet traffic coming through your computer and from some wireless devices.",
+      "links": [
+        {
+          "url": "/documents/wireshark-example.zip",
+          "name": "Activity Files"
+        }
+      ]
     }
   ]
 }
