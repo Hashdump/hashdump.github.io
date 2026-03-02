@@ -1326,10 +1326,24 @@
       "title": "Wireshark",
       "picture": "wireshark.jpeg",
       "summary": "We will be once again hosting an explorative session on Wireshark. Wireshark is an open-source program which allows you to examine packet transfers. In this meeting, we'll see how it can be used to monitor Internet traffic coming through your computer and from some wireless devices.",
+      "notes": "Our meeting began promptly after configuring Wireshark in a Kali Linux VM for the demonstration. We showcased how one would be able to filter traffic, intercept and decrypt HTTPS connections using a MITM proxy, and play-back VOIP packet data with the application.",
       "links": [
         {
           "url": "/documents/wireshark-example.zip",
           "name": "Activity Files"
+        }
+      ]
+    },
+    {
+      "date": "March 2, 2026",
+      "time": "5:00 PM",
+      "title": "Cryptography — Part 1",
+      "picture": "encryption-cryptography-card.png",
+      "summary": "Cryptography is a foundational mechanic that underlies most modern computing systems. Without it, much of our technology today wouldn't be possible. But how does it work? In this several-part series, we'll examine the parts of cryptography that make it tick. For this meeting, we'll start at its core — modular arithmetic and ciphers.",
+      "links": [
+        {
+          "url": "/documents/cryptography-pt1-practice.pdf",
+          "name": "Practice Problems"
         }
       ]
     }
