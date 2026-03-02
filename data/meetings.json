@@ -1333,6 +1333,19 @@
           "name": "Activity Files"
         }
       ]
+    },
+    {
+      "date": "March 2, 2026",
+      "time": "5:00 PM",
+      "title": "Cryptography — Part 1",
+      "picture": "encryption-cryptography-card.png",
+      "summary": "Cryptography is a foundational mechanic that underlies most modern computing systems. Without it, much of our technology today wouldn't be possible. But how does it work? In this several-part series, we'll examine the parts of cryptography that make it tick. For this meeting, we'll start at its core — modular arithmetic and ciphers.",
+      "links": [
+        {
+          "url": "/documents/cryptography-pt1-practice.pdf",
+          "name": "Practice Problems"
+        }
+      ]
     }
   ]
 }
