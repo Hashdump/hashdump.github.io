@@ -1346,6 +1346,26 @@
           "name": "Practice Problems"
         }
       ]
+    },
+    {
+      "date": "March 30, 2026",
+      "time": "5:00 PM",
+      "title": "OverTheWire — Bandit",
+      "picture": "cli_example.png",
+      "summary": "We will be playing Bandit, an OverTheWire wargame that requires you to find a secret password within a Linux server in increasingly challenging ways. While the games are aimed for beginners, they are a great way to improve your command-line and Linux filesystem familiarity!",
+      "links": [
+        {
+          "url": "https://overthewire.org/wargames/bandit/",
+          "name": "Bandit wargame"
+        }
+      ]
+    },
+    {
+      "date": "April 13, 2026",
+      "time": "5:00 PM",
+      "title": "Cryptography — Part 2 & Officer Elections",
+      "picture": "officer-elections.jpg",
+      "summary": "In a continuation of the series, we will be showcasing more sophisticated cryptosystems — particularly RSA and ECC. These are commonly used in modern cybersecurity. We will not only discuss how they work but also why they are hard to crack on standard computing hardware. In addition, we'll be holding yearly officer elections. If you are interested in helping maintain Hashdump, consider running for a position!"
     }
   ]
 }
