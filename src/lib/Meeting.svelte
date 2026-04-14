@@ -1,10 +1,17 @@
+<!-- svelte-ignore -->
 <script>
   let { title, date, time, summary, picture, attrib, links, notes } = $props();
 
-  if (Array.isArray(picture)) {
+  const getPicture = () => {
+    if (Array.isArray(picture)) {
 
-    picture = picture[Math.floor(Math.random() * picture.length)];
-  }
+      // Pick random image to show if array provided
+      // Initially used for Halloween season (spooky)
+      return picture[Math.floor(Math.random() * picture.length)];
+    } else {
+      return picture;
+    }
+  };
 
   let showMeetingNotes = $state(false);
   let showAttribution = $state(false);
@@ -12,7 +19,7 @@
 
 <div class="terminal-card">
   {#if picture}
-    <figure style="background-image: url(/images/{picture});" alt={(attrib) || ""}></figure>
+    <figure style="background-image: url(/images/{getPicture()});" alt={(attrib) || ""}></figure>
   {/if}
   <header>{title}</header>
   <div>

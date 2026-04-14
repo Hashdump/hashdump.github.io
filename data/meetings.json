@@ -1342,6 +1342,10 @@
       "summary": "Cryptography is a foundational mechanic that underlies most modern computing systems. Without it, much of our technology today wouldn't be possible. But how does it work? In this several-part series, we'll examine the parts of cryptography that make it tick. For this meeting, we'll start at its core — modular arithmetic and ciphers.",
       "links": [
         {
+          "url": "/documents/CryptographyPart1.pdf",
+          "name": "Presentation"
+        },
+        {
           "url": "/documents/cryptography-pt1-practice.pdf",
           "name": "Practice Problems"
         }
@@ -1365,7 +1369,14 @@
       "time": "5:00 PM",
       "title": "Cryptography — Part 2 & Officer Elections",
       "picture": "officer-elections.jpg",
-      "summary": "In a continuation of the series, we will be showcasing more sophisticated cryptosystems — particularly RSA and ECC. These are commonly used in modern cybersecurity. We will not only discuss how they work but also why they are hard to crack on standard computing hardware. In addition, we'll be holding yearly officer elections. If you are interested in helping maintain Hashdump, consider running for a position!"
+      "summary": "In a continuation of the series, we will be showcasing more sophisticated cryptosystems — particularly RSA and ECC. These are commonly used in modern cybersecurity. We will not only discuss how they work but also why they are hard to crack on standard computing hardware. In addition, we'll be holding yearly officer elections. If you are interested in helping maintain Hashdump, consider running for a position!",
+      "notes": "Our meeting began about 5 minutes late and started off with elections, of which we found a replacement for Zoey's role. They will be learning more about the Treasurer position in the upcoming months. Everett will be continuing the role of President, and Autumn as Secretary. We continued our cryptography series by discussing the fundamentals of RSA and why it's strong, along with ECC and why it's strong. We ended the meeting 5 minutes early to leave time for administrative duties and a closing cryptography Q&A.",
+      "links": [
+        {
+          "url": "/documents/CryptographyPart2.pdf",
+          "name": "Presentation"
+        }
+      ]
     }
   ]
 }
