@@ -13,7 +13,7 @@
 <div class="container">
   <div class="terminal-media">
     <div class="terminal-media-left">
-      <img src="/images/logo.png" alt="" id="logo-main" />
+      <img src="/images/logo.svg" alt="Hashdump logo" id="logo-main" />
     </div>
     <div class="terminal-media-body">
       <h1>Welcome to CSU's Hashdump Security Club</h1>

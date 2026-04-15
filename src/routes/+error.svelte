@@ -20,6 +20,8 @@ You've reached our 404 page. You might have clicked on or entered a malformed li
     border: unset;
     padding: unset;
     margin: unset;
+    
+    font-variant-ligatures: none;
   }
   @media screen and (max-width: 665px) {
     pre {
