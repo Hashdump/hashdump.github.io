@@ -1,3 +1,8 @@
+body {
+  --font-stack: monospace;
+  --mono-font-stack: monospace;
+}
+
 html.dark body {
   --background-color: #222225;
   --font-color: #e8e9ed;
