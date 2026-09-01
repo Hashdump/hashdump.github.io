@@ -1384,6 +1384,13 @@
       "title": "LLMs & Cybersecurity",
       "picture": "chatgpt-ascii-art.png",
       "summary": "We will be examining the intersection between Large Language Models (LLMs) and cybersecurity. This will include discussions about context security that reduces illegal acts, how sophisticated models can be used to uncover zero-day exploits, and the safeguarding of those models from bad-actors."
+    },
+    {
+      "date": "September 2, 2026",
+      "time": "6:30 PM",
+      "title": "Phishing",
+      "picture": "gone-phishing-boat.png",
+      "summary": "Welcome back to the Fall semester! In this meeting, we'll cover different forms of phishing attacks, from digital means to physical ones. One of our officers will also cover a sophiscated phishing attack they experienced in the wild."
     }
   ]
 }
