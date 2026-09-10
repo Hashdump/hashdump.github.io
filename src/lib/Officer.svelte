@@ -28,7 +28,11 @@
 <div class="terminal-media">
   <div class="terminal-media-left">
     <div class="terminal-media-avatarholder">
-      <img src={"/images/officers/" + picture} alt={name} />
+      {#if picture}
+        <img src={"/images/officers/" + picture} alt={name} />
+      {:else}
+        <div></div>
+      {/if}
     </div>
   </div>
   <div class="terminal-media-body">
@@ -67,6 +71,11 @@
     width: 200px;
     height: 200px;
   }
+  .terminal-media-avatarholder > div {
+    border: 2px black solid;
+    width: 200px;
+    height: 200px;
+  }
   .terminal-media-flex {
     display: flex;
     gap: 1ex;
@@ -79,6 +88,9 @@
     .terminal-media img {
       width: 100%;
       height: 100%;
+    }
+    .terminal-media-avatarholder > div {
+      display: none;
     }
   }
 </style>
