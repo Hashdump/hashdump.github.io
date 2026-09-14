@@ -72,7 +72,6 @@
     height: 200px;
   }
   .terminal-media-avatarholder > div {
-    border: 2px black solid;
     width: 200px;
     height: 200px;
   }
