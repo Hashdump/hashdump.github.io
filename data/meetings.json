@@ -1118,7 +1118,7 @@
       "date": "November 6th, 2024",
       "time": "4:00 PM",
       "title": "Guest Speaker — Griffin Opp",
-      "picture": "Workiva-Logo-Steel-Display.png",
+      "picture": "Workiva_Logo-Digital-Steel.png",
       "summary": "Guest speaker Griffin Opp is a security engineer at Workiva and is responsible for conducting their technical interviews and reviewing resumes this year. He will be going over the interview process and do some resume workshopping! He is also planning to bring in some DEF CON stickers for those who are interested!"
     },
     {
@@ -1391,6 +1391,13 @@
       "title": "Phishing",
       "picture": "gone-phishing-boat.png",
       "summary": "Welcome back to the Fall semester! In this meeting, we'll cover different forms of phishing attacks, from digital means to physical ones. One of our officers will also cover a sophisticated phishing attack they experienced in the wild."
+    },
+    {
+      "date": "September 16, 2026",
+      "time": "6:30 PM",
+      "title": "Guest Speaker — Griffin Opp",
+      "picture": "Workiva_Logo-Digital-Steel.png",
+      "summary": "Guest speaker Griffin Opp is a Senior Security Engineer at Workiva and will be sharing career path advice, his qualifications, and also be giving pointers on technical resumes. As more of the field in computer science becomes AI-driven, understanding how to navigate it has become increasingly important."
     }
   ]
 }
