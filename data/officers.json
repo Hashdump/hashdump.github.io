@@ -27,12 +27,17 @@
 		},
 		{
 			"title": "Treasurer",
-			"email": "c837780728@colostate.edu",
+			"email": "Kel.Becker@colostate.edu",
 			"name": "Kel Becker",
+			"picture": "kel.jpg",
+			"bio": "CompSci major with a business minor, hobbies include gaming, music, and tinkering with anything from computer hardware to game bugs.",
 			"responsibilities": [
 				"Create and maintain a budget",
 				"Make purchases and handle reimbursements",
 				"Apply for funding"
+			],
+			"pronouns": [
+				"Any"
 			]
 		},
 		{
