@@ -1398,6 +1398,13 @@
       "title": "Guest Speaker — Griffin Opp",
       "picture": "Workiva_Logo-Digital-Steel.png",
       "summary": "Guest speaker Griffin Opp is a Senior Security Engineer at Workiva and will be sharing career path advice, his qualifications, and also be giving pointers on technical resumes. As more of the field in computer science becomes AI-driven, understanding how to navigate it has become increasingly important."
+    },
+    {
+      "date": "September 30, 2026",
+      "time": "6:30 PM",
+      "title": "Virtual Private Networks",
+      "picture": "vpn-simple.png",
+      "summary": "Virtual Private Networks (VPNs) are talked about a lot in public media and in online advertisements. But, how effective are they in actuality? In this meeting, we'll demystify and debunk common use cases and functionalities of VPNs: how they work, when and why they work, and how to avoid common pitfalls when it comes to misconceptions."
     }
   ]
 }
