@@ -1411,6 +1411,14 @@
           "name": "Presentation"
         }
       ]
+    },
+    {
+      "date": "October 14, 2026",
+      "time": "6:30 PM",
+      "title": "Supply Chain Attacks",
+      "picture": "toucan.jpg",
+      "attrib": "Image: <a href='https://commons.wikimedia.org/wiki/File:Toucan_Parque-das-Aves.jpg'>Toucan in the Parque das Aves in Foz do Iguaçu, Brazil</a> by Acediscovery. Public domain.",
+      "summary": "Supply Chains are important in the world of software, where heavily-used libraries and frameworks become the backbone of other projects. But what happens when one of these foundational parts become compromised? Enter the world of supply chain attacks. Just because the code in your program is safe doesn't mean its dependencies are. Join us for an overview of supply chain attacks and a demonstration of the XZ Utils backdoor, which is one of the most famous ones."
     }
   ]
 }
