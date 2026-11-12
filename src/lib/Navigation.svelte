@@ -25,9 +25,6 @@
 					<a href="/officers" class={(page.url.pathname == '/officers/') ? 'menu-item active' : 'menu-item'}>Officers</a>
 				</li>
 				<li>
-					<a href="/documents/ProposedConstitution.pdf" class="menu-item" data-sveltekit-reload>Proposed Constitution</a>
-				</li>
-				<li>
 					<a href="/documents/Constitution.pdf" class="menu-item" data-sveltekit-reload>Constitution</a>
 				</li>
 				<li>
