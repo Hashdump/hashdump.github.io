@@ -14,10 +14,9 @@
     <li>Clarify that alumni members were previously active members of the organization</li>
     <li>Reorder officer positions for consistency</li>
     <li>Clarify that the terms Treasurer and Financial Officer refer to the same position</li>
-    <li>Divide officer election section into subsections</li>
-    <li>Allow officers to serve partial terms lasting less than a school year, and introduce a resignation mechanism, with two weeks advance notice requested when possible if the President or Treasurer resign</li>
+    <li>Allow officers to serve partial terms lasting less than a school year, and introduce a resignation mechanism, with a resigning President or Treasurer needing to provide two weeks advance notice if possible</li>
     <li>Allow ad-hoc officer elections midway through the school year to fill vacant seats, with one week advance notice to club members</li>
-    <li>Adjust language about advisor requirements (be staff, faculty, or an approved graduate student) to match language in the model constitution</li>
+    <li>Adjust language about advisor requirements (be staff, faculty, or an approved graduate student) to be closer to language in the current model constitution</li>
     <li>Remove the requirement that the advisor attend two regular business meetings per month, thereby making their attendance optional</li>
     <li>Update references to CSU offices (Division of IT; Systems and Network Administration; and Student Leadership, Involvement &amp; Community Engagement)</li>
     <li>Correct inconsistencies in Bylaws and Unapproved Actions section headings</li>
