@@ -114,7 +114,7 @@
 
 <h3>Section 2: Qualifications</h3>
 
-<p>The advisor must be a <del>CSU faculty/staff member</del><ins>recognized Colorado State University employee as a faculty or staff member,</ins> or graduate student (with <del>a </del>consent <del>form </del>from their academic advisor) who has an interest in serving as an advisor.</p>
+<p>The advisor must be a <del>CSU faculty/staff member</del><ins>recognized Colorado State University employee as a faculty or staff member,</ins> or graduate student (with <del>a</del> consent <del>form</del> from their academic advisor) who has an interest in serving as an advisor.</p>
 
 <h3>Section 3: Duties</h3>
 
