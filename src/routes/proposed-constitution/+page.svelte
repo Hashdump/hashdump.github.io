@@ -63,11 +63,11 @@
 <h3>Section 2: Duties of Officers</h3>
 
 <dl>
-    <dt>President:</dt> <dd>The job of the President is to prepare topics for every meeting and/or contact companies and<del> </del><ins>/</ins>or professors who can discuss varying topics related to security.</dd>
+    <dt>President:</dt> <dd>The job of the President is to prepare topics for every meeting and/or contact companies and<ins>/</ins>or professors who can discuss varying topics related to security.</dd>
 
     <dt>Vice-president:</dt> <dd>It is the job of the Vice-President to assist the President with <del>his/her</del><ins>their</ins> tasks.</dd>
 
-    <ins><dt>Treasurer:</dt> <dd>It is the job of the Treasurer to handle reimbursements, balance the budget, accept dues and apply for funding (such as travel grants, sponsorship, etc.).</dd></ins>
+    <dt><ins>Treasurer:</ins></dt> <dd><ins>It is the job of the Treasurer to handle reimbursements, balance the budget, accept dues and apply for funding (such as travel grants, sponsorship, etc.).</ins></dd>
 
     <dt>Secretary:</dt> <dd>It is the <del>duty</del><ins>job</ins> of the Secretary to generate topic information, generate member lists<ins>,</ins> and log minutes for every meeting. This information should be sent to the Webmaster so topic information can be updated on the website.</dd>
 
@@ -75,7 +75,7 @@
 
     <dt>Systems Administrator:</dt> <dd>It is the job of the Systems Administrator to maintain the club’s server by keeping it up to date with the latest security patches, and ensuring smooth operation of the website and other resources.</dd>
 
-    <del><dt>Treasurer:</dt> <dd>It is the job of the Treasurer to handle reimbursements, balance the budget, accept dues and apply for funding (such as travel grants, sponsorship etc.).</dd></del>
+    <dt><del>Treasurer:</del></dt> <dd><del>It is the job of the Treasurer to handle reimbursements, balance the budget, accept dues and apply for funding (such as travel grants, sponsorship etc.).</del></dd>
 </dl>
 
 <h3>Section 3: Election of Officers</h3>
