@@ -8,7 +8,7 @@
 <p>This draft document shows proposed changes to the Hashdump Constitution as of <b>November 11th, 2026</b>. A summary of the changes is as follows:</p>
 
 <ul>
-    <li>Replace references to <q>Security Club</q> with them more commonly-used name <q>Hashdump</q> or <q>Hashdump Security Club</q></li>
+    <li>Replace references to <q>Security Club</q> with the more commonly-used name <q>Hashdump</q> or <q>Hashdump Security Club</q></li>
     <li>Replace the abbreviation CSU with the full name Colorado State University where applicable</li>
     <li>Make pronoun usage consistent across the document</li>
     <li>Clarify that alumni members were previously active members of the organization</li>
