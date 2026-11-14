@@ -1438,10 +1438,10 @@
       "time": "6:30 PM",
       "title": "Reverse Software Engineering With Ghidra",
       "picture": "ghidra.png",
-      "summary": "In this meeting, we'll be hosting an interactive session on Ghidra, a Software Reverse Engineer framework. This tool, developed by the NSA, allows for thorough examination of the inner-workings of already compiled binaries, and most notably, provides a C-based abstraction layer for improved readability of the assembly counterpart. We're planning on doing all of our demonstration through a VM running Kali Linux.<br><br>In addition, we'll be unveiling our <a href='/documents/ProposedConstitution.pdf' target='_blank'>proposed edits</a> to our club's constitution. This is an important guiding document for our club and it has not been revised since Hashdump's creation in 2012. We'll be setting some time from our meeting to discuss these proposed changes with attendees.",
+      "summary": "In this meeting, we'll be hosting an interactive session on Ghidra, a Software Reverse Engineer framework. This tool, developed by the NSA, allows for thorough examination of the inner-workings of already compiled binaries, and most notably, provides a C-based abstraction layer for improved readability of the assembly counterpart. We're planning on doing all of our demonstration through a VM running Kali Linux.<br><br>In addition, we'll be unveiling our <a href=\"/proposed-constitution\">proposed edits</a> to our club's constitution. This is an important guiding document for our club and it has not been revised since Hashdump's creation in 2012. We'll be setting some time from our meeting to discuss these proposed changes with attendees.",
       "links": [
         {
-          "url": "/documents/ProposedConstitution.pdf",
+          "url": "/proposed-constitution",
           "name": "Proposed Constitution"
         }
       ]
@@ -1451,10 +1451,10 @@
       "time": "6:30 PM",
       "title": "Game Night / Proposed Constitution Vote",
       "picture": "lock_circuit.png",
-      "summary": "Our final meeting of the semester! As per club tradition, this will be a game night, along with a formal vote of the <a href='/documents/ProposedConstitution.pdf' target='_blank'>proposed edits</a> to our club's constitution. We plan to hold this somewhere around 6:45 PM to allow ample time for active members to arrive, and will tally votes up across both in-person and online voting forms. After this, we will hold our game night as planned.",
+      "summary": "Our final meeting of the semester! As per club tradition, this will be a game night, along with a formal vote of the <a href=\"/proposed-constitution\">proposed edits</a> to our club's constitution. We plan to hold this somewhere around 6:45 PM to allow ample time for active members to arrive, and will tally votes up across both in-person and online voting forms. After this, we will hold our game night as planned.",
       "links": [
         {
-          "url": "/documents/ProposedConstitution.pdf",
+          "url": "/proposed-constitution",
           "name": "Proposed Constitution"
         }
       ]
