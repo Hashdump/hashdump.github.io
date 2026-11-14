@@ -5,7 +5,26 @@
 <div class="container">
 <h1>Proposed Constitution</h1>
 
-<p>This draft document shows proposed changes to the Hashdump Constitution as of <b>November 11th, 2026</b>. Removed text is <del>struck through in pink</del>, while additions are <ins>underlined in yellow</ins>.</p>
+<p>This draft document shows proposed changes to the Hashdump Constitution as of <b>November 11th, 2026</b>. A summary of the changes is as follows:</p>
+
+<ul>
+    <li>Replace references to <q>Security Club</q> with them more commonly-used name <q>Hashdump</q> or <q>Hashdump Security Club</q></li>
+    <li>Replace the abbreviation CSU with the full name Colorado State University where applicable</li>
+    <li>Make pronoun usage consistent across the document</li>
+    <li>Clarify that alumni members were previously active members of the organization</li>
+    <li>Reorder officer positions for consistency</li>
+    <li>Clarify that the terms Treasurer and Financial Officer refer to the same position</li>
+    <li>Divide officer election section into subsections</li>
+    <li>Allow officers to serve partial terms lasting less than a school year, and introduce a resignation mechanism, with two weeks advance notice requested when possible if the President or Treasurer resign</li>
+    <li>Allow ad-hoc officer elections midway through the school year to fill vacant seats, with one week advance notice to club members</li>
+    <li>Adjust language about advisor requirements (be staff, faculty, or an approved graduate student) to match language in the model constitution</li>
+    <li>Remove the requirement that the advisor attend two regular business meetings per month, thereby making their attendance optional</li>
+    <li>Update references to CSU offices (Division of IT; Systems and Network Administration; and Student Leadership, Involvement &amp; Community Engagement)</li>
+    <li>Correct inconsistencies in Bylaws and Unapproved Actions section headings</li>
+    <li>Make overall tweaks to grammar and formatting</li>
+</ul>
+
+<p>For the remainder of this document, removed text is <del>struck through in pink</del>, while additions are <ins>underlined in yellow</ins>.</p>
 
 <h2>ARTICLE I - NAME</h2>
 
