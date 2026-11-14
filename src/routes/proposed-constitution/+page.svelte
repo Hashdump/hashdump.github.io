@@ -3,7 +3,7 @@
 </svelte:head>
 
 <div class="container">
-<h1 class="regular">Constitution</h1>
+<h1>Proposed Constitution</h1>
 
 <p>This draft document shows proposed changes to the Hashdump Constitution as of <b>November 11th, 2026</b>. Removed text is <del>struck through in pink</del>, while additions are <ins>underlined in yellow</ins>.</p>
 
