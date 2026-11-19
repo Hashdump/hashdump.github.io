@@ -175,8 +175,6 @@
 
 <style>
     .container {
-        // color: black;
-        // background-color: white;
         font-family: sans-serif;
         padding-bottom: 20px;
     }
