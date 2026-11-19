@@ -5,7 +5,7 @@
 <div class="container">
 <h1>Proposed Constitution</h1>
 
-<p>This draft document shows proposed changes to the Hashdump Constitution as of <b>November 11th, 2026</b>. A summary of the changes is as follows:</p>
+<p>This draft document shows proposed changes to the Hashdump Constitution as of <b>November 11th, 2026</b>. The PDF version can be viewed <a href="/documents/ProposedConstitution.pdf" target="_blank">here</a>. A summary of the changes is as follows:</p>
 
 <ul>
     <li>Replace references to <q>Security Club</q> with the more commonly-used name <q>Hashdump</q> or <q>Hashdump Security Club</q></li>
@@ -176,7 +176,6 @@
 <style>
     .container {
         font-family: sans-serif;
-        padding-bottom: 20px;
     }
     .container h1 {
         font-size: 22pt;
