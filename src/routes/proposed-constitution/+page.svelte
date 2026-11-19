@@ -175,8 +175,8 @@
 
 <style>
     .container {
-        color: black;
-        background-color: white;
+        // color: black;
+        // background-color: white;
         font-family: sans-serif;
         padding-bottom: 20px;
     }
@@ -204,6 +204,11 @@
     }
     .container ins {
         background-color: yellow;
+    }
+    .container {
+        & del, & ins {
+            color: #151515;
+        }
     }
     .container dt {
         font-weight: bold;
